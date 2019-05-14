@@ -43,11 +43,12 @@
   }) }}
   <!-- Google Analytics -->
   {{ partial('google_analytics') }}
+
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-6482217598104186",
-          enable_page_level_ads: true
-     });
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-9055212255210230",
+      enable_page_level_ads: true
+    });
   </script>
 </head>
