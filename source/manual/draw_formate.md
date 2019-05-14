@@ -2,7 +2,7 @@
 title: 格式面板
 ---
 
- ![格式面板](/docs/themes/freedgo/draw_formate.png "格式面板") 
+ ![格式面板](/public/themes/freedgo/draw_formate.png "格式面板") 
  
 ## 格式面板
  
@@ -15,20 +15,20 @@ title: 格式面板
 
 现在让我们来看看应用纯色背景的过程。按下白色块按钮后，会出现一个彩色图表屏幕。
 
-![格式面板](/docs/themes/freedgo/draw_formate1.png "格式面板") 
+![格式面板](/public/themes/freedgo/draw_formate1.png "格式面板") 
 
 
 您可以使用精细分级的颜色图表或其下方较粗糙的颜色图表来选择背景颜色。如果您使用精细分级的颜色图表，请注意，一旦您进行了选择，就可以使用主图表右侧的滑块非常精确地调整颜色。
 
 文本字段将显示当前选定颜色的三种原色成分(红、绿、蓝)的十六进制表示。默认选择是白色。一旦您对自己的选择满意，请按"应用"将背景设置为该颜色。下面我们选择了深绿色背景。
 
- ![背景](/docs/themes/freedgo/draw_formate2.png "背景") 
+ ![背景](/public/themes/freedgo/draw_formate2.png "背景") 
 
 ###	数学排版
 
 此选项允许在文档属性中进行数学排版，允许用户使用AsciiMath或LaTeX创建数学公式和方程式。MathJax用于渲染。默认情况下，数学排版是禁用的，并且仅当图表包含数学排版时才应启用，因为它会影响渲染性能和导出的图像质量。支持所有导出格式(SVG除外)。为了说明这是如何工作的，这里有一个数学公式的例子,例子是LaTeX格式: \(\sqrt{3×-1}+(1+x)^2\)
 
- ![数学排版](/docs/themes/freedgo/draw_formate3.png "数学排版") 
+ ![数学排版](/public/themes/freedgo/draw_formate3.png "数学排版") 
   
 ###	页面尺寸设置
 

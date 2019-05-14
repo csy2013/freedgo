@@ -119,7 +119,7 @@ hexo.extend.filter.register('after_generate', function(){
 
 ### template_locals
 
-Modify [local variables](../docs/variables.html) in templates.
+Modify [local variables](../public/variables.html) in templates.
 
 For example, to add the current time to the local variables of templates:
 

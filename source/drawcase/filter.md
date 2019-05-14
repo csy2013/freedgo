@@ -119,7 +119,7 @@ hexo.extend.filter.register('after_generate', function(){
 
 ### template_locals
 
-修改模板的 [局部变量](../docs/variables.html)。
+修改模板的 [局部变量](../public/variables.html)。
 
 举例来说，在模板的局部变量中新增当前时间：
 

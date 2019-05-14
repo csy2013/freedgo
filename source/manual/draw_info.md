@@ -2,7 +2,7 @@
 title: 页面概览
 ---
 
- ![页面概览](/docs/themes/freedgo/draw_info.png "页面概览") 
+ ![页面概览](/public/themes/freedgo/draw_info.png "页面概览") 
  
  
 ## 菜单
@@ -35,7 +35,7 @@ title: 页面概览
 
 单击`菜单栏`上的`视图`菜单为我们提供了许多自定义用户视图的方法。
 
- ![查看选项](/docs/themes/freedgo/draw_info1.png "查看选项") 
+ ![查看选项](/public/themes/freedgo/draw_info1.png "查看选项") 
 
 #### 格式面板
 
@@ -47,7 +47,7 @@ title: 页面概览
 
 包含在蓝色框架中的微型页面部分对应于您在主页中看到的内容。`工具栏`上也提供了该功能。同样，您可以右键单击并拖动主页，并观察`大纲视图`的变化。
 
-![缩略图](/docs/themes/freedgo/draw_info2.png "缩略图") 
+![缩略图](/public/themes/freedgo/draw_info2.png "缩略图") 
 
 #### 图层
 
@@ -74,7 +74,7 @@ title: 页面概览
 
 默认情况下，在工作区域周围移动符号时，每当中心轴或边缘与附近的另一个形状对齐时，都会自动显示辅助线。这是为了使符号更容易相互对齐。在下面的示例中，用户正在拖动一个矩形；它的边缘当前与另一个矩形的中心轴对齐。
 
-![向导](/docs/themes/freedgo/draw_info3.png "向导") 
+![向导](/public/themes/freedgo/draw_info3.png "向导") 
 
 切换此勾选框可打开和关闭向导。该选项也可以在格式面板中切换。
 
@@ -83,7 +83,7 @@ title: 页面概览
 默认情况下，将鼠标悬停在符号上会显示该符号的连接点(见下图)，从而更容易将连接器连接到符号上。切换此勾选框可打开和关闭此功能。
 该选项也可以在格式面板中切换
 
-![向导](/docs/themes/freedgo/draw_info4.png "向导") 
+![向导](/public/themes/freedgo/draw_info4.png "向导") 
  
 ####	放大
 

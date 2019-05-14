@@ -9,4 +9,4 @@ title: 超级会员
 ### 成为超级会员
 在线订购会员产品,登录在线制图 [登录页](https://www.freedgo.com/login.html "在线制图")
 
-![成为超级会员](/docs/themes/freedgo/getvipuser.png "成为超级会员")
+![成为超级会员](/public/themes/freedgo/getvipuser.png "成为超级会员")

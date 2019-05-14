@@ -7,7 +7,7 @@ language: en
 timezone: UTC
 
 url: https://www.freedgo.com
-root: /docs
+root: /public
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code

@@ -2,7 +2,7 @@
 title: 文本选项
 ---
 
- ![文本选项](/docs/themes/freedgo/text-option.png "文本选项") 
+ ![文本选项](/public/themes/freedgo/text-option.png "文本选项") 
  
 文本选项卡用于配置文本设置。第一部分`字体`涉及字体、文本对齐方式和文本大小，以及粗体、斜体和下划线的常用选项
 
@@ -10,7 +10,7 @@ title: 文本选项
  
  每个选项都通过勾选相关框来启用，此时会出现一个颜色块按钮。按下此按钮将显示一个彩色图表屏幕。
   
-  ![文本选项](/docs/themes/freedgo/text-option1.png "文本选项") 
+  ![文本选项](/public/themes/freedgo/text-option1.png "文本选项") 
   
  您可以使用`精细分级`的颜色图表或其下方较粗糙的颜色图表来选择背景颜色。如果您使用精细分级的颜色图表，请注意，一旦您进行了选择，就可以使用主图表右侧的滑块非常精确地调整颜色。
  
@@ -18,15 +18,15 @@ title: 文本选项
  
  一旦您对自己的选择满意，请按`应用`来设置颜色。请注意，颜色块按钮会改变颜色以反映您的选择。
  
-  ![文本选项](/docs/themes/freedgo/text-option2.png "文本选项")  
+  ![文本选项](/public/themes/freedgo/text-option2.png "文本选项")  
  
   
  接下来的选项是自动换行和文本格式。启用自动换行意味着当文本到达文本框的边缘时(如下面的虚线所示)，它会将own拖放到下一行。将此与上面禁用自动换行的文本进行对比。
  
-  ![文本选项](/docs/themes/freedgo/text-option4.png "文本选项")  
+  ![文本选项](/public/themes/freedgo/text-option4.png "文本选项")  
   
  下一个文本选项允许您改变文本的不透明度，这与透明度相反。不透明度为100%的文本根本不透明，而不透明度为0%的文本是完全透明的。在这里，我们展示了与以前相同的文本，同样的黄色背景，但不透明度为30%。
  
-  ![文本选项](/docs/themes/freedgo/text-option3.png "文本选项")   
+  ![文本选项](/public/themes/freedgo/text-option3.png "文本选项")   
    
  最后，我们有间隔。这允许我们以相对于文本框的不同偏移量显示文本。下面，我们看到默认文本框上方和右侧有一个30磅的偏移量

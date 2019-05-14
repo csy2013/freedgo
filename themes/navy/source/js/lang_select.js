@@ -6,7 +6,7 @@
   function changeLang() {
     var lang = this.value;
     var canonical = this.dataset.canonical;
-    var path = '/docs/';
+    var path = '/public/';
     if (lang !== 'en') path += lang + '/';
 
     Cookies.set('nf_lang', lang, { expires: 365 });

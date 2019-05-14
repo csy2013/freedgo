@@ -5,4 +5,4 @@ title: 普通会员
 ### 成为普通会员
 在线订购会员产品,登录在线制图 [登录页](https://www.freedgo.com/login.html "在线制图")
 
-![成为会员](/docs/themes/freedgo/getuser.png "成为会员")
+![成为会员](/public/themes/freedgo/getuser.png "成为会员")
