@@ -91,7 +91,7 @@ hexo.extend.helper.register('url_for_lang', function(path) {
   var lang = this.page.lang;
   var url = this.url_for(path);
   if (lang !== 'en' && url[0] === '/') url = this.config.root+ '/' + lang + url;
-  console.log(url)
+
   return url;
 });
 
@@ -136,7 +136,6 @@ hexo.extend.helper.register('canonical_path_for_nav', function() {
   if (startsWith(path, 'site/') || startsWith(path, 'manual/')||startsWith(path, 'drawcase/')) {
     return path;
   }
-  console.log('path:'+path)
   return '';
 
 });
