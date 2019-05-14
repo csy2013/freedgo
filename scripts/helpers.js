@@ -90,7 +90,9 @@ hexo.extend.helper.register('canonical_url', function(lang) {
 hexo.extend.helper.register('url_for_lang', function(path) {
   var lang = this.page.lang;
   var url = this.url_for(path);
-  if (lang !== 'en' && url[0] === '/') url = this.config.root+ '/' + lang + url;
+  if (lang !== 'en' && url[0] === '/') {
+    url = this.config.root + lang + path;
+  }
 
   return url;
 });
