@@ -1,0 +1,98 @@
+site:
+  getting_started:
+    overview: index.html
+  user:
+    visitor_user: visitor.html
+    register_user: register_user.html
+    user: user.html
+    vip_user: vip_user.html
+  guide:
+    email_register: email_register.html
+    weixin_register: weixin_register.html
+    qq_register: qq_register.html
+    weibo_register: weibo_register.html
+    password_update: password_update.html
+    email_update: email_update.html
+    internationalization: plugins.html
+    miscellaneous: plugins.html
+    troubleshooting: plugins.html
+    hot_key: plugins.html
+manual:
+  file_use:
+   my_file: my_file.html
+   open_file: open_file.html
+   create_file: create_file.html
+   save_file: save_file.html
+  online_draw:
+    login_draw: login_draw.html
+    draw_info: draw_info.html
+    draw_formate: draw_formate.html
+  custom_draw:
+    style_option: style_option.html
+    text_option: text_option.html
+    rang_option: rang_option.html
+  draw_school:
+    create_draw: create_draw.html
+    rang_draw: rang_draw.html
+    link_draw: link_draw.html
+    export_draw: export_draw.html
+  vip_draw:
+    use_metadata: use_metadata.html
+    shape_edit: shape_edit.html
+    use_layer: use_layer.html
+drawcase:
+  overview:
+   show_case: index.html
+  uml:
+    uml_class: index.html
+    uml_user_case: events.html
+    uml_activity: locals.html
+    uml_component: router.html
+    uml_package: box.html
+    uml_sequence: rendering.html
+    urml_erd: posts.html
+  business_design:
+    bpmn: console.html
+    organization: deployer.html
+    epc: filter.html
+    generator: generator.html
+  workflow:
+    generic_workflow: deployer.html
+    swimlane_workflow: deployer.html
+    sdl_workflow: deployer.html
+    audit_workflow: deployer.html
+  ux:
+    ux_ios: deployer.html
+    ux_android: deployer.html
+    ux_bootstrap: deployer.html
+  cloud:
+    cloud_aliyun: filter.html
+    cloud_tencent: filter.html
+    cloud_aws: filter.html
+    cloud_oracle: filter.html
+    cloud_ibm: filter.html
+    cloud_azure: filter.html
+    cloud_google: filter.html
+  plane:
+    floorplan: filter.html
+    homeoffice: filter.html
+    workoffice: filter.html
+    livingroom: filter.html
+    kitchen: filter.html
+    diningroom: filter.html
+    bathroom: filter.html
+  network:
+    network_deploy: filter.html
+    network_rack: filter.html
+  project:
+    basic_electrical: filter.html
+    logic_electrical: filter.html
+    circuit_electrical: filter.html
+    wiring_electrical: filter.html
+    process_flow_electrical: filter.html
+    p&id: filter.html
+  other:
+    other_generic: filter.html
+    tqm: filter.html
+    archimate: filter.html
+    itil: filter.html

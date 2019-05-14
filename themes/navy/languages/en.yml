@@ -1,0 +1,130 @@
+menu:
+  site: Docs
+  manual: Manual
+  drawcase: Drawcase
+  news: News
+  search: Search
+
+index:
+  get_started: Get started
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  site:
+    getting_started: Getting Started
+    overview: Overview
+    setup: Setup
+    configuration: Configuration
+    commands: Commands
+    migration: Migration
+    basic_usage: Basic Usage
+    writing: Writing
+    front_matter: Front-matter
+    tag_plugins: Tag Plugins
+    asset_folders: Asset Folders
+    data_files: Data Files
+    server: Server
+    generating: Generating
+    deployment: Deployment
+    customization: Customization
+    permalinks: Permalinks
+    themes: Themes
+    structure: Structure
+    templates: Templates
+    variables: Variables
+    helpers: Helpers
+    internationalization: Internationalization (i18n)
+    plugins: Plugins
+    miscellaneous: Miscellaneous
+    troubleshooting: Troubleshooting
+    contributing: Contributing
+  manual:
+    file_use: 文件使用
+    my_file: 我的制作
+    open_file: 打开文件
+    create_file: 创建文件
+    save_file: 存储文件
+    online_draw: 在线制图
+    login_draw: 登录制图
+    draw_info: 页面概览
+    draw_menu: 菜单
+    draw_tool: 工具栏
+    draw_lib: 图标库
+    draw_control: 控制面板
+    draw_option: 查看选项
+    draw_formate: 格式面板
+    custom_draw: 自定义图形
+    style_option: 样式选项
+    text_option: 文本选项
+    rang_option: 排列选项
+    draw_school: 教程
+    create_draw: 创建图形
+    rang_draw: 布局
+    link_draw: 连接、航点
+    export_draw: 导出选项
+    vip_draw: 高级
+    use_metadata: 使用元元素
+    shape_edit: 修改形状
+    use_layer: 使用层
+  drawcase:
+    overview: 概述
+    show_case: 图例
+    uml: UML
+    uml_class: 类图
+    uml_user_case: 用例图
+    uml_activity: 活动图
+    uml_component: 组件图
+    uml_package: 包图
+    uml_sequence: 序列图
+    urml_erd: ER模型
+    business_design: 业务设计
+    bpmn: BPMN图
+    organization: 组织机构图
+    epc: EPC
+    workflow: 工作流程
+    generic_workflow: 一般流程图
+    swimlane_workflow: 泳道图
+    sdl_workflow: SDL
+    audit_workflow: 审批流
+    ux: UX设计
+    ux_ios: ios设计
+    ux_android: android设计
+    ux_bootstrap: Bootstrap
+    cloud: 云架构
+    cloud_aliyun: 阿里云
+    cloud_tencent: 腾讯云
+    cloud_aws: AWS
+    cloud_oracle: Oracle
+    cloud_ibm: IBM
+    cloud_azure: Azure
+    cloud_google: Google云
+    plane: 平面图
+    floorplan: 一般平面图
+    homeoffice: 家庭办公室
+    workoffice: 工作办公室
+    livingroom: 卧室
+    kitchen: 厨房
+    diningroom: 餐厅
+    bathroom: 浴室
+    network: 网络
+    network_deploy: 网络拓扑
+    network_rack: 机架
+    project: 工程
+    basic_electrical: 基本电气图
+    logic_electrical: 逻辑图
+    circuit_electrical: 电路原理图
+    wiring_electrical: 接线图
+    process_flow_electrical: 工艺流程图
+    p&id: P&ID
+    other: 其他图形
+    other_generic: 概念介绍图
+    tqm: TQM
+    archimate: Archimate
+    itil: ITIL
