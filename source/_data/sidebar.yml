@@ -44,55 +44,55 @@ drawcase:
   overview:
    show_case: index.html
   uml:
-    uml_class: index.html
-    uml_user_case: events.html
-    uml_activity: locals.html
-    uml_component: router.html
-    uml_package: box.html
-    uml_sequence: rendering.html
-    urml_erd: posts.html
+    uml_class: uml_class.html
+    uml_user_case: uml_user_case.html
+    uml_activity: uml_activity.html
+    uml_component: uml_component.html
+    uml_package: uml_package.html
+    uml_sequence: uml_sequence.html
+    urml_erd: urml_erd.html
   business_design:
-    bpmn: console.html
-    organization: deployer.html
-    epc: filter.html
+    bpmn: bpmn.html
+    organization: organization.html
+    epc: epc.html
     generator: generator.html
   workflow:
-    generic_workflow: deployer.html
-    swimlane_workflow: deployer.html
-    sdl_workflow: deployer.html
-    audit_workflow: deployer.html
+    generic_workflow: generic_workflow.html
+    swimlane_workflow: swimlane_workflow.html
+    sdl_workflow: sdl_workflow.html
+    audit_workflow: audit_workflow.html
   ux:
-    ux_ios: deployer.html
-    ux_android: deployer.html
-    ux_bootstrap: deployer.html
+    ux_ios: ux_ios.html
+    ux_android: ux_android.html
+    ux_bootstrap: ux_bootstrap.html
   cloud:
-    cloud_aliyun: filter.html
-    cloud_tencent: filter.html
-    cloud_aws: filter.html
-    cloud_oracle: filter.html
-    cloud_ibm: filter.html
-    cloud_azure: filter.html
-    cloud_google: filter.html
+    cloud_aliyun: cloud_aliyun.html
+    cloud_tencent: cloud_tencent.html
+    cloud_aws: cloud_aws.html
+    cloud_oracle: cloud_oracle.html
+    cloud_ibm: cloud_ibm.html
+    cloud_azure: cloud_azure.html
+    cloud_google: cloud_google.html
   plane:
-    floorplan: filter.html
-    homeoffice: filter.html
-    workoffice: filter.html
-    livingroom: filter.html
-    kitchen: filter.html
-    diningroom: filter.html
-    bathroom: filter.html
+    floorplan: floorplan.html
+    homeoffice: homeoffice.html
+    workoffice: workoffice.html
+    livingroom: livingroom.html
+    kitchen: kitchen.html
+    diningroom: diningroom.html
+    bathroom: bathroom.html
   network:
-    network_deploy: filter.html
-    network_rack: filter.html
+    network_deploy: network_deploy.html
+    network_rack: network_rack.html
   project:
-    basic_electrical: filter.html
-    logic_electrical: filter.html
-    circuit_electrical: filter.html
-    wiring_electrical: filter.html
-    process_flow_electrical: filter.html
-    p&id: filter.html
+    basic_electrical: basic_electrical.html
+    logic_electrical: logic_electrical.html
+    circuit_electrical: circuit_electrical.html
+    wiring_electrical: wiring_electrical.html
+    process_flow_electrical: process_flow_electrical.html
+    p&id: pid.html
   other:
-    other_generic: filter.html
-    tqm: filter.html
-    archimate: filter.html
-    itil: filter.html
+    other_generic: other_generic.html
+    tqm: tqm.html
+    archimate: archimate.html
+    itil: itil.html
