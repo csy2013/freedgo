@@ -55,7 +55,6 @@ drawcase:
     bpmn: bpmn.html
     organization: organization.html
     epc: epc.html
-    generator: generator.html
   workflow:
     generic_workflow: generic_workflow.html
     swimlane_workflow: swimlane_workflow.html
