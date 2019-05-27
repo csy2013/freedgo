@@ -2,6 +2,14 @@
 title: 在线UML图设计 用例图 在线制图
 ---
 
+**以下图例皆使用了在线UML制图网站[Freedgo Design](https://www.freedgo.com)，其访问地址为： https://www.freedgo.com**
+
+freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 阿里云架构图 腾讯云架构图 Oracle云架构图 AWS系统部署图 软件架构图, UML，BPMN，ERD，流程图，UX设计图,ANT DESIGN，思维导图，图表。 可以做到注册用户免费使用。
+
+** 具体参考 在线制图网站关于UML设计图例：  http://www.feedgo.com/showcase.html **
+
+
+
 # 用例图
 
 用例描述了用户如何使用系统来实现特定的目标。用例图由系统、相关的用例图和参与者组成，并且将它们相互联系起来.
@@ -118,14 +126,15 @@ UML定义了用例之间关联的三个原型:
 ![用例图](/public/themes/freedgo/uml/usecase7.png "用例图")
 
 
-## 用例图例子
+## 用例图例子 
 
-
-以下图例皆使用了在线UML制图网站[Freedgo Design](https://www.freedgo.com)，其访问地址为： https://www.freedgo.com
+**以下图例皆使用了在线UML制图网站[Freedgo Design](https://www.freedgo.com)，其访问地址为： https://www.freedgo.com**
 
 freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 阿里云架构图 腾讯云架构图 Oracle云架构图 AWS系统部署图 软件架构图, UML，BPMN，ERD，流程图，UX设计图,ANT DESIGN，思维导图，图表。 可以做到注册用户免费使用。
 
 ** 具体参考 在线制图网站关于UML设计图例：  http://www.feedgo.com/showcase.html **
+
+**`备注`: 点击 https://www.freedgo.com/public/zh-cn/site/ 进一步了解关于在线制图的 更多功能。**
 
 下图显示了一个自动柜员机用例图示例，这是在讲授用例图时使用的一个非常经典的示例。
 
@@ -141,8 +150,6 @@ freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 �
 ![用例图](/public/themes/freedgo/uml/usecase9.png "用例图")
 
 
-
-`备注`: 点击 https://www.freedgo.com/public/zh-cn/site/ 进一步了解关于在线制图的 更多功能。
 
 
 
