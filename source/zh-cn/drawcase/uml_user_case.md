@@ -80,20 +80,20 @@ title: 在线UML图设计 用例图 在线制图
 
 UML定义了用例之间关联的三个原型:
 
-### <<include>> Use Case
+### `<<include>> Use Case`
 
-使用<<include>>是在您完成对所有主要用例之后。
+使用`<<include>>`是在您完成对所有主要用例之后。
 
 ![用例图](/public/themes/freedgo/uml/usecase3.png "用例图")
 
 
-### <<extend>> Use Case
+### `<<extend>> Use Case`
 
-扩展用例实际是基础用例的一个替代过程。<<extend>>用例通过在基本用例序列中概念性地插入额外的动作序列来实现这一点。
+扩展用例实际是基础用例的一个替代过程。`<<extend>>`用例通过在基本用例序列中概念性地插入额外的动作序列来实现这一点。
 
 ![用例图](/public/themes/freedgo/uml/usecase4.png "用例图")
 
-### Abstract and generalized Use Case
+### `Abstract and generalized Use Case`
 
 通用用例是抽象的。它无法实例化，因为它包含不完整的信息。抽象用例的标题用斜体显示
 
@@ -103,7 +103,7 @@ UML定义了用例之间关联的三个原型:
 ## 例子
 
 这个例子描述了几个业务用例(目标)的模型，它代表了一个餐馆(业务系统)和它的主要参与者之间的交互。 
-在第一轮中确定了基本用例之后，也许我们可以在第二轮用<<extend>>和<<include>>进一步构建这些用例，
+在第一轮中确定了基本用例之后，也许我们可以在第二轮用`<<extend>>`和`<<include>>`进一步构建这些用例，
 
 如下图所示:
 
