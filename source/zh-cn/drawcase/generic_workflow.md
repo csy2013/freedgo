@@ -60,7 +60,7 @@ title: 流程图 一般流程图 在线制图
 ![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_data.png "在线制图 workflow")
 
 **子流程&预定义流程**
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_data9.png "在线制图 workflow")
+![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow9.png "在线制图 workflow")
 
 
 **内部存储**
@@ -103,7 +103,7 @@ title: 流程图 一般流程图 在线制图
 
 # 流程图的制作
 
-创建流程图的方式有很多，若选择在线绘制流程图，推荐使用在线制图网站： freedgo Design ，其访问地址为: https://www.freedgo.com。freedgo design 在线制图网站是一款多类型的图形图表设计软件，软件内容自带丰富的几何图形模板，可以用于绘制专业的流程图，泳道图、影响图、SDL图、审批图、会计流程图等。
+创建流程图的方式有很多，若选择在线绘制流程图，推荐使用在线制图网站： [freedgo Design](https://www.freedgo.com  "在线制图工具")。 freedgo Design ，其访问地址为: https://www.freedgo.com 。freedgo design 在线制图网站是一款多类型的图形图表设计软件，软件内容自带丰富的几何图形模板，可以用于绘制专业的流程图，泳道图、影响图、SDL图、审批图、会计流程图等。
 
 
 在具体的流程图中需要把业务逻辑分解成更小、更具体的步骤。 然后，考虑流程中任何可能的异常，如果是，为备选路径添加决策节点。
@@ -113,13 +113,13 @@ title: 流程图 一般流程图 在线制图
 
 ### 步骤一：
 
-访问https://www.freedgo.com,先注册一个用户，注册成功后，登录到首页
+访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com)
 
 ### 步骤二：
 
-访问https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者点击`开始制作`
+访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
 
-然后点击 `文件` -> `从类型中新建` -> `流程图` -> `一般流程图`
+进入制图页面后 点击 `文件` -> `从类型中新建` -> `流程图` -> `一般流程图`
 
 ![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow2.png "在线制图 workflow")
 
@@ -155,4 +155,6 @@ title: 流程图 一般流程图 在线制图
 
 按照绘图要求，一步一步的地完成流程图的绘制。最终完成了整幅的绘制任务。
 ![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow8.png "在线制图 workflow")
+
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase.html) 或者直接访问 ： https://www.freedgo.com/showcase.html
 
