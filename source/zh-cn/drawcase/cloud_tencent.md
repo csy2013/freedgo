@@ -69,7 +69,7 @@ Freedgo Design具有完整的腾讯云组件图标，支持您各种设计需求
 
 AI视觉应用架构设计
 
-![腾讯云架构图](https://www.freedgo.com/public/themes/freedgo/tencent/tencent.png "腾讯云架构图")
+![腾讯云架构图](https://www.freedgo.com/public/themes/freedgo/tencent/tencent1.png "腾讯云架构图")
 
 
 下面列出了如何使用Freedgo Design制作轻松创建腾讯云架构图的步骤。借助拖放式腾讯云图标和直观的界面，使用在线可视化范例制作腾讯云架构图既快速又简单。 
@@ -104,7 +104,7 @@ AI视觉应用架构设计
 
 软件提供多种连接样式，在该腾讯云架构图中，可以选择普通的直角连接线。在连接线上，还可以输入文字做进一步的说明。 
  
-### 步骤六：
+### 步骤五：
 
 按照绘图要求，一步一步的地完成腾讯云架构图的绘制。最终完成了整幅的绘制任务。 
 
