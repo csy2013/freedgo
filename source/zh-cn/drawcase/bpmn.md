@@ -22,15 +22,14 @@ BPMN的目标是：
 
 # 使用在线制图工具绘制 BPMN
 
-Freedgo Design具有完整的BPMN图标和简单易用的绘制方法，使业务流程图制作的用户可以轻松识别元素。
+Freedgo Design具有完整的BPMN图标和简单易用的绘制方法，使业务流程图制作的用户可以轻松识别元素绘制美观大方的BPMN图。
 
-以下是通过Freedgo 制作的图裂
+以下是通过Freedgo 制作的图例
+![在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn4.png "在线绘图_BPMN") 
 
 
 
-以下是BPMN 图标：
-![在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn4.png "在线绘图_BPMN")
-
+# BPMN 图标：
 
 ## BPMN通用
 
@@ -52,14 +51,10 @@ Freedgo Design具有完整的BPMN图标和简单易用的绘制方法，使业�
 
 ### 如何制作在线绘图_BPMN？
 
-AI视觉应用架构设计
+ 
+下面列出了如何使用Freedgo Design制作轻松创建BPMN的步骤。借助拖放式图标和直观的界面，使用在线可视化视图制作BPMN既快速又简单。 
 
-![在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn1.png "在线绘图_BPMN")
-
-
-下面列出了如何使用Freedgo Design制作轻松创建BPMN的步骤。借助拖放式腾讯云图标和直观的界面，使用在线可视化视图制作BPMN既快速又简单。 
-
-现在，一起开看如何使用Freedgo Design制好看的BPMN。
+现在，一起开看如何使用Freedgo Design制作好看的BPMN。
 
 ### 步骤一：
 
@@ -93,7 +88,7 @@ AI视觉应用架构设计
 
 ### 步骤五：
 
-网络拓扑图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的网络拓扑图，颜值提升了不少。
+在线绘图制作工具拥有一套功能丰富的样式，用户可以对图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充后颜值提升了不少。
 ![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn7.png "在线制图 网络拓扑图")
  
 ### 步骤六：
