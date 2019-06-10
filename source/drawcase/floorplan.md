@@ -15,34 +15,49 @@ title: 	在线平面图设计	平面图设计教程 	怎样绘制平面图 绘�
 # 平面图设计工具
 
 平面图设计软件有Photoshop、CorelDRAW、IIIustator、Freehand、PageMaker等等。这些工具都需要下载安装，对电脑设备及设计人员要求都比较高。
-现在一些网站提供在线的平面图设计工具，可以绘制简单的平面图，
+现在一些网站提供在线的平面图设计工具，可以绘制各类相关的平面图，
 
 下面小编就为大家介绍一款在线平面图绘制工具： Freedgo Design ,他可以轻松、快速、协作地创建各种专业图表。是多种类型图表的在线绘制软件,让您快速创建家庭、办公、厨房、卫生间、卧室、餐厅等等平面图。立即开始免费试用，其网址为: https://www.freedgo.com.
 
-先看一下通过该工具绘制的平面图效果：
+---
 
-<iframe src="https://www.freedgo.com/draw_index.html?lightbox=1&p=ex1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=平面图示例#Uhttps://www.freedgo.com/templates/floor/floor_sample1.xml" width="1024px" height="800px" frameborder="0" scrolling="no"></iframe>
+#### 通过一系列的绘制完成平面图设计，操作示例请看如下视频：
+
+<video id="video" controls="" preload="none" poster="https://www.freedgo.com/public/themes/freedgo/floor/floor1.png">
+<source id="mp4" src="https://www.freedgo.com/public/themes/freedgo/floor/floor_m.mp4" type="video/mp4">
+</video> 
+
+<br/>
+<br/>
+<br/>
+#### 该平面图查看效果如下：
+
+<iframe src="https://www.freedgo.com/draw_index.html?lightbox=1&p=ex1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=平面图示例#Uhttps://www.freedgo.com/templates/floor/floor_sample1.xml" width="800px" height="600px" frameborder="0" scrolling="no"></iframe>
+
+下面简单介绍一下该平面图的功能：
 
 这是一个住宅的平面图，绘制了主建筑的墙、门窗结构、照明设备，安全设施、家具、水管和洁具设备等等，通过点击如下按钮，可以显示平面图的不同部分的图样。
 ![在线制图 平面图设计](https://www.freedgo.com/public/themes/freedgo/floor/floor1.png "在线制图 平面图设计")
 
-比如:
+##### 平面图包括:
 
+- 门窗及墙面
+- 安全设施
+- 家具
 - 照明设备：区分3种不同的颜色标识区分厨房，室内，室内等
-- 水管及洁具： 标注了`盥洗室`，`排水管道`,`梳妆台`,`冷水管道`,`温水管道`等
 
 ![在线制图 平面图设计](https://www.freedgo.com/public/themes/freedgo/floor/floor2.png "在线制图 平面图设计")
 
 
+- 水管及洁具： 标注了`盥洗室`，`排水管道`,`梳妆台`,`冷水管道`,`温水管道`等
+![在线制图 平面图设计](/public/themes/freedgo/floor/floor8.png "在线制图 平面图设计")
+
+
+
+
 该平面图通过 在线制图工具 [Freedgo Design](https://www.freedgo.com/draw_index.html?libs=floorplan;general; "平面图设计工具")Freedgo Design设计，具体地址为: https://www.freedgo.com/draw_index.html?libs=floorplan;general;
 
-言归正传,介绍画平面图的干货分享请看视频如下：
-
-<video id="video" controls="" preload="none" poster="/public/themes/freedgo/floor/floor1.png">
-<source id="mp4" src="/public/themes/freedgo/floor/floor_m.mp4" type="video/mp4">
-</video> 
-
-
+ 
 
 # 平面图的制作步骤
 
@@ -56,31 +71,31 @@ title: 	在线平面图设计	平面图设计教程 	怎样绘制平面图 绘�
 
 进入制图页面后 点击 `文件` -> `从类型中新建` -> `平面图` 选择其中一个平面图
 
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/floor/floor3.png "在线制图 网络拓扑图")
+![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor3.png "在线制图 平面图")
 
 
 或者点击图例，在图例中找到 `平面图`，选择一个类似的图例进行改动
 
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/floor/floor4.png "在线制图 网络拓扑图")
+![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor4.png "在线制图 平面图")
 
 ### 步骤三：
 
 从左侧符号栏拖拽合适的几何图形至画布，松手后，椭圆图形就被固定画布上.
 
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/floor/floor5.png "在线制图 网络拓扑图")
+![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor5.png "在线制图 平面图")
  
+
+
+### 步骤四：
+
+平面图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的平面图，颜值提升了不少。
+![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor6.png "在线制图 平面图")
 
 
 ### 步骤五：
 
-网络拓扑图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的网络拓扑图，颜值提升了不少。
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/floor/floor6.png "在线制图 网络拓扑图")
-
-
-### 步骤六：
-
-按照绘图要求，一步一步的地完成网络拓扑图的绘制。最终完成了整幅的绘制任务。
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/floor/floor7.png "在线制图 网络拓扑图")
+按照绘图要求，一步一步的地完成平面图的绘制。最终完成了整幅的绘制任务。
+![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor7.png "在线制图 平面图")
 
 
 
