@@ -110,6 +110,5 @@ AI视觉应用架构设计
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase.html) 或者直接访问 ： https://www.freedgo.com/showcase.html
-
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/cloud_diagram/TencentCloudArchitectureDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/cloud_diagram/TencentCloudArchitectureDiagram_1.html
 

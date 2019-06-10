@@ -123,7 +123,7 @@ title: 在线网络拓扑图设计 如何在线制图网络拓扑图 网络拓�
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase.html) 或者直接访问 ： https://www.freedgo.com/showcase.html
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html
 
 
 

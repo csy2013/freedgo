@@ -164,6 +164,6 @@ UML类图也可以用于数据建模。它可以用来描述应用程序内部�
 
 按照绘图要求，一步一步的地完成类图绘制。最终完成了整幅的绘制任务。 
 
-更多基本类图的例子 请参考 [图例] (https://www.freedgo.com/showcase.html) 或者直接访问 ： https://www.freedgo.com/showcase.html
+更多基本类图的例子 请参考 [图例] (https://www.freedgo.com/showcase/software_design/ClassDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/software_design/ClassDiagram_1.html
 
 

@@ -97,4 +97,4 @@ Freedgo Design具有完整的BPMN图标和简单易用的绘制方法，使业�
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase.html) 或者直接访问 ： https://www.freedgo.com/showcase.html
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html
