@@ -26,7 +26,7 @@ ER模型使用可视化了实体存储的信息，以及直观的呈现了实体
 
 如果要使用MySQL表建立ER模型，请选择实体类型为`MySQL Table`，选择后拖动到编辑区域。
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql15.png "在线制图 ER模型")
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql15.png "在线制图 ER模型")
 
 
 #### 1、如何导入SQL？
@@ -34,31 +34,31 @@ ER模型使用可视化了实体存储的信息，以及直观的呈现了实体
 
 首先访问https://www.freedgo.com/draw_index.html,点击 `调整图形` -> `插入` -> `From MySQL`
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql.png "在线制图 ER模型")
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql.png "在线制图 ER模型")
  
 或者`+` -> `From MySQL`
 
 
 复制SQL语言到对应的框中，点击`insert MySQL`
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql1.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql1.png "在线制图 ER模型") 
 
 复制SQL贴到对应的输入框
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql2.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql2.png "在线制图 ER模型") 
 
 最后生成对应的模型图
-![在线制图_ER模型](/public/themes/freedgo/er/mysql4.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql4.png "在线制图 ER模型") 
 
 
 #### 2、如何修改ER模型字段
 
 可以修改ER模型的表字段信息
-![在线制图_ER模型](/public/themes/freedgo/er/mysql13.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql13.png "在线制图 ER模型") 
 
 ，支持字段名、类型、长度、是否主键、是否外键、备注 、是否为空
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql14.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql14.png "在线制图 ER模型") 
 
 ##### 支持MySQL建表语法
 ```
@@ -110,9 +110,9 @@ TINYINT[(length)] [UNSIGNED] [ZEROFILL]
 
 ### 3、如何导出SQL
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql11.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql11.png "在线制图 ER模型") 
 生成SQL
-![在线制图_ER模型](/public/themes/freedgo/er/mysql12.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql12.png "在线制图 ER模型") 
 
 
 
@@ -120,9 +120,9 @@ TINYINT[(length)] [UNSIGNED] [ZEROFILL]
 
 选择模型中表，点击右键选择`选中SQL`，支持多选表生成：
 步骤1：
-![在线制图_ER模型](/public/themes/freedgo/er/mysql5.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql5.png "在线制图 ER模型") 
 生成SQL
-![在线制图_ER模型](/public/themes/freedgo/er/mysql6.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql6.png "在线制图 ER模型") 
 
 #### 5、如何生成字段SQL
 
@@ -130,14 +130,14 @@ TINYINT[(length)] [UNSIGNED] [ZEROFILL]
  
 1、创建新增列SQL
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql7.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql7.png "在线制图 ER模型") 
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql8.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql8.png "在线制图 ER模型") 
 
 2、修改表列SQL
-![在线制图_ER模型](/public/themes/freedgo/er/mysql9.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql9.png "在线制图 ER模型") 
 
-![在线制图_ER模型](/public/themes/freedgo/er/mysql10.png "在线制图 ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql10.png "在线制图 ER模型") 
 
 
 
