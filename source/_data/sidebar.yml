@@ -51,6 +51,7 @@ drawcase:
     uml_package: uml_package.html
     uml_sequence: uml_sequence.html
     urml_erd: urml_erd.html
+    erd_mysql: erd_mysql.html
   business_design:
     bpmn: bpmn.html
     organization: organization.html

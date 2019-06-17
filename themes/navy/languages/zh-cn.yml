@@ -71,6 +71,7 @@ sidebar:
     uml_package: 包图
     uml_sequence: 序列图
     urml_erd: ER模型
+    erd_mysql: MySQL数据模型
     business_design: 业务设计
     bpmn: BPMN图
     organization: 组织机构图
