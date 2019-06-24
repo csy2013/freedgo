@@ -11,7 +11,7 @@ title: Spring Cloud 上手培训资料
 
 目前为止绝大部分的web应用软件采用单体应用，所有的应用的用户UI、业务逻辑、数据库访问都打包在一个应用程序上。
     
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud1.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud1.png "在线制图 springCloud设计")
 
 **缺点：**
 
@@ -23,7 +23,7 @@ title: Spring Cloud 上手培训资料
 把单体应用拆分成小的、松藕合分布式服务的形式 
 每个应用一定是独立构建、独立部署与测试，应用也是独立发布，应用于应用直接通常通过restful API接口的形式进行相互调用。
 解决了单体应用带来的困扰。
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud2.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud2.png "在线制图 springCloud设计")
 
 ## Spring cloud 是什么
 
@@ -77,7 +77,7 @@ https://www.freedgo.com/draw_index.html?#Uhttps://www.freedgo.com/templates/netw
 
 Freedgo Design 是一in款在线绘制专业图形的网站。Freedgo Design可以绘制各种类型的图形，针对业务逻辑的流程图，软件设计ER模板，工作流，各种云平台的系统部署架构图包括阿里云、AWS云、腾讯云、Oracle、Asure云、IBM云平台等。
 
-![在线制图 springCloud设计](/public/themes/freedgo/spring/阿里云springcloud架构.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/阿里云springcloud架构.png "在线制图 springCloud设计")
 
 ##### 2.2.1.1.	建立基础代码
 
@@ -87,10 +87,10 @@ Freedgo Design 是一in款在线绘制专业图形的网站。Freedgo Design可�
 
 ##### 2.2.1.2.	服务发现
 建立子模块discovery-service
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud3.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud4.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud5.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud6.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud3.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud4.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud5.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud6.png "在线制图 springCloud设计")
 
 我们可以看到mvn 依赖导入了netflix-eureka-server
 Spring boot  会启动服务发现服务
@@ -107,9 +107,9 @@ Spring boot  会启动服务发现服务
 ##### 2.2.1.3.	服务配置
 
 建立子模块config-service
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud7.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud8.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud9.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud7.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud8.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud9.png "在线制图 springCloud设计")
 
 ```
 <dependency>
@@ -122,9 +122,9 @@ Spring boot  会启动服务发现服务
 
 #### 2.2.1.4.	服务路由
 
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud10.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud11.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud12.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud10.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud11.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud12.png "在线制图 springCloud设计")
 
 服务路由采用 Netflix Zuul 
 通过服务路由作为eureka client，可以被发现服务监控
@@ -145,13 +145,13 @@ Spring boot  会启动服务发现服务
 
 #### 2.2.1.5.	用户认证中心
 
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud13.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud14.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud13.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud14.png "在线制图 springCloud设计")
 
 ### 2.2.1.6.	业务服务模块
 
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud15.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud16.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud15.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud16.png "在线制图 springCloud设计")
 
 ``` 
 <dependency>
@@ -177,7 +177,7 @@ Spring boot  会启动服务发现服务
  	健康检查，容错机制
  	抽象服务的逻辑名称
 使用Spring与Netflix Eureka实现服务发现
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud17.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud17.png "在线制图 springCloud设计")
 
 实现服务发现功能需要配置服务发现端及需要注册服务配置客户端
 1、	发现服务端配置
@@ -223,8 +223,8 @@ spring:
 
 启动运行查看
 
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud18.png "在线制图 springCloud设计")
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud19.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud18.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud19.png "在线制图 springCloud设计")
 
 http://localhost:8761/eureka/apps/config-service。
  	应用作为服务发现的客户端设置
@@ -258,7 +258,7 @@ eureka:
 使用服务发现查找服务
 
 ### 2.2.3.	用户认证中心
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud20.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud20.png "在线制图 springCloud设计")
 
 OAuth2协议说明：
 
@@ -370,7 +370,7 @@ public Map<String, Object> user(OAuth2Authentication user) {
 
 ```
 通过postman测试
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud21.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud21.png "在线制图 springCloud设计")
 自此提供了一个用户认证的微服务模块.
 
 #### 2.2.3.1.	业务模块微服务
@@ -393,14 +393,14 @@ public ResponseEntity<List<String>> getBusiness() throws Exception {
 ```
 使用postman调用接口
 
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud22.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud22.png "在线制图 springCloud设计")
 从postman返回的结果可以看到401，未授权。
 因为business_service服务引入了spring-cloud-starter-security 那么默认是会对所有访问做安全控制。
   
 2、	服务的授权保护
 现在business/list 是未授权，那怎么配置一个受保护的oauth2.0资源，通过如下步骤
  	设置服务是一个受oauth保护的资源
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud23.png "在线制图 springCloud设计")
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud23.png "在线制图 springCloud设计")
  	定义应用的OAuth属性定义回调 URL
 ```jsp
 
@@ -431,7 +431,7 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 
 该段代码说明具有ADMIN角色的用户可以访问/api/v1/business/ 下的所有的POST 请求
 验证如下：
-![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud24.png "在线制图 springCloud设计") 
+![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud24.png "在线制图 springCloud设计") 
 
 至此通过OAuth2.0保护微服务的基本做法已经完成。
 
@@ -443,7 +443,7 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 
 成为一个服务网关步骤：
 1、	添加@EnableZuulProxy
- ![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud25.png "在线制图 springCloud设计") 
+ ![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud25.png "在线制图 springCloud设计") 
 2、	在application.yml添加route 规则
 ```jsp
 zuul:
@@ -455,4 +455,4 @@ zuul:
 
 通过postman测试如下：
  
- ![在线制图 springCloud设计](/public/themes/freedgo/spring/spring_cloud25.png "在线制图 springCloud设计")
+ ![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud25.png "在线制图 springCloud设计")
