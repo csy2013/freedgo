@@ -67,6 +67,7 @@ drawcase:
     ux_bootstrap: ux_bootstrap.html
   cloud:
     cloud_aliyun: cloud_aliyun.html
+    spring_cloud_aliyun: spring_cloud_aliyun.html
     cloud_tencent: cloud_tencent.html
     cloud_aws: cloud_aws.html
     cloud_oracle: cloud_oracle.html

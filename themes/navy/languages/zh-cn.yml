@@ -87,6 +87,7 @@ sidebar:
     ux_bootstrap: Bootstrap
     cloud: 云架构
     cloud_aliyun: 阿里云
+    spring_cloud_aliyun: 阿里云SpringCloud架构
     cloud_tencent: 腾讯云
     cloud_aws: AWS
     cloud_oracle: Oracle

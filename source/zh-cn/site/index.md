@@ -15,7 +15,7 @@ Freedgo Design 是一in款在线绘制专业图形的网站。Freedgo Design可�
 用户通过浏览器访问网址：https://www.freedgo.com 点击`在线制图`，进入图形设计工具页面即可在线制图.
 选择制图不同类型的图形，请点击页面下面 ` + 更多图形`，选择相应的制图类型。如下图：
 
-![在线制图选择不同的图形类型](/public/themes/freedgo/index2.png "在线制图选择不同的图形类型")
+![在线制图选择不同的图形类型](https://www.freedgo.com/public/themes/freedgo/index2.png "在线制图选择不同的图形类型")
 
 
 
@@ -38,7 +38,7 @@ UML统一建模语言（英语：Unified Modeling Language，缩写 UML）,是�
 - UML 泳道图
 
 点击页面下面 ` + 更多图形`，选择 `商务/(业务建模)` -> `UML`, 可以设计各类UML图表, 参见下图:
-![在线绘制UML](/public/themes/freedgo/index1.png "在线绘制UML")
+![在线绘制UML](https://www.freedgo.com/public/themes/freedgo/index1.png "在线绘制UML")
 
 
 ### 数据库ER模型
@@ -51,7 +51,7 @@ ER模型是在数据库设计中常用的数据建模工具，通常是用来描
 
 - 通过菜单 `调整图形` -> `插入` -> `SQL...` 导入sql DDL脚本创建数据库ER模型
 
-![在线绘制ER模型](/public/themes/freedgo/index4.png "在线绘制ER模型")
+![在线绘制ER模型](https://www.freedgo.com/public/themes/freedgo/index4.png "在线绘制ER模型")
 
 ### BPMN模型设计
 
@@ -59,7 +59,7 @@ BPMN是业务流程建模与标记,是用于构建业务流程图的一种建模
 
 可以通过`图标库` 选择BPMN绘制BPMN模型
 
-![在线绘制BPMN](/public/themes/freedgo/index5.png "在线绘制BPMN")
+![在线绘制BPMN](https://www.freedgo.com/public/themes/freedgo/index5.png "在线绘制BPMN")
 
 ### Archimate设计
 
@@ -67,7 +67,7 @@ Archimate是一种整合多种架构的一种可视化业务分析模型语言�
 
 可以通过`图标库` 选择BPMN绘制BPMN模型
 
-![在线绘制Archimate](/public/themes/freedgo/index6.png "在线绘制Archimate")
+![在线绘制Archimate](https://www.freedgo.com/public/themes/freedgo/index6.png "在线绘制Archimate")
 
 ### EPC设计
 
@@ -75,7 +75,7 @@ EPC是用于说明业务流程工作流，是进行业务工程设计的 SAP R/3
 
 可以通过`图标库` 选择EPC绘制EPC模型
 
-![在线绘制EPC](/public/themes/freedgo/index7.png "在线绘制EPC")
+![在线绘制EPC](https://www.freedgo.com/public/themes/freedgo/index7.png "在线绘制EPC")
 
 ### 流程图
 
@@ -89,7 +89,7 @@ EPC是用于说明业务流程工作流，是进行业务工程设计的 SAP R/3
 
 可以通过`图标库` 选择流程图绘制
 
-![在线绘制流程图](/public/themes/freedgo/index8.png "在线绘制流程图")
+![在线绘制流程图](https://www.freedgo.com/public/themes/freedgo/index8.png "在线绘制流程图")
 
 ### UX设计
 
@@ -97,79 +97,79 @@ Freedgo Design提供一系列UX设计的制作,可以实现IOS，安卓，以及
 
 #### IOS
 
-![在线绘制IOS UX](/public/themes/freedgo/index10.png "在线绘制IOS UX")
+![在线绘制IOS UX](https://www.freedgo.com/public/themes/freedgo/index10.png "在线绘制IOS UX")
 
 #### android
 
-![在线绘制Android](/public/themes/freedgo/index12.png "在线绘制Android UX")
+![在线绘制Android](https://www.freedgo.com/public/themes/freedgo/index12.png "在线绘制Android UX")
 
 #### material
 
-![在线绘制Material](/public/themes/freedgo/index11.png "在线绘制Material UX")
+![在线绘制Material](https://www.freedgo.com/public/themes/freedgo/index11.png "在线绘制Material UX")
 
 #### Bootstrap
 
-![在线绘制Bootstrap](/public/themes/freedgo/index13.png "在线绘制Bootstrap")
+![在线绘制Bootstrap](https://www.freedgo.com/public/themes/freedgo/index13.png "在线绘制Bootstrap")
 
 #### 手机应用
 
-![在线绘制手机应用](/public/themes/freedgo/index14.png "在线绘制手机应用")
+![在线绘制手机应用](https://www.freedgo.com/public/themes/freedgo/index14.png "在线绘制手机应用")
 
 #### 网站应用
 
-![在线绘制网站应用](/public/themes/freedgo/index15.png "在线绘制网站应用")
+![在线绘制网站应用](https://www.freedgo.com/public/themes/freedgo/index15.png "在线绘制网站应用")
 
 
 ### 平面图
 Freedgo Design可以绘制平面图包括建筑平面表，房屋平面表，房屋效果图设计,在图例中提供了家庭、办公、厨房、卫生间等等图例，具体可以登录在线制图网站，查看 [图例](https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html "在线制图图例")
 
-![在线绘制平面图](/public/themes/freedgo/index16.png "在线绘制平面图")
+![在线绘制平面图](https://www.freedgo.com/public/themes/freedgo/index16.png "在线绘制平面图")
 
 
 ### 网络架构图
 Freedgo Design 可以绘制各种网络拓扑图，和机架图。
 
-![在线绘制网络拓扑图](/public/themes/freedgo/index17.png "网络拓扑图")
+![在线绘制网络拓扑图](https://www.freedgo.com/public/themes/freedgo/index17.png "网络拓扑图")
 
-![在线绘制机架图](/public/themes/freedgo/index18.png "机架图")
+![在线绘制机架图](https://www.freedgo.com/public/themes/freedgo/index18.png "机架图")
 
 ### 云架构
 Freedgo Design 提供了各类云架构的系统架构图、系统部署图，包括AWS架构，阿里云架构、腾讯云架构、IBM、ORACLE、Azure和Google云等等。
 
 
 #### AWS
-![在线绘制AWS](/public/themes/freedgo/index19.png "在线绘制AWS")
+![在线绘制AWS](https://www.freedgo.com/public/themes/freedgo/index19.png "在线绘制AWS")
 
 #### 阿里云架构
 
-![在线绘制阿里云](/public/themes/freedgo/index20.png "在线绘制阿里云")
+![在线绘制阿里云](https://www.freedgo.com/public/themes/freedgo/index20.png "在线绘制阿里云")
 
 #### 腾讯云架构
 
-![在线绘制腾讯云架构](/public/themes/freedgo/index21.png "腾讯云架构")
+![在线绘制腾讯云架构](https://www.freedgo.com/public/themes/freedgo/index21.png "腾讯云架构")
 
 #### IBM架构
 
-![在线绘制IBM架构](/public/themes/freedgo/index22.png "在线绘制IBM架构")
+![在线绘制IBM架构](https://www.freedgo.com/public/themes/freedgo/index22.png "在线绘制IBM架构")
 
 #### ORACLE架构
 
-![在线绘制ORACLE架构](/public/themes/freedgo/index23.png "在线绘制ORACLE架构")
+![在线绘制ORACLE架构](https://www.freedgo.com/public/themes/freedgo/index23.png "在线绘制ORACLE架构")
 
 #### Azure架构
 
-![在线绘制Azure架构](/public/themes/freedgo/index24.png "Azure架构")
+![在线绘制Azure架构](https://www.freedgo.com/public/themes/freedgo/index24.png "Azure架构")
 
 #### GOOGLE架构
 
-![在线绘制GOOGLE架构](/public/themes/freedgo/index25.png "在线绘制GOOGLE架构")
+![在线绘制GOOGLE架构](https://www.freedgo.com/public/themes/freedgo/index25.png "在线绘制GOOGLE架构")
 
 
 ### 工程
 
 Freedgo Design 提供在线基本电气图设计、在线电气逻辑图设计、在线电路原理图设计、在线接线图设计
 
-![在线绘制电气图](/public/themes/freedgo/index26.png "在线绘制电气图")
+![在线绘制电气图](https://www.freedgo.com/public/themes/freedgo/index26.png "在线绘制电气图")
 
 
 
