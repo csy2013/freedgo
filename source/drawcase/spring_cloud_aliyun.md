@@ -65,11 +65,6 @@ Spring Cloud版本采用Greenwich.M1。
 
 #### 2.2.1.	Spring Cloud基础搭建
 
- 
-
-
-
-
 
 ## 使用
 
