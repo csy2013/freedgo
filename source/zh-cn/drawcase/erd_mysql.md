@@ -26,8 +26,8 @@ ER模型使用可视化了实体存储的信息，以及直观的呈现了实体
 
 如果要使用MySQL表建立ER模型，请选择实体类型为`实体关系/MySQL`，选择对应的表、视图、存储过程、触发器、函数等组件后拖动到编辑区域。
 
-![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql/er_mysql1.jpg "在线制图 MySQL ER模型")
-![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql/er_mysql2.jpg "在线制图 MySQL ER模型")
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql/er_mysql1.png "在线制图 MySQL ER模型")
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql/er_mysql2.png "在线制图 MySQL ER模型")
 
 
 
@@ -36,7 +36,7 @@ ER模型使用可视化了实体存储的信息，以及直观的呈现了实体
 
 首先访问 https://www.freedgo.com/draw_index.html ,点击菜单 `数据库` -> `MySQL` -> `导入DDL`
 
-![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql/er_mysql3.jpg "在线制图 MySQL ER模型") 
+![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/mysql/er_mysql3.png "在线制图 MySQL ER模型") 
 
 
 复制SQL语言到对应的框中，或者拖动MySQL DDL文件到对应的输入框、点击`insert MySQL`
