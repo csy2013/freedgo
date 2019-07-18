@@ -53,6 +53,8 @@ drawcase:
     urml_erd: urml_erd.html
     erd_mysql: erd_mysql.html
     erd_oracle: erd_oracle.html
+    erd_sqlserver: erd_sqlserver.html
+    erd_postgresql: erd_postgresql.html
   business_design:
     bpmn: bpmn.html
     organization: organization.html

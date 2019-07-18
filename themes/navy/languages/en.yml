@@ -74,6 +74,8 @@ sidebar:
     urml_erd: ER模型
     erd_mysql: mysql ER model
     erd_oracle: Oracle ER Model
+    erd_sqlserver: SQLServer ER model
+    erd_postgresql: PostgreSQL ER Model
     business_design: 业务设计
     bpmn: BPMN图
     organization: 组织机构图
