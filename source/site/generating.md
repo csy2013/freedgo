@@ -1,5 +1,5 @@
 ---
-title: Generating
+title: 在线绘图图表制作,Generating
 ---
 Generating static files with Hexo is quite easy and fast.
 

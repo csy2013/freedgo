@@ -1,5 +1,5 @@
 ---
-title: Commands
+title: 在线绘图图表制作,Commands
 ---
 ## init
 

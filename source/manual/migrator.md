@@ -1,5 +1,5 @@
 ---
-title: Migrator
+title: 在线绘图图表制作,Migrator
 ---
 A migrator helps users migrate from other systems to Hexo.
 

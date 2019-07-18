@@ -1,5 +1,5 @@
 ---
-title: Setup
+title: 在线绘图图表制作,Setup
 ---
 
 {% youtube 0m2HnATkHOk %}

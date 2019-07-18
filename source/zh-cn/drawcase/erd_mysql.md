@@ -1,12 +1,12 @@
 ---
-title: MySQL逆向工程,MySQL导入生成ER模型,通过DDL语句生成ER模型,ER模型SQL导出,根据ER模型生成SQL,SQL与ER模型,ERWin替代
+title: 在线绘图图表制作,MySQL逆向工程,MySQL导入生成ER模型,通过DDL语句生成ER模型,ER模型SQL导出,根据ER模型生成SQL,SQL与ER模型,ERWin替代
 ---
 
 ## 概述
 
 ER模型使用可视化了实体存储的信息，以及直观的呈现了实体与实体的关系，在我们实际的应用系统开发过程中新建ER模型可以更好的理解业务模型，为以后的开发维护工作起到归纳总结的作用。
 
-[Freedgo Desgin]()是一款轻松、快速、协作地创建各种专业图表工具。让您在线创建流程图、系统部署图、软件架构图、UML、BPMN、ER模型,DFD,组织图,软件流程图,图表。免费试用。使用Freedgo Design创建数据库ER模型目前支持MySQL及基本的SQL语句建表。后期会进行功能拓展以支持`SQL Server`,`Oracle`,`PostgreSQL`,等等数据库模型建模，支持SQL导入生成ER模型,通过DDL语句生成ER模型,ER模型SQL导出,根据ER模型生成SQL。
+https://www.freedgo.com 是一款轻松、快速、协作地创建各种专业图表工具。让您在线创建流程图、系统部署图、软件架构图、UML、BPMN、ER模型,DFD,组织图,软件流程图,图表。免费试用。使用Freedgo Design创建数据库ER模型目前支持MySQL及基本的SQL语句建表。后期会进行功能拓展以支持`SQL Server`,`Oracle`,`PostgreSQL`,等等数据库模型建模，支持SQL导入生成ER模型,通过DDL语句生成ER模型,ER模型SQL导出,根据ER模型生成SQL。
 
 如果你使用ERwin 或者PowerDesign等等传统的客户端工具设计表结构，不妨体验一下在线ER模型带来的轻量级，云端存储，随时使用的好处。
 

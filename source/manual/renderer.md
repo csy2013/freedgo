@@ -1,5 +1,5 @@
 ---
-title: Renderer
+title: 在线绘图图表制作,Renderer
 ---
 A renderer is used to render content.
 

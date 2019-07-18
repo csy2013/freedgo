@@ -1,5 +1,5 @@
 ---
-title: 文本选项
+title: 在线绘图图表制作,文本选项
 ---
 
  ![文本选项](/public/themes/freedgo/text-option.png "文本选项") 

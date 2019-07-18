@@ -1,5 +1,5 @@
 ---
-title: 调整图形选项
+title: 在线绘图图表制作,调整图形选项
 ---
 
  ![调整图形选项](/public/themes/freedgo/rang_option.png "调整图形选项") 

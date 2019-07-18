@@ -1,5 +1,5 @@
 ---
-title: Router
+title: 在线绘图图表制作,Router
 ---
 The router saves all paths used in the site.
 

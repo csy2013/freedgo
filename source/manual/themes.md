@@ -1,5 +1,5 @@
 ---
-title: Themes
+title: 在线绘图图表制作,Themes
 ---
 `hexo.theme` inherits from [Box](box.html), and also saves templates.
 

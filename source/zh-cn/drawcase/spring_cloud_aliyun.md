@@ -1,5 +1,5 @@
 ---
-title: Spring Cloud 上手培训资料
+title: 在线绘图图表制作,Spring Cloud 上手培训资料
 ---
 
 

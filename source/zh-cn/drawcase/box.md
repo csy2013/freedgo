@@ -1,5 +1,5 @@
 ---
-title:  Box
+title:  在线绘图图表制作,Box
 ---
 「Box」是 Hexo 用来处理特定文件夹中的文件的容器，在 Hexo 中有两个 Box，分别是 `hexo.source` 和 `hexo.theme`，前者用于处理 `source` 文件夹，而后者用于处理主题文件夹。
 

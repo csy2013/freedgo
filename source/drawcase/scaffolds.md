@@ -1,5 +1,5 @@
 ---
-title: 脚手架（Scaffold）
+title: 在线绘图图表制作,脚手架（Scaffold）
 ---
 ## 获得脚手架
 

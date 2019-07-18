@@ -1,5 +1,5 @@
 ---
-title: Contributing
+title: 在线绘图图表制作,Contributing
 ---
 
 We welcome you to join the development of Hexo. 🤗

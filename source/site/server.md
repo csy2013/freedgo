@@ -1,5 +1,5 @@
 ---
-title: Server
+title: 在线绘图图表制作,Server
 ---
 ## [hexo-server]
 

@@ -1,4 +1,4 @@
-title: Generator
+title: 在线绘图图表制作,Generator
 ---
 A generator builds routes based on processed files.
 

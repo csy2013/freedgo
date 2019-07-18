@@ -1,5 +1,5 @@
 ---
-title: MySQL逆向工程，ER模型生成，通过DDL语句生成ER模型
+title: 在线绘图图表制作,MySQL逆向工程，ER模型生成，通过DDL语句生成ER模型
 ---
 
 给大家介绍一款在线ER模型生成的工具，可以针对MySQL的DDL文件在线生成ER模型图表，支持create table,alter table。

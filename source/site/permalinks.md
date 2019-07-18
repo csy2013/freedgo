@@ -1,5 +1,5 @@
 ---
-title: Permalinks
+title: 在线绘图图表制作,Permalinks
 ---
 You can specify the permalinks for your site in `_config.yml` or in the front-matter for each post.
 
@@ -31,7 +31,7 @@ permalink_defaults:
 Given a post named `hello-world.md` in the `source/_posts` folder with the following content.
 
 ``` yaml
-title: Hello World
+title: 在线绘图图表制作,Hello World
 date: 2013-07-14 17:01:34
 categories:
 - foo
