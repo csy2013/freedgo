@@ -83,4 +83,4 @@ title: 在线绘图图表制作,数据库逆向工程，ER模型生成，通过D
 
 使用过程中可以及时反馈使用效果，请点击`问题反馈`按钮
 
-![在线制图-问题反馈](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver20.png "在线制图问题反馈")
+![在线制图-问题反馈](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_feedback.png "在线制图问题反馈")
