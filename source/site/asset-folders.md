@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Asset Folders
+title: Asset Folders
 ---
 ## Global Asset Folder
 

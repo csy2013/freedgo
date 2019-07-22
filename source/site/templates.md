@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Templates
+title: Templates
 ---
 Templates define the presentation of your website by describing what each page should look like. The table below shows the corresponding template for every available page. At the very least, a theme should contain an `index` template.
 
@@ -70,7 +70,7 @@ You can define local variables in templates and use them in other templates.
 ```
 
 ``` html index.ejs
-<%- partial('partial/header', {title: 在线绘图图表制作,'Hello World'}) %>
+<%- partial('partial/header', {title: 'Hello World'}) %>
 <div id="content">Home page</div>
 ```
 

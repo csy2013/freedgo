@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Writing
+title: Writing
 ---
 
 {% youtube AIqBubK6ZLc %}

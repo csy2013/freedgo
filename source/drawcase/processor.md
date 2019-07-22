@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,处理器（Processor）
+title: 处理器（Processor）
 ---
 处理器用于处理 `source` 文件夹内的原始文件。
 

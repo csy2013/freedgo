@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,在线BPMN设计 怎么画BPMN bpmn图 实例 BPMN流程图在线 画流程图用什么 BPMN2图生成
+title: 在线BPMN设计 怎么画BPMN bpmn图 实例 BPMN流程图在线 画流程图用什么 BPMN2图生成
 ---
 
 # bpmn

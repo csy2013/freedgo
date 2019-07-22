@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Variables
+title: Variables
 ---
 
 {% youtube T9oAax-IRw0 %}

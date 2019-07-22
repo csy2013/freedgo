@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Helpers
+title: Helpers
 ---
 Helpers are used in templates to help you insert snippets quickly.  Helpers cannot be used in source files.
 

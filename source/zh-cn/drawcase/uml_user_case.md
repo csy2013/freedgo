@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,在线UML图设计 用例图 在线制图
+title: 在线UML图设计 用例图 在线制图
 ---
 
 **以下图例皆使用了在线UML制图网站[Freedgo Design](https://www.freedgo.com)，其访问地址为： https://www.freedgo.com**

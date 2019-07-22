@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,渲染引擎（Renderer）
+title: 渲染引擎（Renderer）
 ---
 渲染引擎用于渲染内容。
 

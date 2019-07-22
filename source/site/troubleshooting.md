@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,问题解答
+title: 问题解答
 ---
 在使用 Hexo 时，您可能会遇到一些问题，下列的常见问题解答可能会对您有所帮助。如果您在这里找不到解答，可以在 [GitHub](https://github.com/hexojs/hexo/issues) 或 [Google Group](https://groups.google.com/group/hexo) 上提问。
 

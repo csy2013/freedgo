@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,样式选项
+title: 样式选项
 ---
 
  ![样式选项](/public/themes/freedgo/style_option.png "样式选项") 

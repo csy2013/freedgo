@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Processor
+title: Processor
 ---
 A processor is used to process source files in the `source` folder.
 

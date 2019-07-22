@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Deployment
+title: Deployment
 ---
 Hexo provides a fast and easy deployment strategy. You only need one single command to deploy your site to your servers.
 

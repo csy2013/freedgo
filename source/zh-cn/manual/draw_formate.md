@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,格式面板
+title: 格式面板
 ---
 
  ![格式面板](/public/themes/freedgo/draw_formate.png "格式面板") 

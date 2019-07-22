@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,About
+title: About
 ---
 
 Hexo was originally created and maintained by [Tommy Chen](https://github.com/tommy351) in 2012, now it becomes a project with 16k stars (still increasing) and 35k downloads monthly (data from 2017-May). It already helps thousands of people to build their dream website/blog. 

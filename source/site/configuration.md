@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Configuration
+title: Configuration
 ---
 You can modify site settings in `_config.yml` or in an [alternate config file](#Using-an-Alternate-Config).
 

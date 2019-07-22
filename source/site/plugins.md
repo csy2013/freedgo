@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Plugins
+title: Plugins
 ---
 Hexo has a powerful plugin system, which makes it easy to extend functions without modifying the source code of the core module. There are two kinds of plugins in Hexo:
 

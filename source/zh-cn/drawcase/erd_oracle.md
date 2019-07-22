@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Oracle逆向工程,Oracle导入生成ER模型,通过DDL语句生成ER模型,ER模型SQL导出,根据ER模型生成SQL,SQL与ER模型,ERWin替代
+title: Oracle逆向工程,Oracle导入生成ER模型,通过DDL语句生成ER模型,ER模型SQL导出,根据ER模型生成SQL,SQL与ER模型,ERWin替代
 ---
 
 ## 概述

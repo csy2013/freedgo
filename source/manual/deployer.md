@@ -1,4 +1,4 @@
-title: 在线绘图图表制作,Deployer
+title: Deployer
 ---
 A deployer helps users quickly deploy their site to a remote server without complicated commands.
 

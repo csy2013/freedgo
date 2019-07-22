@@ -13,10 +13,6 @@ site:
     weibo_register: weibo_register.html
     password_update: password_update.html
     email_update: email_update.html
-    internationalization: plugins.html
-    miscellaneous: plugins.html
-    troubleshooting: plugins.html
-    hot_key: plugins.html
 manual:
   file_use:
    my_file: my_file.html

@@ -1,4 +1,4 @@
-title: 在线绘图图表制作,Local Variables
+title: Local Variables
 ---
 Local variables are used for template rendering, which is the `site` variable in templates.
 

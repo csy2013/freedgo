@@ -1,5 +1,5 @@
 ---
-title: 在线绘图图表制作,Front-matter
+title: Front-matter
 ---
 
 {% youtube pfD6FCZdW4Q %}
@@ -9,7 +9,7 @@ Front-matter is a block of YAML or JSON at the beginning of the file that is use
 **YAML**
 ``` yaml
 ---
-title: 在线绘图图表制作,Hello World
+title: Hello World
 date: 2013/7/13 20:46:25
 ---
 ```
