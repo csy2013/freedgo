@@ -19,6 +19,7 @@ manual:
    open_file: open_file.html
    create_file: create_file.html
    save_file: save_file.html
+   print_file: print_file.html
   online_draw:
     login_draw: login_draw.html
     draw_info: draw_info.html
