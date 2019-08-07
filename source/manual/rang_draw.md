@@ -1,110 +1,117 @@
 ---
-title: 布局
+title: Layout
 ---
 
 
-工具栏位于菜单栏的正下方，包含多种有用的功能。这些功能都可以通过其他方式访问，但是对于某些用户来说非常有用，因此需要一个快捷方式:
+The toolbar is located directly below the menu bar and contains a variety of useful functions. These functions can be accessed in other ways, but they are very useful for some users, so a shortcut is needed:
 
-![布局](/public/themes/freedgo/rang_draw.png '布局') 
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw.png 'Layout') 
  
-首先，我们将查看工具栏最右边标有+符号的插入下拉菜单。通过`调整图形`->插入，可以从菜单栏访问相同的菜单。
+First, we will look at the insertion drop-down menu marked with a+symbol on the far right of the toolbar.
+ You can access the same menu from the menu bar by adjusting the graphic insertion.
 
-![布局](/public/themes/freedgo/rang_draw1.png '布局') 
+
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw1.png 'Layout') 
  
-该下拉菜单提供的功能可以分为两大类。上半部分由`插入……`选项，下半部分由排列选项组成:快速构建和排列图表元素集合的方式。
+The functions provided by this drop-down menu can be divided into two categories. The top half consists of the `insert ...` option, while the bottom half consists of the arrangement options: how to quickly build and arrange a collection of chart elements.
 
 
-###	插入功能
+###	Insert function
 
-####	插入文本或形状
+####	Insert text or shape
 
-这些功能复制双击以插入文本功能，并将矩形和椭圆形拖放到图表区域。
+These functions duplicate double-click to insert text functions and drag and drop rectangles and ovals into the chart area.
 
-####	插入链接
+####	Insert Link
 
-也可以从该菜单中插入网址链接。插入链接将显示以下屏幕:
+You can also insert a URL link from this menu. Inserting a link displays the following screen:
 
-![布局](/public/themes/freedgo/rang_draw2.png "布局") 
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw2.png "Layout") 
  
-####	插入图像
+####	Insert Image
 
-图像也可以从该菜单中插入。插入图像会显示以下屏幕:
+Images can also be inserted from this menu. Inserting an image displays the following screen:
 
-![布局](/public/themes/freedgo/rang_draw3.png "布局") 
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw3.png "Layout") 
 
-有三种主要方法可以将图像网址添加到上面的字段中:
+There are three main ways to add image web addresses to the above fields:  
+1. Type or copy a web address directly in the image field. 
+2. Drag the image or the web address associated with the image onto the blank window pane. 
+3. Add images by browsing the local file system (device storage). 
 
-1. 直接在图像字段中键入或复制一个网址。
-2. 将图像或与图像相关联的网址拖到空白窗口窗格上。
-3. 通过浏览本地文件系统(设备存储)添加图像。 
- 	
-在每种情况下，该过程都非常类似于向自定义库中添加新符号时使用的过程，如`使用库`中所述。详情请查阅本页。
+In each case, the process is very similar to that used when adding new symbols to a custom library, as described in "Using Libraries." Please refer to this page for details.
 
-### 布局功能
+### Layout
 
-让我们从查看快速建立图表元素集合的方法开始。有许多常用的布局；将它们视为可定制的模板。
+Let's start by looking at ways to quickly create a collection of chart elements. There are many common Layout；; Think of them as customizable templates.
 
-##### Flow and Tree布局
-让我们选择 布局->水平流动作为例子。当我们选择此排列选项时，我们会弹出一个布局屏幕
+##### Flow and TreeLayout
+Let's choose Layout- > horizontal flow as an example. When we select this arrangement option, we will pop up a Layout screen.
 
-![布局](/public/themes/freedgo/rang_draw4.png "布局") 
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw4.png "Layout") 
  
-在这个空间里，我们可以开始建立一个图表。我们构建图表的方式有限。键盘快捷键被阻止，无法访问菜单、面板和工具栏。添加元素的唯一方法是单击形状右侧的->符号。我们将为开始元素这样做。
- 
-![布局](/public/themes/freedgo/rang_draw5.png "布局") 
- 
-结果类似于我们在正常工作区域这样做。一个区别是形状的类型是为我们选择的。我们可以开始用这种方法建立一个图表。
+In this space, we can start to build a chart. We have limited ways to build graphs. Keyboard shortcuts are blocked from accessing menus, panels, and toolbars. 
+The only way to add elements is to click the-> symbol to the right of the shape. We will do this for the starting element.
 
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw5.png "Layout") 
  
-每个新元素的位置系统确定，并根据相邻元素进行设置。可以通过以通常的方式单击和拖动来移动元素。
+The result is similar to what we did in the normal working area. One difference is that the type of shape is chosen for us. We can start to build a chart in this way.   
+The location system of each new element is determined and set according to the adjacent elements. You can move elements by clicking and dragging in the usual way.
  
- ![布局](/public/themes/freedgo/rang_draw6.png "布局") 
+ ![Online Diagram Drawing](/public/themes/freedgo/rang_draw6.png "Layout") 
  
-请注意，一旦创建了任何附加元素，用户以这种方式移动的任何元素都将恢复到其预定义的位置。
+Please note that once any additional elements are created, any elements moved by the user in this way will be restored to their predefined positions.
  
-![布局](/public/themes/freedgo/rang_draw7.png "布局") 
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw7.png "Layout") 
 
-还可以调整形状的大小和旋转形状，以及更改连接器与形状的连接方式，因为这些操作可以通过高亮显示元素然后使用鼠标来实现，而无需使用任何菜单。与移动元素不同，创建新元素时不会重置这些操作。
+You can also resize and rotate shapes and change how connectors are connected to shapes, because these operations can be accomplished by highlighting elements and then using the mouse without using any menus. 
+Unlike moving elements, these operations are not reset when new elements are created.  
 
-在下面的例子中，我们放大了起始元素，并将其子元素旋转了90度。
+In the following example, we have enlarged the starting element and rotated its children by 90 degrees.
  
- ![布局](/public/themes/freedgo/rang_draw8.png "布局") 
+ ![Online Diagram Drawing](/public/themes/freedgo/rang_draw8.png "Layout") 
  
-一旦我们对图表感到满意，我们可以按插入，它将被插入到图表中的正常工作空间中。一旦插入，就可以使用系统的任何功能进行更改。
-其他流程和树的排列工作方式相同。这里是一个已经插入到图表中的垂直树结构的例子。
+Once we are satisfied with the chart, we can press Insert and it will be inserted into the normal workspace in the chart. Once inserted, changes can be made using any function of the system. 
+Other processes and trees are arranged in the same way. Here is an example of a vertical tree structure that has been inserted into the diagram.
+
  
   
-#####	力导布局
+#####	Layout
 
-![布局](/public/themes/freedgo/rang_draw9.png "布局") 
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw9.png "Layout") 
  
-##### 从文本
+##### From Text
 
-使用文本语句构建图表是可能的。选择布局 ->从文本显示以下屏幕，包含简单圆形图的文本
- 
-![布局](/public/themes/freedgo/rang_draw10.png "布局") 
-
-这个屏幕是一个简单的文本编辑器。;符号表示注释。字母用于指示每个元素，而->用于指示每个元素之间连接器的方向。如果我们保持这个示例文本不变，并按插入，我们会得到下图。
- 
-![布局](/public/themes/freedgo/rang_draw11.png "布局") 
+It is possible to build charts using text statements. 
+Select Layout-> display the following screen from text, including text of a simple pie chart
 
  
-这个屏幕是一个简单的文本编辑器，通过添加更多的行可以创建更多复杂的图表。假设我们想引入从a连接的第四个元素。我们添加下面突出显示的行:
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw10.png "Layout") 
+
+This screen is a simple text editor. ; Symbols represent comments. 
+Letters are used to indicate each element, while-> is used to indicate the direction of connectors between each element. 
+If we leave the sample text unchanged and press Insert, we will get the following figure. 
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw11.png "Layout") 
+
  
- ![布局](/public/themes/freedgo/rang_draw12.png "布局") 
+This screen is a simple text editor that can create more complex charts by adding more rows. Suppose we want to introduce the fourth element connected from a. We add the following highlighted lines:
  
-然后按`插入`将图表移动到主工作空间。
-
- ![布局](/public/themes/freedgo/rang_draw13.png "布局") 
-
-###	改变布局
-
-一旦导入或通过其他方式创建，任何现有图表都可以转换为任何类型的排列。但是，工具栏中不提供此功能。前面已经提到，工具栏功能与菜单栏中选择排列->插入时可用的功能相对应。相反，我们可以选择排列->布局，并将任何布局/排列应用于现有图表。可以应用工具栏中的六种布局，以及一种新的布局，径向树。
-
-![布局](/public/themes/freedgo/rang_draw14.png "布局") 
+ ![Online Diagram Drawing](/public/themes/freedgo/rang_draw12.png "Layout") 
  
-让我们选择我们之前创建的整个水平树图，然后将`编配`->`布局`->`径向树`应用到它。
-元素通过系统自动重新排列，以匹配所选布局。在这种情况下，结果如下:
+Then press Insert to move the chart to the main workspace.
 
-![布局](/public/themes/freedgo/rang_draw15.png "布局") 
+ ![Online Diagram Drawing](/public/themes/freedgo/rang_draw13.png "Layout") 
+
+###	改变Layout
+
+Once imported or otherwise created, any existing chart can be converted to any type of arrangement.
+ However, this feature is not available in the toolbar.
+  As mentioned earlier, toolbar functions correspond to the functions available when selecting arrange-> insert in the menu bar. Instead, we can choose layout ->Layout and apply any Layout/ arrangement to existing charts.
+   You can apply six Layouts in the toolbar and a new layout, radial tree.
+   
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw14.png "Layout") 
+ 
+Let's select the entire horizontal tree diagram we created before and then apply `arrange`->`layout`->`radial tree` to it. Elements are automatically rearranged by the system to match the selected Layout. In this case, the results are as follows:
+
+![Online Diagram Drawing](/public/themes/freedgo/rang_draw15.png "Layout") 
    

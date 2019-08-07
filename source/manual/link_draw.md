@@ -1,131 +1,136 @@
 ---
-title: 连接器，航点和改变形状
+title: Connectors, waypoints and changing shapes
 ---
 
-##	改变形状
+##	changing shapes
 
-### 旋转形状
+### Rotating shape
 
-创建新形状时，它总是从相对于页面的某个方向开始。例如，创建圆柱体时，它总是这样出现:
+When creating a new shape, it always starts in a direction relative to the page. For example, when creating a cylinder, it always appears like this:
  
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw.png "连接器，航点和改变形状")   
+![Online Diagram Drawing](/public/themes/freedgo/link_draw.png "Connectors, waypoints and changing shapes")   
 
-旋转任何形状都是可能的，有几种方法可以做到这一点。为了使用它们中的任何一个，我们必须首先单击形状来突出显示它。
+It is possible to rotate any shape, and there are several ways to do this. In order to use any of them, we must first click on the shape to highlight it.
 
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw1.png "连接器，航点和改变形状")   
 
-请注意形状上方的弯曲箭头。单击箭头一次将顺时针方向将对象旋转90度。因此，为了将圆柱体旋转270度，以便顶部指向左侧，我们只需单击箭头三次。
+![Online Diagram Drawing](/public/themes/freedgo/link_draw1.png "Connectors, waypoints and changing shapes")   
+
+Notice the curved arrow above the shape.
+Clicking the arrow once rotates the object 90 degrees clockwise. Therefore, in order to rotate the cylinder 270 degrees so that the top points to the left, we only need to click the arrow three times.
  
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw3.png "连接器，航点和改变形状") 
+![Online Diagram Drawing](/public/themes/freedgo/link_draw3.png "Connectors, waypoints and changing shapes") 
 
-我们不局限于90度的倍数。通过点击并按住鼠标，然后向左或向右旋转光标，我们可以分别逆时针或顺时针方向旋转形状。下面我们看到一个逆时针方向旋转了120度的圆柱体。
+We are not limited to multiples of 90 degrees. 
+By clicking and holding down the mouse, then rotating the cursor left or right, we can rotate the shape counterclockwise or clockwise, respectively. Next we see a cylinder rotating 120 degrees counterclockwise.
 
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw4.png "连接器，航点和改变形状") 
 
-###	改变尺寸
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw4.png "Connectors, waypoints and changing shapes") 
 
-创建新形状时，它总是以相同的大小开始显示。例如，椭圆在创建时总是这样出现:
+###	Change Size
 
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw5.png "连接器，航点和改变形状") 
+When creating a new shape, it always starts to display at the same size. For example, ellipses are always created like this:
+
+![Online Diagram Drawing](/public/themes/freedgo/link_draw5.png "Connectors, waypoints and changing shapes") 
  
-可以调整任何形状的大小，有几种方法可以做到这一点。为了使用它们中的任何一个，我们必须首先单击形状来突出显示它。
-请注意高亮框架周围的蓝点。通过单击并拖动其中一个点，我们可以调整形状的大小。有时我们希望保持形状的长宽比(即保持相同的长宽比)。为此，单击并拖动其中一个角点。
+You can adjust the size of any shape. There are several ways to do this. 
+In order to use any of them, we must first click on the shape to highlight it. 
+Notice the blue dots around the highlighted frame. We can resize the shape by clicking and dragging one of the points. 
+Sometimes we want to keep the aspect ratio of the shape (i.e. keep the same aspect ratio). 
+To do this, click and drag one of the corners.
  
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw6.png "连接器，航点和改变形状") 
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw6.png "Connectors, waypoints and changing shapes") 
  
-上面我们放大了形状；它与原来的形状相同，但放大了。相反，我们可以只改变高度或宽度。我们通过拖动水平线(调整高度)或垂直线(调整宽度)上的一个点来实现这一点。
+Above we have enlarged the shape; It is the same as the original shape, but enlarged. 
+On the contrary, we can only change the height or width. We do this by dragging a point on a horizontal line (height adjustment) or a vertical line (width adjustment).
 
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw7.png "连接器，航点和改变形状") 
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw7.png "Connectors, waypoints and changing shapes") 
 
-上面我们只调整了椭圆的高度。现在椭圆看起来更像一个圆。
+Above we only adjusted the height of the ellipse. Now the ellipse looks more like a circle.
 
-###	使用连接器
-实际上，有两种方法可以将连接器连接到形状上，我们现在来看一下。我们可以创建`锚定连接`或`浮动连接`。
+###	Use connector
+In fact, there are two ways to connect connectors to shapes.
+ Let's look at them now. We can create `anchor connection` or `floating connection`.  Anchor connector  Suppose we want to connect two rectangles.
 
-锚定连接器
 
-假设我们想连接两个矩形。
-
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw8.png "连接器，航点和改变形状") 
+![Online Diagram Drawing](/public/themes/freedgo/link_draw8.png "Connectors, waypoints and changing shapes") 
  
-是通过在第一个形状上找到连接点来连接两个形状，然后单击并拖动直到在第二个形状上找到连接点。
+Connect two shapes by finding a connection point on the first shape, and then click and drag until a connection point is found on the second shape.
  
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw9.png "连接器，航点和改变形状") 
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw9.png "Connectors, waypoints and changing shapes") 
 
-在这里释放连接。我们现在已经创建了一个锚定连接点。这意味着随着形状的移动，连接器将始终连接到相同的连接点。在我们的示例中，连接器的两端都被锚定。
+Release the connection here.
+ We have now created an anchor connection point. 
+ This means that as the shape moves, the connector will always be connected to the same connection point. 
+ In our example, both ends of the connector are anchored.
 
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw10.png "连接器，航点和改变形状") 
+![Online Diagram Drawing](/public/themes/freedgo/link_draw10.png "Connectors, waypoints and changing shapes") 
  
-说明这是如何工作的最好方法之一是多次旋转其中一个形状。
+One of the best ways to show how this works is to rotate one of the shapes several times.
  
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw11.png "连接器，航点和改变形状") 
+![Online Diagram Drawing](/public/themes/freedgo/link_draw11.png "Connectors, waypoints and changing shapes") 
 
 
-您可以看到连接器跟随连接点。如果我们旋转第一个形状，我们会看到同样的东西。
+You can see that the connector follows the connection point. If we rotate the first shape, we will see the same thing.
 
-###	浮动连接器
+###	Floating connector
 
-让我们看看连接这两个矩形的另一种方法。
+Let's look at another way to connect the two rectangles.
 
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw12.png "连接器，航点和改变形状") 
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw12.png "Connectors, waypoints and changing shapes") 
 
-我们将在第一个形状上找到一个连接点，并像以前一样单击和拖动。但是这一次，我们将把连接器拖到第二个形状的中心，这样整个形状就用一条蓝色实线勾勒出来。
+We will find a connection point on the first shape and click and drag as before. But this time, we will drag the connector to the center of the second shape so that the whole shape is outlined with a solid blue line.   
+Release the connection here. We have now created a floating connection point. This means that as the shape moves, the connector adjusts the connection point of its connection. Please note that it looks the same as the anchor connection point.
  
-
-在这里释放连接。我们现在已经创建了一个浮动连接点。这意味着随着形状的移动，连接器会调整其连接的连接点。请注意，它看起来与锚定连接点相同。
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw13.png "Connectors, waypoints and changing shapes") 
  
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw13.png "连接器，航点和改变形状") 
- 
-然而，如果我们旋转第二个形状，我们会看到不同。
+However, if we rotate the second shape, we will see a difference.
  
  
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw14.png "连接器，航点和改变形状") 
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw14.png "Connectors, waypoints and changing shapes") 
 
-有许多方法可以在两点之间建立连接。在本节中，我们一直在研究如何创建与现有形状的连接。也有一些方法可以创建新形状，同时创建与它的连接。一种是在突出显示的形状右侧使用箭头符号。另一种方法是在启用`连接时复制`选项的情况下创建新连接，以便新连接器终止于原始形状的副本。
+There are many ways to establish a connection between two points. In this section, we have been studying how to create connections to existing shapes. There are also some ways to create a new shape and create a connection to it. 
+One is to use an arrow symbol to the right of the highlighted shape. 
+Another method is to create a new connection with the copy on connection option enabled so that the new connector terminates in a copy of the original shape.
 
-###	路标
-
-有可能以不同的方式安排连接。这通常在更复杂的图表中很有用，在这些图表中，不同形状之间的连接线可能需要避免任何中间形状。此外，我们目前使用的正交连接器可能不是最合适的选择。我们已经在插入功能中看到一些布局/排列使用弯曲的连接器。您可以通过使用航路点来合并各种类型的连接器形状。
-
-让我们从一个简单的图表开始:两个矩形，由一个连接器连接。连接器的起点固定在第一个矩形上。连接器的端部具有到第二矩形的浮动连接。让我们点击连接器突出显示它。
+###	Anchor
+It is possible to arrange connections in different ways. This is usually useful in more complex charts where connecting lines between different shapes may need to avoid any intermediate shapes. In addition, the orthogonal connector we are currently using may not be the most suitable choice. We have seen some layouts/arrangements using curved connectors in the insertion function. 
+You can merge various types of connector shapes by using waypoints. 
+ Let's start with a simple diagram: two rectangles connected by a connector. The starting point of the connector is fixed on the first rectangle. The end of the connector has a floating connection to the second rectangle. Let's click on the connector to highlight it.
  
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw15.png "连接器，航点和改变形状") 
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw15.png "Connectors, waypoints and changing shapes") 
   
-您可以看到连接器中间有一个蓝点。这是一个航路点。我们可以用它来改变连接器的路径。单击并向上拖动蓝点。
+You can see a blue dot in the middle of the connector. This is a waypoint. We can use it to change the path of the connector. Click and drag the blue dot up.
 
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw16.png "连接器，航点和改变形状") 
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw16.png "Connectors, waypoints and changing shapes") 
 
-我们已经改变了连接器的路径。请注意，连接器的两端一个锚定，另一个浮动都像我们期望的那样运行。当我们创建连接器的新部分时，会出现更多的航路点，以允许我们进一步操作路径。让我们选择一个新的航路点，第一个矩形上方的航路点，并稍微向右拖动它。
+We have changed the path of the connector. Please note that both ends of the connector are anchored and the other floating as we expect. When we create a new part of the connector, more waypoints will appear to allow us to further manipulate the path. 
+Let's select a new waypoint, the waypoint above the first rectangle, and drag it slightly to the right.
+
  
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw17.png "连接器，航点和改变形状") 
+![Online Diagram Drawing](/public/themes/freedgo/link_draw17.png "Connectors, waypoints and changing shapes") 
 
 
-现在让我们转到工具栏，并选择路径点下拉菜单,有不同类型的连接器；我们目前使用的是正交连接器，它可以弯曲，但只能成直角。
+Now let's go to the toolbar and select the path point drop-down menu. There are different types of connectors. We are currently using orthogonal connectors, which can bend, but only at right angles.
+
  
-  ![连接器，航点和改变形状](/public/themes/freedgo/link_draw18.png "连接器，航点和改变形状") 
+  ![Online Diagram Drawing](/public/themes/freedgo/link_draw18.png "Connectors, waypoints and changing shapes") 
 
-单击第一个菜单选项`直线`(由直线连接器表示)，使连接器成为直线。
+Click the first menu option `straight line` (represented by a straight line connector) to make the connector straight.  
+We have returned the connector to its original path. 
+But now, even if the connector is highlighted, there is no central waypoint. Straight connectors cannot deviate from straight lines, so no connectors are required. 
+If we move the second rectangle by dragging it, the connector will move with it-but it cannot deviate from the straight line.  
+You may not have seen this before. 
+As you expected, the floating connection to the second rectangle has moved, but it is no longer connected to any connection point on the second rectangle. Compare this with the default orthogonal connector, which moves only north, east, south or west, so even floating connections point to connection points at the edges of the rectangle.
 
-我们已经将连接器返回到其原始路径。但是现在，即使连接器高亮显示，也没有中心航路点。直线连接器不能偏离直线，因此不需要任何连接器。
-如果我们通过拖动它来移动第二个矩形，连接器将随之移动--但是它不能偏离直线。
-
-你可能以前没见过这个。如您所料，到第二个矩形的浮动连接已经移动，但它不再连接到第二个矩形上的任何连接点。将此与默认正交连接器进行对比，默认正交连接器仅向北、向东、向南或向西移动，因此即使是浮动连接也会指向矩形边缘的连接点。
-
-现在让我们尝试一个弯曲的连接器。从`连接器`菜单中，选择第三个选项`弯曲`。
-
-![连接器，航点和改变形状](/public/themes/freedgo/link_draw19.png "连接器，航点和改变形状") 
+![Online Diagram Drawing](/public/themes/freedgo/link_draw19.png "Connectors, waypoints and changing shapes") 
  
-现在连接器是弯曲的，新的路径点出现了，允许我们定制路径。我们可以点击并拖动一个航路点，就像我们在正交例子中所做的那样。
+Now the connector is curved and new path points appear, allowing us to customize the path. We can click and drag a waypoint, just as we did in the orthogonal example.
  
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw20.png "连接器，航点和改变形状") 
-  ![连接器，航点和改变形状](/public/themes/freedgo/link_draw21.png "连接器，航点和改变形状") 
-我们有一个新的连接器路径，以及我们已经添加的新的路径点。
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw20.png "Connectors, waypoints and changing shapes") 
+  ![Online Diagram Drawing](/public/themes/freedgo/link_draw21.png "Connectors, waypoints and changing shapes") 
+We have a new connector path and we have added new path points.  Finally, several options in the right-click menu may be useful. After selecting the connector, adjust the drawing.
 
-最后，右键菜单中有几个选项可能会很有用。选择连接器后，通过`调整图形`。
-
- ![连接器，航点和改变形状](/public/themes/freedgo/link_draw22.png "连接器，航点和改变形状") 
+ ![Online Diagram Drawing](/public/themes/freedgo/link_draw22.png "Connectors, waypoints and changing shapes") 
   
-有几个与航路点相关的选项可供选择。单击清除航路点，它将删除我们通过手动操作添加的航路点。与这些航路点相关联的路径更改也被删除。实际上，我们已经回到了改变道路之前。
-  
-
-我们也可以通过右击其中一个航路点，然后选择移除航路点，来单独移除额外的航路点。 
+There are several waypoint-related options to choose from. Click Clear waypoints, which will delete the waypoints we added manually. Path changes associated with these waypoints are also deleted. In fact, we have already returned to before we changed the road.   
+We can also remove additional waypoints individually by right-clicking one of the waypoints and selecting Remove waypoint.

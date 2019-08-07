@@ -1,29 +1,31 @@
 ---
-title: 创建文件
+title: create file
 ---
-**创建文件的四种方式:**
+**Four Ways to Create Files:**
 
-+ 在`我的制作`中通过`新建`按钮创建:
++ In`My Files`create it with the `New` button: 
 <br/>
-  ![我的制图页面](/public/themes/freedgo/create_file.png "我的制图页面")
+  ![Online Diagram Drawing](/public/themes/freedgo/create_file.png "My File")
   
 
 
-+ 在制图工具通过菜单` 文件` -> `新增…` 创建
++ In the drawing tool,` File` -> `New…` create 
 <br/>  
-  ![制图新增页面](/public/themes/freedgo/create_file1.png "制图新增页面")
+  ![Online Diagram Drawing](/public/themes/freedgo/create_file1.png "Add File")
   
 <br/>
 
-+ 在图例中创建,通过 ` 图例`，进入`详细页面`，点击`使用此模板`或者`创建新模板`
++ Create it in the legend, enter the `details page` through the legend, and click `use this template` or `create a new template`
+
 <br/>  
-  ![制图模板页面](/public/themes/freedgo/create_file1.png "制图模板页面")
+  ![Online Diagram Drawing](/public/themes/freedgo/create_file1.png "Diagram Template")
   
 <br/>
 
-+ 从类型中创建，在制图工具通过菜单 ` 文件` -> `从类型中新建` 选择其中一个类型文件。
++ Create from type and select one of the type files in the drawing tool via menu `file`->`new from type`。
+
 <br/>  
-  ![制图新增类型页面](/public/themes/freedgo/create_file3.png "制图新增类型页面")
+  ![Online Diagram Drawing](/public/themes/freedgo/create_file3.png "Diagram File")
   
 <br/>
  

@@ -5,7 +5,7 @@ The router saves all paths used in the site.
 
 ## Get a Path
 
-The `get` method returns a [Stream]. For example, to save the path data to a specified destination:
+The `get` method returns a [Online Diagram Drawing]. For example, to save the path data to a specified destination:
 
 ``` js
 var data = hexo.route.get('index.html');
@@ -16,7 +16,7 @@ data.pipe(dest);
 
 ## Set a Path
 
-The `set` method takes a string, a [Buffer] or a function.
+The `set` method takes a string, a [Online Diagram Drawing] or a function.
 
 ``` js
 // String
@@ -70,5 +70,5 @@ hexo.route.format('archives/');
 // archives/index.html
 ```
 
-[Stream]: http://nodejs.org/api/stream.html
-[Buffer]: http://nodejs.org/api/buffer.html
+[Online Diagram Drawing]: http://nodejs.org/api/stream.html
+[Online Diagram Drawing]: http://nodejs.org/api/buffer.html

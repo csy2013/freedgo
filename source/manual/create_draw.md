@@ -1,79 +1,81 @@
 ---
-title: 创建一个图形
+title: Create a Diagram
 ---
 
 
-左侧是许多`图标库`，您可以从中选择形状来构建图表。我们将使用`通用`库，如果未打开，请单击`常规选项卡`上的任意位置将其打开并显示符号。
+On the left is a number of `library of charts` from which you can select shapes to build charts. We will use the ` General ` library. If it is not open, click anywhere on the ` General tab ` to open it and display the symbol.
 
-![创建一个图形](/public/themes/freedgo/create_draw.png "创建一个图形") 
+![Online Diagram Drawing](/public/themes/freedgo/create_draw.png "create a diagram") 
  
-点按并按住矩形形状(左上角的形状)，将其拖到图表上的某个位置，然后释放。该形状将出现在您的图表中，突出显示。
+Click and hold the rectangular shape (the shape in the upper left corner), drag it to a position on the chart, and then release. The shape will appear in your chart, highlighted.
  
-![创建一个图形](/public/themes/freedgo/create_draw1.png "创建一个图形") 
+![Online Diagram Drawing](/public/themes/freedgo/create_draw1.png "create a diagram") 
 
  
-在图表中没有选择任何内容的情况下，将鼠标悬停在矩形上。将出现许多十字和四个蓝色箭头。这些是固定连接点，您可以使用它们来放置连接器。
-单击连接点，然后拖动鼠标。将会出现一条绿色线。
+With nothing selected in the chart, hover over the rectangle. There will be many crosses and four blue arrows. These are fixed connection points that you can use to place connectors. Click the connection point and drag the mouse. A green line will appear.
 
-![创建一个图形](/public/themes/freedgo/create_draw2.png "创建一个图形") 
+![Online Diagram Drawing](/public/themes/freedgo/create_draw2.png "create a diagram") 
  
 
-当您决定了连接的结束位置后，松开鼠标，将创建一个连接，并创建一个连接到另一端的原始矩形的副本。
+When you have determined the end position of the connection, releasing the mouse will create a connection and a copy of the original rectangle connected to the other end.
 
-![创建一个图形](/public/themes/freedgo/create_draw3.png "创建一个图形") 
+![Online Diagram Drawing](/public/themes/freedgo/create_draw3.png "create a diagram") 
  
-创建副本是因为我们启用了连接时复制选项。然而，有时我们想使用不同的符号，这种选择并不方便。再次转到菜单栏，选择`其他`->取消连接时复制以禁用此功能。
-
-我们现在将创建另一个连接，但这次它将连接到不同的形状。将鼠标悬停在第二个矩形上，选择一个连接点，然后像以前一样单击并拖动。
-
-我们选择一个点来终止连接器，然后释放鼠标。
+The replica was created because we enabled the copy on connection option. However, sometimes we want to use different symbols, which is not convenient. 
+Go to the menu bar again and select `other `-> copy when disconnecting to disable this function.  
+We will now create another connection, but this time it will connect to a different shape. 
+Hover the mouse over the second rectangle, select a connection point, and then click and drag as before.  
+We select a point to terminate the connector and release the mouse.
  
-![创建一个图形](/public/themes/freedgo/create_draw4.png "创建一个图形") 
+![Online Diagram Drawing](/public/themes/freedgo/create_draw4.png "create a diagram") 
 
-当我们这次释放鼠标时，我们创建了连接，但是没有形状随它一起出现。这允许我们选择任何可用的形状。
-高亮显示时，您可能已经注意到每个形状右侧有一个蓝色箭头符号。单击此按钮将自动生成形状的副本，位于原始形状的右侧并与之相连。
+When we released the mouse this time, we created the connection, but no shape appeared with it. 
+This allows us to choose any available shape. 
+When highlighted, you may have noticed a blue arrow symbol to the right of each shape. 
+Clicking this button will automatically generate a copy of the shape, located to the right of the original shape and connected to it.  
+This is similar to the process we went through when we created the second rectangle using the ` Copy on Connection ` option, except that this method works even if the ` Copy on Connection ` option is disabled. 
+However, there is one difference: using arrow symbols to copy and connect creates floating connections at both ends.
+Copying on Connect will result in a floating connection to the new shape, but will result in an anchored connection to the original shape. 
+ We may decide not to put the second diamond in the drawing place. 
+ Now that we have highlighted the shape, let `s drag it to other places.  
+ We have pulled the second diamond up from its original position, but we have not released it yet. 
+ The information provided when we move the shape can help us put it where we want to put it.
  
-这与我们使用`连接时复制`选项创建第二个矩形时所经历的过程相似，只是即使禁用了`连接时复制`选项，这种方法也有效。但是有一个区别:使用箭头符号复制和连接会在两端创建浮动连接。使用`连接时复制`会导致与新形状的浮动连接，但会导致与原始形状的锚定连接。 
+![Online Diagram Drawing](/public/themes/freedgo/create_draw5.png "create a diagram") 
 
-我们可能会决定不要第二个菱形放在画图的地方。既然我们已经突出显示了形状，让我们将它拖到其他地方。
 
-我们已经把第二个菱形从它原来的位置拉了上来，但是我们还没有释放它。当我们移动形状时提供的信息可以帮助我们把它放在我们想放的地方。
+First, we see a dashed outline showing where the shape will go if we release it to its current position.
+ It also provides the current coordinates of the location, taken from the upper left corner of the shape. 
+ Sometimes we see blue guidelines appear. 
+ These tell us that the edge or central axis of a shape is aligned with the edge or central axis of another nearby shape.  
+ In the above example, we can see that our current position is aligned with two shapes, one vertical and one horizontal.  
+ Let's put the shape here and click once away from the shape so that it is no longer highlighted.  
+ The shape appears in its new position and the connector changes its route to keep the connection. 
+ Now it is connected to a point at the bottom of the diamond. For any floating connection, this is handled automatically by the system.  
+ Let `s move the second diamond again, this time directly under the first diamond. 
+ We will know when they are aligned because a blue vertical guide line will appear.  
+ Now release the mouse. The diamond has moved again. This time, the floating connector has moved its position at both ends.
+
+![Online Diagram Drawing](/public/themes/freedgo/create_draw6.png "create a diagram") 
  
-![创建一个图形](/public/themes/freedgo/create_draw5.png "创建一个图形") 
-
-
-首先，我们看到一个虚线轮廓，显示了如果我们将其释放到当前位置，形状将会走向哪里。它还提供了该位置的当前坐标，取自形状的左上角。有时我们会看到蓝色的指导方针出现。这些告诉我们形状的边缘或中心轴与另一个附近形状的边缘或中心轴对齐。
-
-在上面的例子中，我们可以看到我们当前的位置与两个形状对齐，一个垂直，一个水平。
-
-让我们将形状放在这里，在远离形状的地方单击一次，这样它就不再突出显示了。
-
-形状出现在其新位置，连接器改变了其路线，以便保持连接。现在它连接到菱形底部的一个点上。对于任何浮动连接，这由系统自动处理。
-
-让我们再次移动第二个菱形，这次直接在第一个菱形下面。我们会知道它们何时对齐，因为会出现一条蓝色的垂直指引线。
-
-现在放开鼠标。菱形又移动了。这一次，浮动连接器已经在两端移动了位置。
-
-![创建一个图形](/public/themes/freedgo/create_draw6.png "创建一个图形") 
+Sometimes we want to change the connections in the diagram. 
+Perhaps we have decided that the connection with the second diamond needs to be changed to another shape. First, drag an ellipse from the General Symbol menu onto our chart.
  
-有时我们会想改变图表中的连接。也许我们已经决定，与第二菱形的连接需要改为另一种形状。首先从`常规符号`菜单中拖动一个椭圆到我们的图表上。
- 
- ![创建一个图形](/public/themes/freedgo/create_draw7.png "创建一个图形") 
+ ![Online Diagram Drawing](/public/themes/freedgo/create_draw7.png "create a diagram") 
 
-现在我们想移动连接器的箭头端，使其连接到椭圆。此刻它连接到菱形，并将随菱形移动。要移动它，我们首先高亮显示连接器，然后将光标放在连接器箭头上。
+Now we want to move the arrow end of the connector to connect it to the ellipse. At this moment it is connected to the diamond and will move with the diamond. To move it, we first highlight the connector and then place the cursor on the connector arrow.
 
-![创建一个图形](/public/themes/freedgo/create_draw8.png "创建一个图形")  
+![Online Diagram Drawing](/public/themes/freedgo/create_draw8.png "create a diagram")  
 
-现在单击箭头并将其拖到椭圆上。我们想要将连接器连接并锚定到椭圆上的一个点，因此我们需要在椭圆的周边找到一个连接点。连接点通常以规则的间隔围绕一个形状，通常在对称轴与周长相交的地方。
-
-我们将知道何时将连接器拖动到椭圆的一个连接点上，因为椭圆的所有连接点都将出现，并且您当前悬停在其上的连接点将被一个绿色的小正方形包围，这表明连接器被正确放置以连接到该点。
-
- 松开连接器会将其连接并固定到椭圆上。如果移动椭圆，连接器将跟随它。
+Now click the arrow and drag it onto the ellipse. We want to connect and anchor the connector to a point on the ellipse, so we need to find a connection point around the ellipse.
+ Connection points usually surround a shape at regular intervals, usually where the axis of symmetry intersects the perimeter.  
+ We will know when to drag the connector onto a connection point of the ellipse, because all the connection points of the ellipse will appear, and the connection point on which you are currently hovering will be surrounded by a small green square, which indicates that the connector is correctly placed to connect to the point.  
+ Releasing the connector connects and secures it to the ellipse. If you move the ellipse, the connector will follow it.
   
- ![创建一个图形](/public/themes/freedgo/create_draw9.png "创建一个图形") 
+ ![Online Diagram Drawing](/public/themes/freedgo/create_draw9.png "create a diagram") 
 
-让我们通过在图表中添加一些文本来完成第一个教程。添加文本的最简单方法是在您希望文本出现的地方双击。在形状内部或连接器上单击并键入将导致出现位于形状中心的文本。
+Let `s complete the first tutorial by adding some text to the chart. The easiest way to add text is to double-click where you want the text to appear. Clicking and typing inside the shape or on the connector will cause text to appear in the center of the shape.
  
- ![创建一个图形](/public/themes/freedgo/create_draw10.png "创建一个图形") 
+ ![Online Diagram Drawing](/public/themes/freedgo/create_draw10.png "create a diagram") 
 
-如果我们想在形状之外添加文本，只需将光标放在希望文本出现的位置，然后双击即可。将出现一个文本框，我们可以简单地在其中输入。
+If we want to add text to the shape, just place the cursor where we want the text to appear and double click. A text box will appear in which we can simply enter.

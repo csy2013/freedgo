@@ -13,7 +13,7 @@ hexo.extend.tag.register(name, function(args, content){
 
 Two arguments will be passed into the tag function: `args` and `content`. `args` contains the arguments passed into the tag plugin and `content` is the wrapped content from the tag plugin.
 
-Since the introduction of asynchronous rendering in Hexo 3, we are using [Nunjucks] for rendering. The behavior may be somewhat different from that in [Swig].
+Since the introduction of asynchronous rendering in Hexo 3, we are using [Online Diagram Drawing].
 
 ## Options
 
@@ -33,7 +33,7 @@ Insert a Youtube video.
 
 ``` js
 hexo.extend.tag.register('youtube', function(args){
-  var id = args[0];
+  var id = args[Online Diagram Drawing];
   return '<div class="video-container"><iframe width="560" height="315" src="http://www.youtube.com/embed/' + id + '" frameborder="0" allowfullscreen></iframe></div>';
 });
 ```
@@ -58,7 +58,7 @@ var fs = require('hexo-fs');
 var pathFn = require('path');
 
 hexo.extend.tag.register('include_code', function(args){
-  var filename = args[0];
+  var filename = args[Online Diagram Drawing];
   var path = pathFn.join(hexo.source_dir, filename);
 
   return fs.readFile(path).then(function(content){
@@ -67,5 +67,5 @@ hexo.extend.tag.register('include_code', function(args){
 }, {async: true});
 ```
 
-[Nunjucks]: http://mozilla.github.io/nunjucks/
-[Swig]: http://paularmstrong.github.io/swig/
+[Online Diagram Drawing]: http://mozilla.github.io/nunjucks/
+[Online Diagram Drawing]: http://paularmstrong.github.io/swig/

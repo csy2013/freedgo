@@ -1,7 +1,7 @@
 ---
 title: Themes
 ---
-`hexo.theme` inherits from [Box](box.html), and also saves templates.
+`hexo.theme` inherits from [Online Diagram Drawing](box.html), and also saves templates.
 
 ## Get a View
 
@@ -33,4 +33,4 @@ view.render({foo: 1, bar: 2}).then(function(result){
 });
 ```
 
-You can pass options to the `render` method and it will try to process the template with the corresponding renderer and load the [helpers](helper.html). When rendering is complete, it will try to find whether a layout exists. If `layout` is `false` or if it doesn't exist, the result will be returned directly.
+You can pass options to the `render` method and it will try to process the template with the corresponding renderer and load the [Online Diagram Drawing](helper.html). When rendering is complete, it will try to find whether a layout exists. If `layout` is `false` or if it doesn't exist, the result will be returned directly.

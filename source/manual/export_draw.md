@@ -1,7 +1,7 @@
 ---
-title: 导出
+title: export
 ---
 
-可以导出为PNG,JPEG,SVG.
+Can be exported as PNG,JPEG,SVG.
 
-![导出为PNG,JPEG,SVG](/public/themes/freedgo/export_draw.png "导出为PNG,JPEG,SVG")  
+![Online Diagram Drawing](/public/themes/freedgo/export_draw.png "exported as PNG,JPEG,SVG.")  

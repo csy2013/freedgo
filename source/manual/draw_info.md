@@ -1,97 +1,109 @@
 ---
-title: 页面概览
+title: Page overview
 ---
 
- ![页面概览](/public/themes/freedgo/draw_info.png "页面概览") 
+ ![Online Diagram Drawing](/public/themes/freedgo/draw_info.png "Page overview") 
  
  
-## 菜单
-
-功能和支持选项细分为六个主菜单，可在顶部`菜单栏`中找到。
-
-第一个是`文件`，与该菜单相关的功能在文件使用说明中有提到。
-
-接下来的三个：`编辑`、`查看`和`调整图形`，都与使用图表有关，
-最后两个，`附加功能`和`帮助`。
+## Menu 
 
 
-## 工具栏
+The function and support options are subdivided into six main menus, which can be found in the top `menu`. 
 
-菜单栏正下方是`工具栏`。许多最常用的`查看`和`编辑选项`都可以从该栏中访问。
+The first is `file`, and the functions related to this menu are mentioned in the document usage instructions. 
+ 
+ The next three: `Edit`, `View` and `Arrange` are all related to using graphs. The last two are `Extras` and `help`.
 
-## 图标库
-左手边是`图标库`。 
-单击图标会导致该图标的实例出现在图表的左上角。单击并拖动符号可让您将符号定位在工作区域的任何位置。
 
-显示的第一个库是`通用`库，它位于顶部，应该已经打开。`通用`下面的每个选项卡对应不同的库。单击任何选项卡将显示该库的符号。
-	
-`便签本`可以拖动图标到里面作为常用的图标以便下次使用。
+## Tools Bar 
 
-## 控制面板
+Right below the menu bar is the `toolbar`. Many of the most commonly used `view` and `edit options` can be accessed from this column.
 
-位于右侧`面板`，管理编辑各个方面的功能
+## sidebar 
+Left is `Sidebar`。 
+
+
+
+Clicking an icon causes an instance of the icon to appear in the upper left corner of the chart. 
+
+Clicking and dragging the symbol allows you to position the symbol anywhere in the work area. 
+ The first library displayed is the `universal` library, which is located at the top and should have been opened. 
+ 
+ Each tab under' General' corresponds to a different library.
+  Clicking any tab will display the symbol for the library.
+   `scratchpad` can drag icons into it as commonly used icons for next use.
+
+## Control Panel
+
+Located on the right `panel`, it manages and edits various functions.
 
 ## 查看选项
 
-单击`菜单栏`上的`视图`菜单为我们提供了许多自定义用户视图的方法。
+Click `View` ,Menus provide us with many ways to customize user views.
 
- ![查看选项](/public/themes/freedgo/draw_info1.png "查看选项") 
+ ![Online Diagram Drawing](/public/themes/freedgo/draw_info1.png "draw info") 
 
-#### 格式面板
+#### Format Panel
 
-选择`打开`和关闭右侧的`格式面板`。`工具栏`上也提供了该功能。
+Select Open and Close the `Format Panel` on the right. This function is also available on the toolbar.
 
-#### 缩略图
+#### Outline
 
-提供了一种通过大型复杂图表进行显示的有用方法。选择此选项会导致`缩略图`出现。单击并拖动`缩略图`面板中显示的微型页面也会移动主页。
+The invention provides a useful method for displaying through large and complex charts. 
+Selecting this option will cause the thumbnail to appear. 
+Clicking and dragging the mini page displayed in the thumbnail panel also moves the home page.  
+The mini-page section contained in the blue frame corresponds to what you see on the home page. 
+This function is also available on the toolbar.
+ Similarly, you can right-click and drag the home page and observe the changes in the Outliner.
 
-包含在蓝色框架中的微型页面部分对应于您在主页中看到的内容。`工具栏`上也提供了该功能。同样，您可以右键单击并拖动主页，并观察`大纲视图`的变化。
+![Online Diagram Drawing](/public/themes/freedgo/draw_info2.png "Outline") 
 
-![缩略图](/public/themes/freedgo/draw_info2.png "缩略图") 
+#### Layer
 
-#### 图层
+Shows the hierarchy of different icons in the page, which is also provided on the `toolbar`
 
-展现不同图标在页面中的层次，`工具栏`上也提供了该功能
+#### Page View 
 
-#### 页面视图
+By default, the workspace is displayed in `Page View`; Its size depends on the choice of paper size. Unchecking this box will cause the workspace to fill the entire window. This option can also be toggled in the `Format Panel`.
 
-默认情况下，工作区显示在`页面视图`中；它的尺寸根据纸张尺寸的选择而定。取消勾选此框将导致工作区填满整个窗口。该选项也可以在`格式面板`中切换。
+####	ScrollBar
 
-####	滚动条
+By default, vertical and horizontal scroll bars appear next to the chart workspace. 
+Disabling this option will delete the scroll bar. 
+You can still move in a large picture without scroll bars by right-clicking and dragging, or by navigating through the Outline Window.
 
-默认情况下，垂直和水平滚动条出现在图表工作区的旁边。禁用此选项将删除滚动条。通过右键单击和拖动，或者通过`大纲窗口`导航，仍然可以在没有滚动条的大图中移动。
+####	Tooltip
 
-####	提示
 
-通过选择`编辑`->`编辑工具提示`并键入所需信息，可以插入附加到特定图表元素的注释。如果不想显示工具提示，请禁用此选项。请注意，这只会禁用您自己添加的注释。绘图已经存在的工具提示仍然会显示。
 
-####	网格：
+Comments attached to a specific chart element can be inserted by selecting `edit`-> `edit tooltip` and typing the required information. Disable this option if you do not want to display tooltips. Please note that this will only disable comments you added yourself. Tooltips for drawings that already exist will still be displayed.
 
-默认情况下，工作区域会显示一个点`网格`，以帮助符号对齐。切换此勾选框可打开和关闭网格。
-网格刻度框右侧是捕捉到网格大小选择。默认为10磅。这决定了形状或连接器与网格线对齐的间隔。例如，将该数量增加到100磅将意味着形状和连接器将只以更大的间隔放置。再次减少该数字将允许您更精确地放置形状。该选项也可以在格式面板中切换。
+####	Grid：
 
-####	向导
 
-默认情况下，在工作区域周围移动符号时，每当中心轴或边缘与附近的另一个形状对齐时，都会自动显示辅助线。这是为了使符号更容易相互对齐。在下面的示例中，用户正在拖动一个矩形；它的边缘当前与另一个矩形的中心轴对齐。
+By default, the work area displays a point `grid` to help align the symbols. Toggle this check box to turn the grid on and off. To the right of the grid scale box is the snap grid size selection. The default is 10 pounds. This determines the shape or spacing at which the connectors are aligned with the grid lines. For example, increasing this number to 100 pounds would mean that the shapes and connectors would only be placed at greater intervals. Reducing this number again will allow you to place shapes more accurately. This option can also be switched in the format panel
 
-![向导](/public/themes/freedgo/draw_info3.png "向导") 
+####	Guide
 
-切换此勾选框可打开和关闭向导。该选项也可以在格式面板中切换。
+By default, guides are automatically displayed whenever the center axis or edge is aligned with another nearby shape when moving symbols around the work area. This is to make it easier for symbols to align with each other. In the following example, the user is dragging a rectangle; Its edge is currently aligned with the center axis of another rectangle.
 
-####	连接点：
+![Online Diagram Drawing](/public/themes/freedgo/draw_info3.png "Guide") 
 
-默认情况下，将鼠标悬停在符号上会显示该符号的连接点(见下图)，从而更容易将连接器连接到符号上。切换此勾选框可打开和关闭此功能。
-该选项也可以在格式面板中切换
+Toggle this check box to open and close the wizard. This option can also be switched in the format panel.
 
-![向导](/public/themes/freedgo/draw_info4.png "向导") 
+####	Connection point：
+
+By default, hovering over a symbol displays the connection point of the symbol (see figure below), making it easier to connect the connector to the symbol. Toggle this check box to turn this function on and off. This option can also be toggled in the format panel.
+
+![Online Diagram Drawing](/public/themes/freedgo/draw_info4.png "Connection Piont") 
  
-####	放大
+####	Zoom in
 
-单击`查看`->`放大`将放大到您的图表。多次单击以获得高放大倍数。`工具栏`上也提供了该功能。
+Click `view` -> `zoom in` to zoom in to your chart. Click multiple times for high magnification. This function is also available on the toolbar.
 
-####	缩小
+####    Zoom out
 
-单击`查看`->`缩小`将放大到您的图表。多次单击以获得高放大倍数。`工具栏`上也提供了该功能。
+Click `view` -> `zoom out` to zoom in to your chart. Click multiple times for high magnification. This function is also available on the toolbar.
 
 
 

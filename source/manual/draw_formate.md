@@ -1,39 +1,47 @@
 ---
-title: 格式面板
+title: Format panel
 ---
 
- ![格式面板](/public/themes/freedgo/draw_formate.png "格式面板") 
+ ![Online Diagram Drawing](/public/themes/freedgo/draw_formate.png "Format panel") 
  
-## 格式面板
+## Format panel
  
-###	背景
+###	Background 
 
-可以在图表中添加背景-`图片图像`、`纯色背景`，或者两者兼而有之。第一步是通过勾选`复选框`启用该选项，因为默认情况下它是关闭的。如果您想要`图片背景`，请点按`图像`按钮。如果你想要`纯色背景`，点击`白色块按钮`。按下图像按钮后，会出现一个新背景
-拖动图像或在图像网址字段中键入有效的图像网址，然后按应用将导致该图像用作图表背景。
+You can add a background-`picture image`,`solid background`, or both to the chart. The first step is to enable this option by checking the `checkbox`, because it is turned off by default. 
+If you want the `picture background`, click the `image` button. If you want a  `solid color background`, click the `white block button`. 
+When the image button is pressed, a new background appears Drag the image or type a valid image URL in the Image URL field, and then press Apply to cause the image to be used as the chart background.  
+If you like, you can set values for width and height, although it is usually easier to adjust when you see an image on a chart. 
+ Now let's look at the process of applying a solid color background. 
+ After pressing the white block button, a color chart screen will appear.
 
-如果您愿意，您可以设置宽度和高度的值，尽管在图表上看到图像后通常更容易进行调整。 
-
-现在让我们来看看应用纯色背景的过程。按下白色块按钮后，会出现一个彩色图表屏幕。
-
-![格式面板](/public/themes/freedgo/draw_formate1.png "格式面板") 
+![Online Diagram Drawing](/public/themes/freedgo/draw_formate1.png "Format panel") 
 
 
-您可以使用精细分级的颜色图表或其下方较粗糙的颜色图表来选择背景颜色。如果您使用精细分级的颜色图表，请注意，一旦您进行了选择，就可以使用主图表右侧的滑块非常精确地调整颜色。
+You can select the background color using a finely graded color chart or a coarser color chart below it. 
+If you use a finely graded color chart, please note that once you have made a selection, you can adjust the color very accurately using the slider to the right of the main chart.  
+The text field displays the hexadecimal representation of the three primary color components (red, green, and blue) of the currently selected color. The default choice is white. Once you are satisfied with your choice, press `Apply` to set the background to this color. 
+Below we chose a dark green background.
+ ![Online Diagram Drawing](/public/themes/freedgo/draw_formate2.png "BackGround") 
 
-文本字段将显示当前选定颜色的三种原色成分(红、绿、蓝)的十六进制表示。默认选择是白色。一旦您对自己的选择满意，请按"应用"将背景设置为该颜色。下面我们选择了深绿色背景。
+###	Mathematical typesetting
 
- ![背景](/public/themes/freedgo/draw_formate2.png "背景") 
+This option allows mathematical typesetting in document properties and allows users to create mathematical formulas and equations using AsciiMath or LaTeX. MathJax is used for rendering. 
+By default, mathematical typesetting is disabled and should only be enabled if the chart contains mathematical typesetting, as it affects rendering performance and exported image quality. 
+Supports all export formats except SVG. 
+To illustrate how this works, here is an example of a mathematical formula, the example being LaTeX format: \ (\ sqrt {3x-1}+(1+x) 2 \)
 
-###	数学排版
-
-此选项允许在文档属性中进行数学排版，允许用户使用AsciiMath或LaTeX创建数学公式和方程式。MathJax用于渲染。默认情况下，数学排版是禁用的，并且仅当图表包含数学排版时才应启用，因为它会影响渲染性能和导出的图像质量。支持所有导出格式(SVG除外)。为了说明这是如何工作的，这里有一个数学公式的例子,例子是LaTeX格式: \(\sqrt{3×-1}+(1+x)^2\)
-
- ![数学排版](/public/themes/freedgo/draw_formate3.png "数学排版") 
+ ![Online Diagram Drawing](/public/themes/freedgo/draw_formate3.png "Mathematical typesetting") 
   
-###	页面尺寸设置
+###	Page size setting
 
-您可以使用下拉菜单选择不同的`纸张尺寸`。在大多数情况下，您也可以选择`纵向`或`横向`。例外情况是如果您从下拉菜单中选择自定义；在这种情况下，您将得到指定纸张高度和宽度的字段(以像素为单位)。
+You can use the drop-down menu to select a different `paper size`. In most cases, you can also choose `portrait` or `landscape`.
+The exception is if you select Custom from the drop-down menu; 
+In this case, you will get the fields (in pixels) that specify the paper height and width.
 
-###	清除全局样式
+###	Clear global style
 
-您可以为从`图标库`菜单中拖动的新形状设置单个全局样式。只要此全局样式有效，新形状都将符合样式的设置。例外情况是，如果复制现有形状，会导致原始形状的例外克隆。
+ 
+
+You can set a single global style for a new shape that you drag from the `Label Library` menu. As long as this global style is valid, the new shapes will conform to the style settings.
+The exception is that copying an existing shape will result in an exceptional clone of the original shape.

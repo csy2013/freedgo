@@ -1,97 +1,115 @@
 ---
-title: 样式选项
+title: style option
 ---
 
- ![样式选项](/public/themes/freedgo/style_option.png "样式选项") 
+ ![Online Diagram Drawing](/public/themes/freedgo/style_option.png "style option") 
  
-`样式`选项卡的第一部分处理形状颜色。单击任何颜色块将把选定的形状设置为指定的颜色。我们可以通过单击填充勾选框右侧的颜色块按钮从更宽的颜色范围中进行选择。这会带来一个彩色图表屏幕。
+ 
+The first part of the `Styles` tab handles shape colors. Clicking any color block will set the selected shape to the specified color. We can choose from a wider range of colors by clicking the color block button to the right of the fill check box. This will bring a color chart screen.
 
- ![样式选项](/public/themes/freedgo/style_option1.png "样式选项") 
+ ![Online Diagram Drawing](/public/themes/freedgo/style_option1.png "style option") 
  
-您可以使用`精细分级`的颜色图表或其下方较粗糙的`颜色图表`来选择`背景颜色`。如果您使用`精细分级`的颜色图表，请注意，一旦您进行了选择，就可以使用主图表右侧的滑块非常精确地调整颜色。
 
-文本字段将显示当前所选颜色的三种原色成分(红、绿、蓝)的十六进制表示，字段背景也将变为所选颜色。默认选择是白色。
-一旦您对自己的选择满意，请按`应用`将填充设置为该颜色。下面我们选择了棕色背景。请注意，`填充颜色块`按钮将改变颜色以反映您的选择。
+You can select the background color by using the color chart with fine gradation or the coarser color chart below it.
+If you use a color chart with `fine grading`, please note that once you have made a selection, you can adjust the color very accurately using the slider to the right of the main chart.  
+The text field will display the hexadecimal representation of the three primary color components (red, green, and blue) of the currently selected color, and the field background will also change to the selected color. 
+The default choice is white. Once you are satisfied with your choice, press `Apply` to set the fill to this color. 
+Below we chose a brown background. Please note that the `Fill Color Block` button will change color to reflect your selection.
 
-![填充颜色块](/public/themes/freedgo/style_option2.png "填充颜色块") 
- 
-如果您想要一个没有颜色的形状，只需取消选中`填充`复选框即可移除颜色填充。
+![Online Diagram Drawing](/public/themes/freedgo/style_option2.png "Fill Color")  
 
-你不必用一种纯色填充。相反，您可以让颜色在两种颜色之间逐渐变化。为此，您需要勾选`渐变`勾选框。这将导致出现另一个颜色块按钮，您可以像使用填充颜色一样进行相同的过程。一旦你选择了两种颜色，你就可以决定颜色渐变的方向。下面我们保留了填充颜色，并添加了一个浅黄色的渐变颜色，带有一个面向下方的渐变。
+If you want a shape without color, just uncheck the `Fill` checkbox to remove the color fill. 
+ You don't have to fill it with a solid color. On the contrary, you can gradually change the color between the two colors.
+ To do this, you need to check the `Gradient` check box. This will cause another color block button to appear, and you can perform the same process as if you were using a fill color.
+  Once you choose two colors, you can decide the direction of the color gradient. Below we have retained the fill color and added a light yellow gradient color with a downward facing gradient.
 
-![渐变](/public/themes/freedgo/style_option3.png "渐变") 
+![Online Diagram Drawing](/public/themes/freedgo/style_option3.png "Fill Color") 
  
-默认情况下，形状周围有一条黑线边框。要更改线条颜色，单击行刻度框右侧的颜色块按钮，并再次遵循相同的颜色选择过程。下面我们选择了一条红线。
+By default, the shape has a black border around it. To change the line color, click the color block button to the right of the line scale box and follow the same color selection process again. Now we have chosen a red line.
  
- ![线条颜色](/public/themes/freedgo/style_option4.png "线条颜色") 
+ ![Online Diagram Drawing](/public/themes/freedgo/style_option4.png "Fill Color") 
  
  
-还有其他自定义线条的选项:您可以选择`虚线`或`虚线、更改线条粗细`或完全删除`线条`。也可以在线周围设置一个周界空间，这将在形状和任何连接的连接器之间创建空白空间(这种效果纯粹是视觉效果--连接器将照常工作)。下一个样式选项允许您改变形状的不透明度，这与透明度相反。不透明度为100%的形状根本不透明而不透明度为0%的形状是完全透明的。这里显示的是和我们以前一样的形状，同样的白色背景，但是不透明度是30%。
+还有其他自定义线条的选项:您可以选择`虚线`或`虚线、更改线条粗细`或完全删除`线条`。也可以在线周围设置一个周界空间，这将在形状和任何连接的连接器之间创建空白空间(这种效果纯粹是视觉效果--连接器将照常工作)。下一个style option允许您改变形状的不透明度，这与透明度相反。不透明度为100%的形状根本不透明而不透明度为0%的形状是完全透明的。这里显示的是和我们以前一样的形状，同样的白色背景，但是不透明度是30%。
 
- ![线条颜色](/public/themes/freedgo/style_option5.png "线条颜色") 
- 
-下一个样式选项会对形状应用各种效果。有多少效果取决于形状。对于矩形，所有三个都可用。它们如下:
-1. 圆角:这将圆角形状的拐角
-2. 阴影:这将阴影应用于形状
-3. 玻璃:这增加了形状表面的反射效果
-4. 手绘：增加手绘的效果。
+There are also other options for customizing lines: you can select `dashed line` or `dashed line change line thickness` or delete `line` completely. 
+You can also set a perimeter space around the line, which will create a blank space between the shape and any connected connectors (this effect is purely visual-the connectors will work as usual). 
+The next style option allows you to change the opacity of the shape, which is the opposite of transparency. A shape with an opacity of 100% is completely opaque while a shape with an opacity of 0% is completely transparent. 
+What is shown here is the same shape as before, the same white background, but the opacity is 30%.
 
-我们可以按照下面列出的顺序看到所有三种效果。中间的效果，阴影，非常微弱，在绘画之外很难看到。
+ ![Online Diagram Drawing](/public/themes/freedgo/style_option5.png "Fill Color") 
+ 
+ 
+The next style option applies various effects to the shape. How much effect depends on the shape. 
+For rectangles, all three are available. 
+They are as follows: 
+1. fillet: this will fillet the corners of the shape 
+2. Shadows: This applies shadows to shapes 
+3. Glass: This increases the reflection effect of the shaped surface. 
+4. Hand painting: increase the effect of hand painting.  
+We can see all three effects in the order listed below. The middle effect, shadow, is very weak and difficult to see outside the painting.
     
- ![线条颜色](/public/themes/freedgo/style_option6.png "线条颜色") 
+ ![Online Diagram Drawing](/public/themes/freedgo/style_option6.png "Fill Color") 
  
  
  ##	编辑样式
  
- 让我们从选择矩形开始，并按下`编辑样式`按钮，这将弹出一个窗口，显示对应于该形状样式的XML信息。
+ Let's start by selecting a rectangle and pressing the `Edit Style` button, which will pop up a window displaying XML information corresponding to the shape style.  
+ Please note that we have set the perimeter spacing to 10 (the default is 1). This effect will become apparent in the future.
  
- 请注意，我们已经将周长间距设置为10(默认值为1)。这种影响将在以后变得明显。
- 
-  ![编辑样式](/public/themes/freedgo/style_option7.png "编辑样式") 
+  ![Online Diagram Drawing](/public/themes/freedgo/style_option7.png "Edit Style") 
   
- 将不同的格式语句与形状的不同属性联系起来非常简单。例如，阴影和玻璃效果都是关闭的，而圆形效果是打开的。
- 
- 不同颜色的十六进制表示与我们选择它们时看到的完全相同。我们可以更改这里给定的值，然后按`应用`，形状将调整其样式(从而调整其外观)。`样式`选项卡控件也将更改，以反映在此所做的任何编辑。
- 
- 例如，让我们将填充颜色从以前色改为绿色。十六进制值00FF00将显示绿色，因此我们将把`fillColor`更改为该值(参见下面突出显示的部分)。点击"应用"可以看到效果
+ It is very simple to associate different format statements with different attributes of shapes. 
+ For example, shadow and glass effects are both off, while circular effects are on.  
+ Hexadecimal representations of different colors are exactly the same as what we saw when we selected them. 
+ We can change the value given here, then press `Apply`, and the shape will adjust its style (and thus its appearance). 
+ The style tab control will also change to reflect any edits made here.  
+ For example, let's change the fill color from the previous color to green. 
+ The hexadecimal value 00FF00 will be displayed in green, so we will change `fillColor` to this value (see the highlighted section below). Click `Application` to see the effect
   
- ![填充颜色](/public/themes/freedgo/style_option8.png "填充颜色")  
+ ![Online Diagram Drawing](/public/themes/freedgo/style_option8.png "Edit Style")  
   
- 我们已经看到一种风格中的所有颜色都是可选的；如果需要，它们可以关闭。因此，如果我们想从样式中移除颜色渐变，我们可以通过移除设置渐变颜色的部分来实现,即删除`gradientColor`
+ We have seen that all colors in a style are optional. They can be closed if necessary. 
+ Therefore, if we want to remove the color gradient from the style, we can do this by removing the part where the gradientColor is set, that is, deleting `gradient color`
   
- ![gradientColor](/public/themes/freedgo/style_option9.png "gradientColor")  
+ ![Online Diagram Drawing](/public/themes/freedgo/style_option9.png "gradientColor")  
  
- ##	复制粘贴样式
+ ##	Copy and paste style
  
  
- 现在我们来看一种在形状之间转换样式设置的方法。让我们从`常规符号`菜单中拖动一个圆柱体到我们的工作空间
+ Now let's look at a way to convert style settings between shapes. Let's drag a cylinder from the General Symbol menu to our workspace.
  
- ![常规符号](/public/themes/freedgo/style_option10.png "常规符号")
+ ![Online Diagram Drawing](/public/themes/freedgo/style_option10.png "Edit Style")
   
- 因为我们刚刚添加了这个形状，它只有默认的样式信息。如果我们希望它与矩形共享相同的样式，那么我们遵循以下过程:
  
- 1. 单击矩形，然后按复制样式按钮。
- 2. 单击圆柱体，然后按粘贴样式按钮。
- 3. 圆柱体现在具有与矩形相同的样式信息。
+ Because we just added this shape, it only has the default style information. 
+ If we want it to share the same style as the rectangle, then we follow the following procedure:  
+ 1. Click the rectangle and press the Copy Style button. 
+ 2. Click the cylinder and press the Paste Style button. 
+ 3. The cylinder now has the same style information as the rectangle.
   
-  ![常规符号](/public/themes/freedgo/style_option11.png "常规符号") 
+  ![Online Diagram Drawing](/public/themes/freedgo/style_option11.png "Edit Style") 
   
- ##	设置与清除默认样式
+ ##	Setting and Clearing Default Styles
  
- 让我们删除这个圆柱体，用之前的棕色矩形替换它。
+ Let's delete this cylinder and replace it with the previous brown rectangle.
  
-  ![设置与清除默认样式](/public/themes/freedgo/style_option12.png "设置与清除默认样式") 
+  ![Online Diagram Drawing](/public/themes/freedgo/style_option12.png "Edit Style") 
   
- 现在让我们选择绿色矩形，并按下设置为默认样式按钮。这将导致任何新添加的形状自动具有与绿色矩形相同的样式设置。现在让我们从`常规符号`菜单中添加一个三角形。
+Now let's select a green rectangle and press the Set as Default Style button. 
+This will cause any newly added shapes to automatically have the same style settings as the green rectangle. 
+Now let's add a triangle from the General Symbol menu.
  
-  ![设置与清除默认样式](/public/themes/freedgo/style_option14.png "设置与清除默认样式") 
+  ![Online Diagram Drawing](/public/themes/freedgo/style_option14.png "Edit Style") 
    
- 正如我们所料，三角形与绿色矩形的样式相匹配。现在让我们选择棕色矩形，并通过单击形状右侧的蓝色`+符号`在`connect`上执行复制。
-  
- 这个新矩形是第一个棕色矩形的精确副本，并从其父矩形中获取所有样式设置，而不是从当前设置的样式设置中获取。顺便说一句，箭头看起来并不接触任何一个形状，即使它连接到两个形状，并且会随着它们的移动而移动。这是因为我们将形状的周长间距从默认值1设置为10。最后，我们可以取消选择所有形状，这将导致格式面板重新出现在屏幕右侧。
-  
-   ![设置与清除默认样式](/public/themes/freedgo/style_option13.png "设置与清除默认样式") 
+ As we expected, the triangle matches the pattern of the green rectangle.
+  Now let's select a brown rectangle and copy on `connect` by clicking the blue `+symbol` to the right of the shape.  
+  This new rectangle is an exact copy of the first brown rectangle and gets all the style settings from its parent rectangle instead of the currently set style settings. 
+  Incidentally, the arrow does not seem to touch any one shape, even if it is connected to two shapes and will move with their movement. 
+  This is because we set the perimeter spacing of the shape from the default value of 1 to 10. 
+  Finally, we can deselect all shapes, which will cause the format panel to reappear on the right side of the screen.
+   ![Online Diagram Drawing](/public/themes/freedgo/style_option13.png "Edit Style") 
  
- 按下底部的清除默认样式按钮将清除所有全局样式设置。新添加的形状将不再使用保存的样式设置(当前为绿色矩形)，而是使用默认设置。
+ Press the Clear Default Style button at the bottom to clear all global style settings. Newly added shapes will no longer use the saved style settings (currently green rectangle), but will use the default settings.
  
-  ![设置与清除默认样式](/public/themes/freedgo/style_option15.png "设置与清除默认样式") 
+  ![Online Diagram Drawing](/public/themes/freedgo/style_option15.png "Edit Style") 

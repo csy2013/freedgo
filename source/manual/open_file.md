@@ -1,21 +1,22 @@
 ---
-title: 打开文件
+title: open file
 ---
-**打开文件有二种方式:**
-+ 在`制图页面`打开:
+**There are two ways to open a file:**
++ Open on the `Drawing` Page:
 
-  点击菜单`文件` -> `从...打开` -> `freedgo线上应用` 打开,如下图:
+  Click menu -> `File`-> `open from` -> `online ...` to open, as shown in the following figure:
   
 <br/>
 
-![freedgo线上应用页面](/public/themes/freedgo/open_file.png "freedgo线上应用页面")
+![Online Diagram Drawing](/public/themes/freedgo/open_file.png "freedgoDesign")
 
-  在`选择文件`中选择一个文件，双击打开。
+  
+  Choos  a file in Select File and double-click to open it.
   
 
-![线上文件列表](/public/themes/freedgo/open_file1.png "线上文件列表")
+![Online Diagram Drawing](/public/themes/freedgo/open_file1.png "Freedgo File List")
 
-+ 	在`我的制作`打开，双击 `图形` 打开。
++ 	`My Files`，double-click to open it.
 <br/>
 
-![我的制图列表](/public/themes/freedgo/open_file3.png "我的制图列表")
+![Online Diagram Drawing](/public/themes/freedgo/open_file3.png "Freedgo My File")

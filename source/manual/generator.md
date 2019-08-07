@@ -10,7 +10,7 @@ hexo.extend.generator.register(name, function(locals){
 });
 ```
 
-A `locals` argument will get passed into the function, containing the [site variables](../public/variables.html#Site-Variables). You should use this argument to get the website data, thereby avoiding having to access the database directly.
+A `locals` argument will get passed into the function, containing the [Online Diagram Drawing](../public/variables.html#Site-Variables). You should use this argument to get the website data, thereby avoiding having to access the database directly.
 
 ## Update Routes
 
@@ -51,14 +51,14 @@ hexo.extend.generator.register('archive', function(locals){
   return {
     path: 'archives/index.html',
     data: locals,
-    layout: ['archive', 'index']
+    layout: [Online Diagram Drawing]
   }
 });
 ```
 
 ### Archive Page with Pagination
 
-You can use the convenient official tool [hexo-pagination] to easily build archive pages with pagination.
+You can use the convenient official tool [Online Diagram Drawing] to easily build archive pages with pagination.
 
 ``` js
 var pagination = require('hexo-pagination');
@@ -67,7 +67,7 @@ hexo.extend.generator.register('archive', function(locals){
   // hexo-pagination makes an index.html for the /archives route
   return pagination('archives', locals.posts, {
     perPage: 10,
-    layout: ['archive', 'index'],
+    layout: [Online Diagram Drawing],
     data: {}
   });
 });
@@ -106,4 +106,4 @@ hexo.extend.generator.register('asset', function(locals){
 });
 ```
 
-[hexo-pagination]: https://github.com/hexojs/hexo-pagination
+[Online Diagram Drawing]: https://github.com/hexojs/hexo-pagination

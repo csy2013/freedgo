@@ -1,8 +1,7 @@
 ---
-title: 通过邮箱注册
+title: Register via email
 ---
-用户注册可以通过邮箱方式，使用自己常用的邮箱，设置密码和昵称。
-注册成功后可以通过邮箱名、密码进行登录。
 
-### 邮箱注册页
-在线注册用户,点击 [注册页](https://www.freedgo.com/register.html "在线制图注册") 
+Users can register through email, use their own commonly used email, set passwords and nicknames. After successful registration, you can log in by email name and password.  
+### Email Registration Page
+To register users online, click [registration page](https://www.freedgo.com/register.html "online mapping registration")

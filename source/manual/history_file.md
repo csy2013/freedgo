@@ -1,44 +1,46 @@
 ---
-title: 文件历史记录
+title: File History 
 ---
-## 文件历史记录
-文件历史记录保存用户每次保存的图形文件的历史信息。其作用是：
-- 可用于阶段性的打历史标签
-- 在误操作的情况可用于恢复文件
+## File History
+The file history record stores the history information of the graphic file saved by the user each time. 
+Its role is to: 
+- Can be used to mark history periodically 
+- Can be used to restore files in case of misoperation
 
-**具体操作:**
 
-+ 在制图工具通过菜单 `查看`中通过`历史版本...`按钮创建:
+**opeate detail :**
+
++  Created by the `version history ...` button in the Drawing Tools Through Menu `View`:
 <br/>
-  ![文件历史记录](/public/themes/freedgo/file-version.png "文件历史记录")
+  ![Online Diagram Drawing](/public/themes/freedgo/file-version.png "File History")
   
 
 
-+ 在制图工具通过按钮创建
++ The drawing tool is created by buttons.
 <br/>  
-  ![文件历史记录](/public/themes/freedgo/file-version1.png "文件历史记录")
+  ![Online Diagram Drawing](/public/themes/freedgo/file-version1.png "File History")
   
 <br/>
 
-## 版本操作
-在历史版本界面可以进行历史版本的操作
-### 历史版本的查看
- ![文件历史记录](/public/themes/freedgo/file-version3.png "文件历史记录")
+## Version operation
+Version history can be operated on the version history interface.
+### view File history
+ ![Online Diagram Drawing](/public/themes/freedgo/file-version3.png "File History")
 
-### 历史版本操作
- ![文件历史回退](/public/themes/freedgo/file-version2.png "文件历史回退") 
+### Version history operation
+ ![Online Diagram Drawing](/public/themes/freedgo/file-version2.png "rollback History") 
 
-### 历史版本回退
+### rollback history version
 
-选择一个历史版本点击 `回退`按钮，可以回退当前图形到对应的历史版本
+Select a version history and click the `Back` button to back off the current graphic to the corresponding version history
 <br/>  
  
  
 <br/>
 
-### 历史版本删除
-+ 选择一个历史版本点击 `删除`按钮，可以删除对应的历史版本
+### version history delete
++ Select a version history and click the `Delete` button to delete the corresponding version history
  
-### 历史版本添加
-+ 点击`添加`按钮，输入备注信息，可以增加当前图形到历史版本中
-![文件历史回退](/public/themes/freedgo/file-version4.png "文件历史回退") 
+### add version history
++ Click the `Add` button and enter comments to add the current graphic to the version history
+![Online Diagram Drawing](/public/themes/freedgo/file-version4.png "rollback History") 

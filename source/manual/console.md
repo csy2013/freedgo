@@ -16,7 +16,7 @@ Argument | Description
 `desc` | Description
 `options`| Options
 
-An argument `args` will be passed into the function. This is the argument that users type into the terminal. It's parsed by [Minimist].
+An argument `args` will be passed into the function. This is the argument that users type into the terminal. It's parsed by [Online Diagram Drawing].
 
 ## Options
 
@@ -25,8 +25,8 @@ An argument `args` will be passed into the function. This is the argument that u
 The usage of a console command. For example:
 
 ``` js
-{usage: '[layout] <title>'}
-// hexo new [layout] <title>
+{usage: '[Online Diagram Drawing] <title>'}
+// hexo new [Online Diagram Drawing] <title>
 ```
 
 ### arguments
@@ -66,4 +66,4 @@ hexo.extend.console.register('config', 'Display configuration', function(args){
 });
 ```
 
-[Minimist]: https://github.com/substack/minimist
+[Online Diagram Drawing]: https://github.com/substack/minimist

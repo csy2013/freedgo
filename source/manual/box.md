@@ -26,7 +26,7 @@ posts/:id => posts/89
 posts/*path => posts/2015/title
 ```
 
-您可以以参考 [util.Pattern] 以获得更多信息。
+您可以以参考 [Online Diagram Drawing] 以获得更多信息。
 
 ## 处理器（Processor）
 
@@ -58,4 +58,4 @@ Box 还提供了一些方法，让您无须手动处理文件 I/O。
 `render` | 渲染文件
 `renderSync` | 同步渲染文件
 
-[util.Pattern]: https://github.com/hexojs/hexo-util#patternrule
+[Online Diagram Drawing]: https://github.com/hexojs/hexo-util#patternrule

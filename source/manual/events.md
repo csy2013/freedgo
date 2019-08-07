@@ -1,6 +1,6 @@
 title: Events
 ---
-Hexo inherits from [EventEmitter]. Use the `on` method to listen for events emitted by Hexo, and use the `emit` method to emit events. For more information, refer to the Node.js API documentation.
+Hexo inherits from [Online Diagram Drawing]. Use the `on` method to listen for events emitted by Hexo, and use the `emit` method to emit events. For more information, refer to the Node.js API documentation.
 
 ### deployBefore
 
@@ -49,4 +49,4 @@ Emitted after processing finishes. This event returns a path representing the ro
 
 Emitted after initialization finishes.
 
-[EventEmitter]: http://nodejs.org/api/events.html
+[Online Diagram Drawing]: http://nodejs.org/api/events.html

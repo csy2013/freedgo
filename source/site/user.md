@@ -1,8 +1,8 @@
 ---
-title: 普通会员
+title: Member
 ---
-普通会员可以在线绘制图形文件，文件个数不做限制，普通会员可以免费使用10个付费的图形模块，超过10个付费将按照付费图形的价格进行购买。
-### 成为普通会员
-在线订购会员产品,登录在线制图 [登录页](https://www.freedgo.com/login.html "在线制图")
+Member can draw graphics files online, and the number of files is not limited. Ordinary members can use 10 paid graphics modules free of charge. Over 10 paid graphics will be purchased at the price of paid graphics.
+### Become an User
+Order member products online and log on to online mapping. [User Login Page](https://www.freedgo.com/login.html "Online Freedgo Design")
 
-![成为会员](/public/themes/freedgo/getuser.png "成为会员")
+![Become a member](/public/themes/freedgo/getuser.png "Become a member")

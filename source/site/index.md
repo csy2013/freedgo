@@ -1,16 +1,16 @@
 ---
-title: 文档
+title: Document
 ---
 
-欢迎使用 Freedgo Design，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请在 [GitHub](https://github.com/csy2013/freedgo/issues)、[Google Group](https://groups.google.com/group/freedgo) 上提问。
+Welcome to Freedgo Design, this document will help you get started quickly. If you encounter any problems during use, please ask questions on [github](https://github.com/csy2013/freedgo/issues), [Google group](https://groups.google.com/group/freedgo).
 
 ## 什么是 Freedgo Design？
 
-Freedgo Design 是一in款在线绘制专业图形的网站。Freedgo Design可以绘制各种类型的图形，针对业务逻辑的流程图，软件设计ER模板，工作流，各种云平台的系统部署架构图包括阿里云、AWS云、腾讯云、Oracle、Asure云、IBM云平台等。
+Freedgo Design is an online professional graphics drawing website. Freedgo Design can draw various types of graphics. It designs ER templates and workflows for business logic flow charts and software. The system deployment architecture diagrams for various cloud platforms include Aliyun, AWS, Tengxun, Oracle, Asure and IBM cloud platforms.
 
 
 
 ## 使用
 
-用户通过浏览器访问网址：https://www.freedgo.com 即可使用Freedgo Desing 进行图形设计. 
+Users can visit the website through the browser: https://www.freedgo.com can use Freed Goding for graphic design.
 

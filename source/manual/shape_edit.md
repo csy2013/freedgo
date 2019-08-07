@@ -3,9 +3,8 @@ title: Shape
 ---
 
 
-提供了预构建的形状，以及光栅和SVG图像，您可以将其拉入并使用。这为您提供了很大的灵活性，但是这种方法的缺点是您无法对光栅或SVG图像进行样式设置 
-
-可以通过单击"格式"菜单中的"编辑形状"或"格式"面板的"样式"部分中的"编辑形状"按钮(Ctrl+Shift+P)来编辑形状。下面是对XML格式的描述 
+Pre-built shapes are provided, as well as raster and SVG images, which you can pull in and use. This gives you great flexibility, but the disadvantage of this method is that you cannot style raster or SVG images.  
+You can edit a shape by clicking Edit Shape on the Format menu or the Edit Shape button (Ctrl+Shift+P) in the Style section of the Format panel. The following is a description of the XML format
 
 
 ### `<shape>`

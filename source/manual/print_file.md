@@ -1,20 +1,20 @@
 ---
-title: 打印文件
+title: print file
 ---
-## 入口
-
-从菜单中选择`文件`->`打印`或按`ctrl + p`调出打印对话框:
-
-![打印文件页面](https://www.freedgo.com/public/themes/freedgo/print_file.png "打印文件页面") 
+## print file
  
-![打印文件页面](https://www.freedgo.com/public/themes/freedgo/print_file1.png "打印文件页面")  
+Select `file`-> `print` from the menu or press `ctrl+p` to bring up the print dialog:
+
+![Online Diagram Drawing](https://www.freedgo.com/public/themes/freedgo/print_file.png "print file") 
+ 
+![Online Diagram Drawing](https://www.freedgo.com/public/themes/freedgo/print_file1.png "print file")  
  
  
 ## 打印对话框分为三个部分:  
    
-- 1.允许您打印当前页面或页面范围(仅当文档有多个页面时可见)。 
-- 2.允许您指定图表相对于给定页面大小的大小。可以在“调整到”字段中设置缩放值，也可以指定适合图表的页数(其中两个字段的值均为1，则图表适合单页)。 
-- 3.[高级]覆盖纸张大小，并设置页面相对于给定图表大小的大小。draw.io无权访问操作系统打印设置。例如，有时Freedgo Design认为A4不是操作系统认为的，或者当您选择横向时，您必须在操作系统的实际打印对话框中手动匹配该设置。页面比例仅在您需要将Freedgo Design中的页面大小与系统的页面大小匹配时使用。   
+- 1. Allows you to print the current page or page range (visible only when the document has multiple pages).
+- 2. Allows you to specify the size of the chart relative to a given page size. You can set the zoom value in the Adjust To field, or you can specify the number of pages suitable for the chart (where both fields have a value of 1, the chart is suitable for a single page). 
+- 3.[Online Diagram Drawing] Overwrites the paper size and sets the size of the page relative to the given chart size. IO does not have access to operating system print settings. For example, sometimes Freedgo Design thinks A4 is not what the operating system thinks, or when you select landscape orientation, you must manually match this setting in the actual printing dialog box of the operating system. The page scale is only used when you need to match the page size in Freedgo Design with the page size of the system. 
  
  
- ## 接下来，按打印进入浏览器打印对话框，选择打印设备等。
+ ## Next, press Print to enter the browser print dialog box and select printing equipment, etc.。

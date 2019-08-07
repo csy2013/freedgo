@@ -1,11 +1,11 @@
 ---
-title: 我的文件列表
+title: My File List
 ---
-**我的文件列表获取有二种方式:**
-+ 注册后用户可以通过登录在`我的制图`中获取文件列表,如下图:
+**There are two ways to get my file list:**
++ After registration, the user can get the `file list` in my drawing by logging in, as shown in the following figure:
 
-![我的制图页面](/public/themes/freedgo/myfile.png "我的制图页面")
+![Online Diagram Drawing](/public/themes/freedgo/myfile.png "my drawing page")
 
-+ 在制图工具页面，`菜单文件` -> ` 从…打开` -> ` freedgo线上应用` 中打开。
++ On the drawing tools page, `menu file`-> `open from ...`-> `free go online application`。
 
-![我的制图列表](/public/themes/freedgo/myfileList.png "我的制图列表")
+![Online Diagram Drawing](/public/themes/freedgo/myfileList.png "my file list")

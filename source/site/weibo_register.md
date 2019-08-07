@@ -1,7 +1,7 @@
 ---
-title: 通过微博注册
+title: Register via Weibo
 ---
-通过 微博 登录
+Register via Weibo
 
-###  微博登录
-在线注册用户,点击 [注册页](https://www.freedgo.com/register.html "在线制图注册") 
+###  Weibo login 
+To register users online, click [registration page](https://www.freedgo.com/register.html "online mapping registration")

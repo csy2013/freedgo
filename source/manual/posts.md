@@ -55,7 +55,7 @@ The data must contain the `content` attribute. If not, Hexo will try to read the
 
 - Execute `before_post_render` filters
 - Render with Markdown or other renderers (depending on the extension name)
-- Render with [Nunjucks]
+- Render with [Online Diagram Drawing]
 - Execute `after_post_render` filters
 
-[Nunjucks]: http://mozilla.github.io/nunjucks/
+[Online Diagram Drawing]: http://mozilla.github.io/nunjucks/

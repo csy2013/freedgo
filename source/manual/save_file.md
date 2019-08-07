@@ -1,13 +1,13 @@
 ---
-title: 存储文件
+title: store file
 ---
-**存储文件两种操作方式:**
+**Two Operation Methods for Storing Files:**
 
-+ 通过快捷键：windows 用户`ctrl+s`, Mac 用户`Command+s`
++ Through shortcut keys: windows user`ctrl+s', MAC user`command+s'
 
     
-+ 通过点击`保存`菜单或`修改未保存。点击此处保存。`按钮 
++ Click on the `Save` menu or `Modify Not Saved.Click here to save` button
 
 
-  ![存储文件页面](/public/themes/freedgo/save_file.png "存储文件页面") 
+  ![Online Diagram Drawing](/public/themes/freedgo/save_file.png "Freedgo save file") 
  

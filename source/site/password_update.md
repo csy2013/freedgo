@@ -1,7 +1,8 @@
 ---
-title: 邮箱用户密码修改
+title: Mailbox User Password Modification
 ---
-第三方平台登录用户不可修改用户密码。
-邮箱用户可以[登录Freedgo Desgin](https://www.freedgo.com/login.html "登录"),去个人中心修改密码。
+The login user of the third-party platform cannot modify the user password. 
+Mailbox users can [login to freedgodegin](https://www.freedgo.com/login.html "login") to change their passwords in the personal center.  
 
-![修改密码](/public/themes/freedgo/usercenter.png "修改密码")
+
+![change password](/public/themes/freedgo/usercenter.png "change password")

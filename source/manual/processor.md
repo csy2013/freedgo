@@ -11,4 +11,4 @@ hexo.extend.processor.register(rule, function(file){
 });
 ```
 
-For more info, see [box](box.html).
+For more info, see [Online Diagram Drawing](box.html).

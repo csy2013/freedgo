@@ -1,7 +1,4 @@
 ---
-title: 邮箱用户修改
+title: Mailbox user modification
 ---
-用户通过个人中心进行修改邮箱页面
-修改邮箱后通过新的邮箱站内信可以查到激活邮件，通过点击激活邮件链接激活新的邮箱地址。
-
-    
+The user modifies the email page through the personal center. After modifying the mailbox, the activation mail can be found through the mail in the new mailbox station, and the new mailbox address can be activated by clicking the activation mail link.

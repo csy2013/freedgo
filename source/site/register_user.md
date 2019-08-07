@@ -1,8 +1,8 @@
 ---
-title: 注册用户
+title: Register User
 ---
 
-注册用户限制可以在线保存5张绘制的图形，可以对在线保存的图形进行再次编辑修改。
-### 成为注册用户
-如果想成为注册用户请点击https://www.freedgo.com/register.html 进行注册。
+Registered users are limited to saving 5 drawings online, and can edit and modify the drawings saved online again.
+### Become a registered user
+If you want to be a registered user, please click https://www.freedgo.com/register.html to register.
 

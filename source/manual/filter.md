@@ -1,6 +1,6 @@
 title: Filter
 ---
-A filter is used to modify some specified data. Hexo passes data to filters in sequence and the filters then modify the data one after the other. This concept was borrowed from [WordPress](http://codex.wordpress.org/Plugin_API#Filters).
+A filter is used to modify some specified data. Hexo passes data to filters in sequence and the filters then modify the data one after the other. This concept was borrowed from [Online Diagram Drawing](http://codex.wordpress.org/Plugin_API#Filters).
 
 ## Synopsis
 
@@ -40,7 +40,7 @@ hexo.extend.filter.register('test', function(data, arg1, arg2){
 });
 
 hexo.extend.filter.exec('test', 'some data', {
-  args: ['foo', 'bar']
+  args: [Online Diagram Drawing]
 });
 ```
 
@@ -63,7 +63,7 @@ Here is a list of filters used by Hexo.
 
 ### before_post_render
 
-Executed before a post is rendered. Refer to [post rendering](posts.html#Render) to learn the execution steps.
+Executed before a post is rendered. Refer to [Online Diagram Drawing](posts.html#Render) to learn the execution steps.
 
 For example, to transform the title to lower case:
 
@@ -76,7 +76,7 @@ hexo.extend.filter.register('before_post_render', function(data){
 
 ### after_post_render
 
-Executed after a post is rendered. Refer to [post rendering](posts.html#Render) to learn the execution steps.
+Executed after a post is rendered. Refer to [Online Diagram Drawing](posts.html#Render) to learn the execution steps.
 
 For example, to replace `@username` with a link to a Twitter profile:
 
@@ -119,7 +119,7 @@ hexo.extend.filter.register('after_generate', function(){
 
 ### template_locals
 
-Modify [local variables](../public/variables.html) in templates.
+Modify [Online Diagram Drawing](../public/variables.html) in templates.
 
 For example, to add the current time to the local variables of templates:
 
@@ -162,7 +162,7 @@ hexo.extend.filter.register('post_permalink', function(data){
 
 ### after_render
 
-Executed after rendering finishes. You can see [rendering](rendering.html#after_render_Filters) for more info.
+Executed after rendering finishes. You can see [Online Diagram Drawing](rendering.html#after_render_Filters) for more info.
 
 ### after_clean
 
@@ -176,7 +176,7 @@ hexo.extend.filter.register('after_clean', function(){
 
 ### server_middleware
 
-Add middleware to the server. `app` is a [Connect] instance.
+Add middleware to the server. `app` is a [Online Diagram Drawing] instance.
 
 For example, to add `X-Powered-By: Hexo` to the response header:
 
@@ -189,4 +189,4 @@ hexo.extend.filter.register('server_middleware', function(app){
 });
 ```
 
-[Connect]: https://github.com/senchalabs/connect
+[Online Diagram Drawing]: https://github.com/senchalabs/connect

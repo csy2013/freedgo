@@ -1,12 +1,12 @@
 ---
-title: 超级会员
+title: Super member
 ---
-超级会员可以在线绘制图形文件，文件个数不做限制
-超级会员可以免费使用100个付费的图形模块超过100个付费将按照付费图形的价格进行购买。
+Vip Member can draw graphics files online, and the number of files is not limited. Vip can use 100 paid graphics modules free of charge. Over 100 paid graphics will be purchased at the price of the paid graphics.
 
 
 
-### 成为超级会员
-在线订购会员产品,登录在线制图 [登录页](https://www.freedgo.com/login.html "在线制图")
+### Become a Super Member
+Super member products online and log on to online mapping. [User Login Page](https://www.freedgo.com/login.html "Online Freedgo Design")
+
 
 ![成为超级会员](/public/themes/freedgo/getvipuser.png "成为超级会员")
