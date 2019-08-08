@@ -67,6 +67,7 @@ sidebar:
     show_case: 图例
     uml: UML
     uml_class: 类图
+    uml_class_1: 类图例子
     uml_user_case: 用例图
     uml_activity: 活动图
     uml_component: 组件图

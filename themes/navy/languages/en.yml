@@ -68,6 +68,7 @@ sidebar:
     show_case: example
     uml: UML
     uml_class: uml class
+    uml_class_1: uml class example
     uml_user_case: uml user case
     uml_activity: uml activity
     uml_component: uml component

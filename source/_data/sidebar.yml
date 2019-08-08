@@ -43,6 +43,7 @@ drawcase:
    show_case: index.html
   uml:
     uml_class: uml_class.html
+    uml_class_1: uml_class_1.html
     uml_user_case: uml_user_case.html
     uml_activity: uml_activity.html
     uml_component: uml_component.html
