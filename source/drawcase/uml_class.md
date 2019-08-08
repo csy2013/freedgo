@@ -1,168 +1,165 @@
 ---
-title: UML之类图制作;在线类图制作;类图制作工具 visio 类图;一步一步制作类图;类图设计与实现,还在用visio画类图?不看后悔;怎么制作类图;面向对象类图制作,
+title: Making class diagram of UML; Making online class diagrams; Visio class diagram, a class diagram making tool; Making class diagrams step by step; Is visio still being used to draw class diagrams when designing and implementing class diagrams? How to make class diagram; Making object-oriented class diagram
 ---
 
-# 什么是类图
+# What is a class diagram
 
-UML类图是用来描述一个系统的静态结构。它既可以用于一般概念建模也可以用于细节建模。类包含了数据和行为，是面向对象的重要组成部分，它是具有相同属性、操作、关系的对象集合的总称。
+UML class diagram is used to describe the static structure of a system. It can be used for both general conceptual modeling and detailed modeling. Class contains data and behavior, and is an important component of object-oriented. 
+it is the general name of object sets with the same attributes, operations and relationships.  UML class diagrams can also be used for data modeling. 
+It can be used to describe objects and information structures within an application or with other users. 
+In UML, problem domains will eventually be transformed step by step, modeling through classes, and building these classes through programming languages. The class and their relationship form a class diagram. The class diagram can also contain elements such as interfaces and packages, as well as instances such as objects and chains.
 
-UML类图也可以用于数据建模。它可以用来描述应用程序内部或和其他用户之间的对象和信息结构。在UML中问题域终要被逐步转化，通过类来建模，通过编程语言构建这些类。类加上他们之间的关系就构成了类图，类图中还可以包含接口、包等元素，也可以包括对象、链等实例。
-
-# 类图中的符号
+# Symbols in Class Diagram
 
 ## class
 
-类通过一个矩形表示,被两条直线分隔成3个部分，如图所示:
+The class is represented by a rectangle and divided into 3 parts by two straight lines, as shown in the figure:
 
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class.png "在线制图 UML类图")
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class.png "Online Draw Class Diagram")
 
-### Attribute（属性)
+### Attribute
 
-类的属性部分在单独的一行中列出了该类的每个属性。属性部分是可选的，但是当使用时，它包含以列表格式显示的类的每个属性。每一行使用格式:名称:属性类型(例如名字:字符型)。
+The properties section of the class lists each property of the class in a separate row. 
+The properties section is optional, but when used, it contains each property of the class displayed in a list format. 
+Each line uses format: name: attribute type (e.g. name: character type).
 
-###  操作（Operation）
+###  Operation
 
-操作记录在类图矩形的底部区域，这也是可选的。像属性一样，类的操作以列表格式显示，每个操作都在自己的行上。使用以下符号记录操作:名称(参数列表):返回值的类型
+Operations are recorded in the bottom area of the class diagram rectangle, which is also optional. Like attributes, class actions are displayed in a list format, with each action on its own line. 
+Record operations using the following symbols: name (parameter list): type of return value  (For example, set name (name parameter): void).
 
-(例如设置名称(名称参数) :void)。
+## relationship
 
-## 关系(relationship)
+### correlation
 
-### 关联
+ Association specifies the "whole/part" relationship between two classes. In the association relationship, the objects of the whole class take some of the objects of the class as instance data. In the class diagram, the association relationship appears as a directed solid line. 
 
- 关联指定了两个类之间的"整体/部分”关系。在关联关系中，整个类的对象将部分类的对象作为实例数据。在类图中，关联关系呈现为有向实线。  
+**Unidirectional association:** 
 
-**单向关联:** 
+In one-way association, the two classes are related, but only one class knows that this relationship exists. One-way associations are drawn as solid lines with open arrows pointing to known classes.
 
-在单向关联中，两个类是相关的，但是只有一个类知道这种关系存在。 单向关联被绘制为实线，带有指向已知类的开放箭头。
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class12.png "在线制图 UML类图")
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class12.png "Online Draw Class Diagram")
 
 
-**双向(标准)关联**
+**Two-way (standard) association**
 
-是两个类之间的链接。关联总是被认为是双向的；这意味着两个类都知道彼此和它们的关系，除非您将关联定义为其他类型。  
-两个类之间的实线表示双向关联。
+Is a link between two classes. Association is always considered to be two-way; This means that both classes know each other and their relationship unless you define the association as another type. The solid line between the two classes indicates a bidirectional association.
 
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class13.png "在线制图 UML类图")
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class13.png "Online Draw Class Diagram")
 
-多样性
+Diversity
  
-将多重符号放在关联的末尾。这些符号表示一个类与另一个类的一个实例链接的实例数量。
+Place multiple symbols at the end of the association. These symbols represent the number of instances of one class linked to one instance of another class.
 
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class14.png "在线制图 UML类图")
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class14.png "Online Draw Class Diagram")
 
-例如，一家公司将有一名或多名员工，但每个员工只为一家公司工作。
+For example, a company will have one or more employees, but each employee only works for one company.
 
-关系有如下几种：
+The relationships are as follows:
 
-关系|说明|图形
+Relationship | Description | Graphics:
 --- | --- |---
-1| 1对1 |
-0..1 | 0个或者1个
-* | 多个
-0..* | 0个或者多个
-1..* | 1个或者多个
+1| 1to1 |
+0..1 | 0 or 1
+* | many
+0..* | 0 or many
+1..* | 1 or many
 
 
-## 可见性
+## visible
 
-用于表示谁可以访问由+、-、#和~表示的类中包含的信息，如图所示:
+Used to indicate who can access the information contained in the classes represented by+,-,# and ~, as shown in the figure:
 
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class1.png "在线制图 UML类图")
-
-
-### 超类
-
-超类和更具体的事物(称为子类)之间的关系。
-泛化有时被称为“是一种”关系，是通过继承过程建立起来的。 
-在类图中，一般化关系呈现为带有指向父类的大开放箭头的实线。
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class2.png "在线制图 UML类图")
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class1.png "Online Draw Class Diagram")
 
 
-### 抽象类和方法
+### Supper Class
 
-在继承层次结构中，子类实现特定的细节，而父类定义其子类的框架。父类还为将由其子类实现的常用方法提供模板。
+The relationship between superclass and more specific things (called subclasses). Generalization is sometimes called "is a kind of" relation, which is established through inheritance process. In class diagrams, generalized relationships appear as solid lines with large open arrows pointing to parent classes.
 
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class3.png "在线制图 UML类图")
-
-抽象类的名称通常用斜体显示；或者，可以使用文本注释显示抽象类，也称为模板{abstract}，位于它的名称之后或之下。
-抽象方法是一种没有实现的方法。为了创建一个抽象方法，创建一个操作并使其倾斜。
-
-### 实现
-
-实现是两件事之间的关系，其中一件事(接口)指定一个契约，另一件事(类)通过实现该契约中指定的操作来保证执行该契约。
-在类图中，实现关系呈现为虚线，带有指向接口的开放箭头。
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class4.png "在线制图 UML类图")
-
-### 依赖
-
-依赖性表示两个类之间的“使用”关系。
-在类图中，依赖关系呈现为虚线。 
-如果 A类 “使用” B类，则下列一项或多项陈述通常成立: 
-- 在类A的一个或多个方法中，类B被用作局部变量的类型
-- B类用作A类一个或多个方法的参数类型 
-- 类B用作 类A 的一个或多个方法的返回类型 
-- 一个或多个A类方法调用一个或多个B类方法
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class5.png "在线制图 UML类图")
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class2.png "Online Draw Class Diagram")
 
 
-# 类图图的制作
+### Abstract classes and methods
 
-创建类图方式有很多，若选择在线绘制类图图，可以使用visio 或者 使用在线制图网站： [freedgo Design](https://www.freedgo.com  "在线制图工具")。 freedgo Design 其访问地址为: https://www.freedgo.com 。freedgo design 在线制图网站是一款多类型的图形图表设计软件，软件内容自带丰富的几何图形模板，UML 用例图、状态图、类图、活动图、序列图、协作图等等。
+In the inheritance hierarchy, subclasses implement specific details, while parent classes define the framework of their subclasses. The parent class also provides templates for common methods to be implemented by its subclasses.
 
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class3.png "Online Draw Class Diagram")
 
-在具体的类图图中需要把业务逻辑分解成更小、更具体的步骤。 然后，考虑类图中任何可能的异常，如果是，为备选路径添加决策节点。
- 继续重复这个过程，直到你达到了每个人都能完全理解的简单步骤。
+Names of abstract classes are usually displayed in italics; Alternatively, you can use text annotations to display abstract classes, also known as templates {abstract}, after or under its name. Abstract method is an unrealized method. To create an abstract method, create an operation and tilt it.
 
-现在，一起开看如何使用Freedgo Design制好看的类图。
+### implement
 
-### 步骤一：
+Implementation is the relationship between two things, one thing (interface) specifies a contract, and the other thing (class) guarantees the execution of the contract by implementing the operations specified in the contract.
+ In the class diagram, the implementation relationship appears as a dashed line with an open arrow pointing to the interface.
 
-访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com)
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class4.png "Online Draw Class Diagram")
 
-### 步骤二：
+### rely on
 
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+Dependencies represent the "use" relationship between two classes. 
+In the class diagram, dependencies appear as dashed lines. 
+If Class A "uses" Class B, one or more of the following statements are generally true: In one or more methods of class a, class b is used as the type of local variable 
+-Class B is used as a parameter type for one or more methods of Class A. 
+-Class B is used as the return type for one or more methods of Class A. 
+-One or more Class A methods call one or more Class B methods
 
-进入制图页面后 点击 `文件` -> `从类型中新建` -> `软件设计` -> `类图`
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class6.png "在线制图 UML类图")
-
-
-或者点击图例，在图例中找到 `软件设计` -> `类图`，选择一个类似的图例进行改动
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class7.png "在线制图 UML类图")
-
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class8.png "在线制图 UML类图")
-
-### 步骤三：
-
-从左侧符号栏拖拽合适的几何图形至画布，松手后，图形就被固定画布上，双击几何图形，还可输入文字。当鼠标放置在图形上时，
-图形四周会显示“小三角形”，是为了方便用户点击后能够快速生成新的图形。
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class9.png "在线制图 UML类图")
-
-### 步骤四：
-
-软件提供多种连接样式，在该类图中，可以选择关联连接线。在连接线上，还可以输入文字做进一步的说明。
-
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class10.png "在线制图 UML类图")
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class5.png "Online Draw Class Diagram")
 
 
-### 步骤五：
+# Making Class Diagram
 
-类图图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的类图图，颜值提升了不少。
-![在线制图 UML类图](https://www.freedgo.com/public/themes/freedgo/uml/class11.png "在线制图 UML类图")
+There are many ways to create class diagrams. If you choose to draw the class Tu Tu online, you can use visio or use the online drawing website: 
+[Freedgodesign](https://www.freedgo.com "online drawing tool"). 
+Freedgo Design's address is https://www.freedgo.com. 
+Freedgo design Online Drawing website is a multi-type graphics and diagram design software, with rich geometric graphics templates, UML use case diagrams, state diagrams, class diagrams, activity diagrams, sequence diagrams, collaboration diagrams, etc.   
+It is necessary to decompose business logic into smaller and more specific steps in specific Tu Tu-like. Then, consider any possible exceptions in the class diagram, and if so, add decision nodes for alternative paths. 
+Continue to repeat the process until you reach a simple step that everyone can fully understand.  Now, let's look at how to use Freedgo Design to make a good class diagram.
+
+### step 1：
+
+To visit https://www.freedgo.com, register a user first. After successful registration, log on to [Home Page](https://www.freedgo.com)
+
+### step2：
+
+Visit https://www.freedgo.com/draw_index.html to enter the `Drawing Page` or click `Start Making` from the menu at the top of the `Home Page` page.  
+After entering the drawing page, click file-> new from type-> software design-> class diagram
+
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class6.png "Online Draw Class Diagram")
 
 
-### 步骤六：
+Or click on the legend, find `software design`-> `class diagram` in the legend, and select a similar legend to make changes.
 
-按照绘图要求，一步一步的地完成类图绘制。最终完成了整幅的绘制任务。 
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class7.png "Online Draw Class Diagram")
 
-更多基本类图的例子 请参考 [图例] (https://www.freedgo.com/showcase/software_design/ClassDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/software_design/ClassDiagram_1.html
+
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class8.png "Online Draw Class Diagram")
+
+### step3：
+
+Drag the appropriate geometric figure from the symbol bar on the left to the canvas. After releasing, the figure will be fixed on the canvas. 
+Double-click the geometric figure and enter text. 
+When the mouse is placed on the graph, A "small triangle" will be displayed around the graph to facilitate users to quickly generate new graphs after clicking.
+
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class9.png "Online Draw Class Diagram")
+
+### step4：
+
+The software provides a variety of connection styles. In this class diagram, you can select an associated connection line. 
+On the connection line, you can also enter text for further explanation.
+
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class10.png "Online Draw Class Diagram")
+
+
+### step5：
+
+The class diagram making tool has a set of rich styles. Users can fill closed graphics with monochrome, gradient, and text size, position, and color adjustment. After the pattern-filled class diagram, the color value has improved a lot.
+![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class11.png "Online Draw Class Diagram")
+
+
+### step6：
+
+According to the drawing requirements, the class diagram is drawn step by step. Finally, the whole painting task was completed.
+
+For more examples of basic class diagrams, please refer to[example](https://www.freedgo.com/showcase/software_design/ClassDiagram_1.html) Or direct access ： https://www.freedgo.com/showcase/software_design/ClassDiagram_1.html
 

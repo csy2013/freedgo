@@ -1,127 +1,122 @@
 ---
-title: 在线网络拓扑图设计 如何在线制图网络拓扑图 网络拓扑部署制作 怎么画网络拓扑图 网络拓扑工具 物理网络部署图 网络拓扑图与部署架构图 基本网络图制作 网络拓扑图制作
+title: Design of Online Network Topology Diagram
 ---
 
-# 什么是网络拓扑图
-网络拓扑图就是指用传输媒体互联各种各样机器设备的物理布局，即哪种方法把互联网中的电子计算机等机器设备相互连接。拓扑绘画出云端服务器、服务中心的互联网配备和相互之间的联接。互联网的拓扑结构有很多种多样，关键有星形构造、环型构造、总线
-
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network1.png "在线制图 网络拓扑图")
-
-
-
-# 用网络拓扑图软件的优点和缺点
-
-网络拓扑图往往是由网络拓扑图软件绘制，网络拓扑图软件可以让使用者方便地对网络拓扑图进行添加，修改、保存、复制等操作。这些事情如果是由手工绘制来操作的话，会麻烦许多。但对于网络拓扑图软件来说，都不是问题。另外对于有条件上网的使用者来说，以软件形式存在的网络拓扑图无疑能够更方便地与他人共享。
-
-# 网络拓扑图分类
-
-## 星型拓扑结构
-星型结构是最古老的一种连接方式，大家每天都使用的电话属于这种结构。星型结构是指各工作站以星型方式连接成网。网络有中央节点，其他节点（工作站、服务器）都与中央节点直接相连，这种结构以中央节点为中心，因此又称为集中式网络。
-
-这种结构便于集中控制，因为端用户之间的通信必须经过中心站。由于这一特点，也带来了易于维护和安全等优点。端用户设备因为故障而停机时也不会影响其它端用户间的通信。同时它的网络延迟时间较小，传输误差较低。但这种结构非常不利的一点是，中心系统必须具有极高的可靠性，因为中心系统一旦损坏，整个系统便趋于瘫痪。对此中心系统通常采用双机热备份，以提高系统的可靠性。 
-
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network2.png "在线制图 网络拓扑图")
-
-
-## 环型网络拓扑结构
-
-环型结构在LAN中使用较多。这种结构中的传输媒体从一个端用户到另一个端用户，直到将所有的端用户连成环型。数据在环路中沿着一个方向在各个节点间传输，信息从一个节点传到另一个节点。这种结构显而易见消除了端用户通信时对中心系统的依赖性。
-
-环行结构的特点是：每个端用户都与两个相临的端用户相连，因而存在着点到点链路，但总是以单向方式操作，于是便有上游端用户和下游端用户之称；信息流在网中是沿着固定方向流动的，两个节点仅有一条道路，故简化了路径选择的控制；环路上各节点都是自举控制，故控制软件简单；由于信息源在环路中是串行地穿过各个节点，当环中节点过多时，势必影响信息传输速率，使网络的响应时间延长；环路是封闭的，不便于扩充；可靠性低，一个节点故障，将会造成全网瘫痪；维护难，对分支节点故障定位较难。
-
-## 总线拓扑结构
-
-总线结构是使用同一媒体或电缆连接所有端用户的一种方式，也就是说，连接端用户的物理媒体由所有设备共享，各工作站地位平等，无中心节点控制，公用总线上的信息多以基带形式串行传递，其传递方向总是从发送信息的节点开始向两端扩散，如同广播电台发射的信息一样，因此又称广播式计算机网络。各节点在接受信息时都进行地址检查，看是否与自己的工作站地址相符，相符则接收网上的信息。
-使用这种结构必须解决的一个问题是确保端用户使用媒体发送数据时不能出现冲突。在点到点链路配置时，这是相当简单的。如果这条链路是半双工操作，只需使用很简单的机制便可保证两个端用户轮流工作。在一点到多点方式中，对线路的访问依靠控制端的探询来确定。然而，在LAN环境下，由于所有数据站都是平等的，不能采取上述机制。对此，研究了一种在总线共享型网络使用的媒体访问方法：带有碰撞检测的载波侦听多路访问，英文缩写成CSMA/CD。
-这种结构具有费用低、数据端用户入网灵活、站点或某个端用户失效不影响其它站点或端用户通信的优点。缺点是一次仅能一个端用户发送数据，其它端用户必须等待到获得发送权；媒体访问获取机制较复杂；维护难，分支节点故障查找难。尽管有上述一些缺点，但由于布线要求简单，扩充容易，端用户失效、增删不影响全网工作，所以是LAN技术中使用最普遍的一种。 
-
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network3.png "在线制图 网络拓扑图")
-
-## 分布式拓扑结构
-
-分布式结构的网络是将分布在不同地点的计算机通过线路互连起来的一种网络形式。
-分布式结构的网络具有如下特点：由于采用分散控制，即使整个网络中的某个局部出现故障，也不会影响全网的操作，因而具有很高的可靠性；网中的路径选择最短路径算法，故网上延迟时间少，传输速率高，但控制复杂；各个节点间均可以直接建立数据链路，信息流程最短；便于全网范围内的资源共享。缺点为连接线路用电缆长，造价高；网络管理软件复杂；报文分组交换、路径选择、流向控制复杂；在一般局域网中不采用这种结构。
-
-## 树型拓扑结构
-
-树型结构是分级的集中控制式网络，与星型相比，它的通信线路总长度短，成本较低，节点易于扩充，寻找路径比较方便，但除了叶节点及其相连的线路外，任一节点或其相连的线路故障都会使系统受到影响。
-
-## 网状拓扑结构
-
-在网状拓扑结构中，网络的每台设备之间均有点到点的链路连接，这种连接不经济，只有每个站点都要频繁发送信息时才使用这种方法。它的安装也复杂，但系统可靠性高，容错能力强。有时也称为分布式结构。
-
-## 蜂窝拓扑结构
-
-蜂窝拓扑结构是无线局域网中常用的结构。它以无线传输介质（微波、卫星、红外等）点到点和多点传输为特征，是一种无线网，适用于城市网、校园网、企业网。
-
-
-## 混合拓扑结构
-
-混合拓扑结构是由星型结构或环型结构和总线型结构结合在一起的网络结构，这样的拓扑结构更能满足较大网络的拓展，解决星型网络在传输距离上的局限，而同时又解决了总线型网络在连接用户数量上的限制。
-混合拓扑的优点：应用相当广泛，它解决了星型和总线型拓扑结构的不足，满足了大公司组网的实际需求。扩展相当灵活。速度较快：因为其骨干网采用高速的同轴电缆或光缆，所以整个网络在速度上应不受太多的限制。缺点是：由于仍采用广播式的消息传送方式，所以在总线长度和节点数量上也会受到限制。同样具有总线型网络结构的网络速率会随着用户的增多而下降的弱点。较难维护，这主要受到总线型网络拓扑结构的制约，如果总线断，则整个网络也就瘫痪了。
-
-# 用在线工具制作例子效果图
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network12.png "在线制图 网络拓扑图")
+# what is Network topology diagram 
+The network topology diagram refers to the physical layout of various machines and equipment interconnected by transmission media, i.e. which method is used to interconnect the electronic computers and other machines and equipment in the internet. The topology draws the Internet configuration and the connection between cloud servers and service centers. There are many kinds of topological structures of the Internet, including star structure, ring structure and bus
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network1.png "Online Drawing Network topology diagram")
 
 
 
-# 网络拓扑图的制作
+# Advantages and Disadvantages of Network topology diagram 
 
-创建网络拓扑图的方式有很多，若选择在线绘制网络拓扑图，推荐使用在线制图网站： [freedgo Design](https://www.freedgo.com  "在线制图工具")。 freedgo Design ，其访问地址为: https://www.freedgo.com 。freedgo design 在线制图网站是一款多类型的图形图表设计软件，软件内容自带丰富的几何图形模板，可以用于绘制专业的网络拓扑图，泳道图、影响图、SDL图、审批图、会计网络拓扑图等，提供丰富的网络图例子，上手更轻松
+Network topology diagram is often drawn by Network topology diagram software. Network topology diagram software allows users to easily add, modify, save and copy Network topology diagram. If these things are done by hand, it will be a lot of trouble. However, it is not a problem for Network topology diagram software. In addition, for users who have access to the Internet, Network topology diagram in the form of software can undoubtedly be more easily shared with others.
+# Network topology diagram Category
 
+## Star topology
+The star structure is the oldest type of connection, and the telephone that everyone uses every day belongs to this structure. Star structure refers to the connection of workstations into a network in a star-like manner. The network has a central node, and other nodes (workstations, servers) are directly connected to the central node. This structure takes the central node as the center, so it is also called a centralized network.  
+This structure facilitates centralized control because communication between end users must pass through a central station. Due to this feature, it also brings the advantages of easy maintenance and safety. 
+When the end user equipment is shut down due to failure, the communication between other end users will not be affected. 
+At the same time, its network delay time is small and its transmission error is low.
+ However, the disadvantage of this structure is that the central system must have extremely high reliability, because once the central system is damaged, the whole system tends to collapse. 
+ For this central system, dual-computer hot backup is usually adopted to improve the reliability of the system.
 
-在具体的网络拓扑图中需要把业务逻辑分解成更小、更具体的步骤。 然后，考虑流程中任何可能的异常，如果是，为备选路径添加决策节点。
- 继续重复这个过程，直到你达到了每个人都能完全理解的简单步骤。
-
-现在，一起开看如何使用Freedgo Design制好看的网络拓扑图。
-
-### 步骤一：
-
-访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com)
-
-### 步骤二：
-
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
-
-进入制图页面后 点击 `文件` -> `从类型中新建` -> `网络架构` -> `网络图`
-
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network5.png "在线制图 网络拓扑图")
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network2.png "Online Drawing Network topology diagram")
 
 
-或者点击图例，在图例中找到 `网络架构` -> `网络图`，选择一个类似的图例进行改动
+## Ring network topology
 
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network6.png "在线制图 网络拓扑图")
+Ring structure is widely used in LAN. The transmission medium in this structure goes from one end user to another until all end users are connected into a ring. Data is transmitted between nodes along one direction in the loop, and information is transmitted from one node to another. This structure obviously eliminates the dependence of end users on the central system when communicating.  
+The loop structure is characterized in that each end user is connected to two neighboring end users, thus there is a point-to-point link, but it always operates in a one-way manner, thus it is called upstream end user and downstream end user. Information flows along a fixed direction in the network. Two nodes have only one road, thus simplifying the control of path selection.
+ Each node on the loop is bootstrapping control, so the control software is simple. Since the information source passes through each node in series in the loop, when there are too many nodes in the loop, the information transmission rate will be affected and the response time of the network will be prolonged. The loop is closed and not easy to expand. Low reliability, a node failure, will cause paralysis of the entire network; It is difficult to maintain and locate the branch node faults.
 
-### 步骤三：
+## Bus topology
 
-从左侧符号栏拖拽合适的几何图形至画布，松手后，椭圆图形就被固定画布上，双击几何图形，还可输入文字。当鼠标放置在图形上时，
-图形四周会显示“小三角形”，是为了方便用户点击后能够快速生成新的图形。
+Bus structure is a way to connect all end users with the same media or cable, that is to say, the physical media of the connected end users are shared by all devices, all workstations are equal in status, there is no central node control, the information on the public bus is mostly transmitted serially in baseband form, and its transmission direction always spreads from the node sending the information to both ends, just like the information transmitted by the broadcasting station, so it is also called broadcast computer network. Each node checks its address when receiving information to see if it matches its workstation address. 
+If it matches, it receives information on the Internet. One of the problems that must be solved when using this structure is to ensure that end users cannot have conflicts when using media to send data. This is quite simple when configuring point-to-point links. If this link is half-duplex operation, only a very simple mechanism is needed to ensure that the two end users work alternately. In the one-point to multi-point mode, access to the line is determined by inquiry from the control terminal. However, in LAN environment, because all data stations are equal, the above mechanism cannot be adopted. Therefore, a media access method used in bus sharing network is studied: carrier sense multiple access with collision detection, abbreviated as CSMA/CD. This structure has the advantages of low cost, flexible access of data end users, and failure of a site or one end user does not affect communication of other sites or end users. The disadvantage is that only one end-user can send data at a time, and other end-users must wait to obtain the sending right. The media access acquisition mechanism is more complex; Maintenance and branch node fault finding are difficult. Despite the above shortcomings, it is the most commonly used LAN technology due to simple wiring requirements, easy expansion, end user failure, addition and deletion does not affect the work of the whole network.
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network3.png "Online Drawing Network topology diagram")
 
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network8.png "在线制图 网络拓扑图")
+## Distributed topology
 
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network7.png "在线制图 网络拓扑图")
+A distributed network is a form of network in which computers distributed in different places are interconnected by lines.
+ The network with distributed structure has the following characteristics: due to the adoption of decentralized control, even if a local fault occurs in the whole network, the operation of the whole network will not be affected, thus having high reliability;
+ The shortest path algorithm is adopted in the network, so the network delay time is less, the transmission rate is high, but the control is complicated. Data links can be directly established between each node, with the shortest information flow. It is convenient to share resources throughout the network. 
+ Disadvantages are long cables for connecting lines and high cost. 
+ Complex network management software; Packet switching, path selection and flow direction control are complicated. This structure is not adopted in general local area networks
 
-### 步骤四：
+## Tree topology
 
-软件提供多种连接样式，在该网络拓扑图中，可以选择普通的直角连接线。在连接线上，还可以输入文字做进一步的说明。
+The tree structure is a hierarchical centralized control network. Compared with the star type, its communication lines are shorter in total length, lower in cost, easy to expand nodes, and easier to find paths. However, except for leaf nodes and their connected lines, any node or its connected line faults will affect the system.
 
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network3.png "在线制图 网络拓扑图")
+## Mesh topology
+
+In a mesh topology, each device in the network has a point-to-point link connection, which is uneconomical. This method is only used when each station sends information frequently. Its installation is also complicated, but the system has high reliability and fault tolerance. Sometimes referred to as a distributed structure.
+
+## Cellular topology
+
+Cellular topology is a common structure in WLAN. It is characterized by point-to-point and multi-point transmission of wireless transmission media (microwave, satellite, infrared, etc.), and is a wireless network suitable for city network, campus network and enterprise network.
+
+## Hybrid topology
+
+Hybrid topology is a network structure that combines star-shaped structure or ring-shaped structure with bus-shaped structure. Such topology structure can better meet the expansion of larger networks, solve the limitation of star-shaped network in transmission distance, and at the same time solve the limitation of bus-shaped network in the number of connected users. Advantages of hybrid topology: It is widely used. It solves the shortage of star and bus topology and meets the actual needs of large companies in networking. The expansion is quite flexible. Faster speed: because its backbone network uses high-speed coaxial cables or optical cables, the entire network should not be subject to too many restrictions on speed. The disadvantage is that the bus length and the number of nodes are also limited because broadcast message transmission is still adopted. The weakness that the network speed with the same bus network structure will decrease with the increase of users. It is difficult to maintain, which is mainly restricted by the bus network topology. If the bus is broken, the entire network will be paralyzed.
+
+# Use online tools to make example renderings.
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network12.png "Online Drawing Network topology diagram")
 
 
-### 步骤五：
 
-网络拓扑图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的网络拓扑图，颜值提升了不少。
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network10.png "在线制图 网络拓扑图")
+# Network topology diagram 
+
+There are many ways to create Network topology diagram. 
+if you choose to draw Network topology diagram online, it is recommended to use the Online Drawing website: [freedgodesign](https://www.freedgo.com "online drawing tool"). 
+Freedgo Design, whose access address is: https://www.freedgo.com. Freedgo design Online Drawing website is a multi-type graphic design software. 
+The content of the software comes with rich geometric graphics templates, which can be used to draw professional Network Topology Diagrams, swimlane diagrams, impact diagrams, SDL diagrams, approval diagrams, accounting Network Topology Diagrams, etc. It provides rich examples of network diagrams and is easier to use.
+
+### step1：
+
+visitor https://www.freedgo.com ,First register a user, and after successful registration, log in to [Home](https://www.freedgo.com)
+
+### step2：
+
+visitor https://www.freedgo.com/draw_index.html ,Enter the "drawing page" or click "start making" from the menu at the top of the "home page" page.。
+
+After entering the drawing page, click file-> new from type-> network architecture-> network diagram.
+
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network5.png "Online Drawing Network topology diagram")
 
 
-### 步骤六：
+Or click on the legend, find the "network architecture"-> "network diagram" in the legend, and select a similar legend to change it.
 
-按照绘图要求，一步一步的地完成网络拓扑图的绘制。最终完成了整幅的绘制任务。
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/network/network11.png "在线制图 网络拓扑图")
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network6.png "Online Drawing Network topology diagram")
+
+### step3：
+
+Drag the appropriate geometric figure from the symbol bar on the left to the canvas. After releasing, the oval figure will be fixed on the canvas. Double-click the geometric figure and enter text. When the mouse is placed on the graph, A "small triangle" will be displayed around the graph to facilitate users to quickly generate new graphs after clicking.
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network8.png "Online Drawing Network topology diagram")
+
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network7.png "Online Drawing Network topology diagram")
+
+### step4：
+
+The software provides a variety of connection styles. In this Network topology diagram, you can choose a common right-angle connection line. On the connection line, you can also enter text for further explanation.
+
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network3.png "Online Drawing Network topology diagram")
+
+
+### step5：
+
+The Network topology diagram production tool has a set of rich styles. Users can fill closed graphics with monochrome, gradient and text size, position and color adjustment. The color value of the patterned Network topology diagram has improved a lot.
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network10.png "Online Drawing Network topology diagram")
+
+
+### step6：
+
+According to the drawing requirements, the Network topology diagram is drawn step by step. Finally, the whole painting task was completed.
+![Online Drawing Network topology diagram](https://www.freedgo.com/public/themes/freedgo/network/network11.png "Online Drawing Network topology diagram")
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html
+For more examples of basic processes, please refer to [example](https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html) Or direct access ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html
 
 
 

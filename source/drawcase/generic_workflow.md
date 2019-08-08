@@ -1,160 +1,164 @@
 ---
-title: 流程图 一般流程图 在线制图
+title: Flowchart General, Flowchart Online Drawing
 ---
 
-# 流程图
+# Flow Chart
 
-流程图是工作中常见的图示，主要由线条、几何图框以及文字构成。按照功能的不同，流程图又分为基本流程图、散页流程图、跨职能流程图、数据流程图以及事件流程图等。
-基本流程图是其中较为常用的，可用于描述一个项目或事件的流程，直观的图表样式有助于读图者理解。
+Flowchart is a common diagram in work, mainly composed of lines, geometric borders and text. 
+According to different functions, the flow chart can be divided into basic flow chart, scattered page flow chart, cross-functional flow chart, data flow chart and event flow chart. 
+The basic flow chart is one of the most commonly used, which can be used to describe the process of an item or event. 
+The intuitive chart style is helpful for the readers to understand.  
+A flow chart is a diagram made up of connection shapes that represent processes or plans. 
+The following is an example of a simple flow chart to illustrate the process of customer service.
 
-流程图是由表示过程或计划的连接形状构成的图表。下面是一个简单流程图的例子，说明客户服务的过程。
-
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow1.png "在线制图 workflow")
-
-
-# 流程图定义
-
-传统上，流程图起源于计算机科学，作为表示算法和计算机程序的工具，但是流程图的使用已经扩展到所有其他类型的过程的表示。
-如今，流程图在显示信息和辅助推理方面发挥着极其重要的作用。它们帮助我们可视化复杂的过程，或者明确问题和任务的结构。
-流程图也可以用来定义要实现的过程或项目。
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow1.png "online drawing workflow")
 
 
+# define
 
-# 流程图常用符号
-
-在标准流程图中，不同的形状有不同的传统意义。一些更常见形状的含义如下:
-
-## 开始、结束节点
-
-代表系统的起点或终点。
-
-**起点(start):**
-
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_start.png "在线制图 workflow")
-
-**终点(end)**
-
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_end.png "在线制图 workflow")
-
-**流程(process):**
-
-代表某种特定的操作
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_process.png "在线制图 workflow")
-
-**文档(document)**
-代表某些特定的输出，如说明或者报告
-
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_doc.png "在线制图 workflow")
-
-**判断器（Decision）**
-
-菱形代表条件或分支。菱形连接的分支的线条表示不同的可能情况，导致不同的子过程。
-
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_dec.png "在线制图 workflow")
+Traditionally, flowcharts originated from computer science as tools to represent algorithms and computer programs, but the use of flowcharts has been extended to represent all other types of processes. 
+Nowadays, flowcharts play an extremely important role in displaying information and assisting reasoning. 
+They help us visualize complex processes or clarify the structure of problems and tasks. 
+Flowcharts can also be used to define processes or projects to be implemented.
 
 
-**数据(data)**
 
-它代表进入或离开系统的信息。输入可能是客户的订单。输出可以是要交付的产品。
+# Common Symbols for Flowcharts
 
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_data.png "在线制图 workflow")
+In the standard flow chart, different shapes have different traditional meanings.
+ Some of the more common shapes have the following meanings:
 
-**子流程&预定义流程**
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow9.png "在线制图 workflow")
+## Start and end nodes
+
+Represents the beginning or end of a system.
+
+**start:**
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_start.png "online drawing workflow")
+
+**end**
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_end.png "online drawing workflow")
+
+**process**
+
+Represents a specific operation
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_process.png "online drawing workflow")
+
+**document**
+Represents some specific output, such as a description or report.
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_doc.png "online drawing workflow")
+
+**Decision**
+
+Rhombs represent conditions or branches. The lines of the branches connected by diamonds represent different possible situations, resulting in different subprocesses.
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_dec.png "online drawing workflow")
 
 
-**内部存储**
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_s.png "在线制图 workflow")
+**data**
+
+It represents information about entering or leaving the system. Enter an order that may be a customer. The output can be the product to be delivered.
 
 
-**页面引用（On-Page Reference）**
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_data.png "online drawing workflow")
 
-这个符号里面会有一个字母。它表示流程在同一页面上包含相同字母的符号上继续。
+**Sub-process & Predefined Process**
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow9.png "online drawing workflow")
 
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_onepage.png "在线制图 workflow")
 
-**页面外部引用（Off-Page Reference）**
+**Internal storage**
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_s.png "online drawing workflow")
 
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_offpage.png "在线制图 workflow")
+
+**On-Page Reference**
+
+There will be a letter in this symbol. It means that the process continues on symbols that contain the same letters on the same page.
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_onepage.png "online drawing workflow")
+
+**Off-Page Reference**
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_offpage.png "online drawing workflow")
  
  
-这个符号里面会有一个字母。它表示流程在不同页面的其他地方包含相同字母的匹配符号上继续。 
+There will be a letter in this symbol. It means that the process continues on matching symbols that contain the same letters elsewhere on different pages.
 
 
-**延迟或瓶颈 （Delay or Bottleneck）**
+** Delay or Bottleneck**
 
-识别延迟或瓶颈。 
+Identify delays or bottlenecks.
 
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_delay.png "在线制图 workflow")
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_delay.png "online drawing workflow")
  
-**流程运动方向(flow)**
+** flow**
  
-线条代表流程的顺序和方向。   
+Lines represent the sequence and direction of the process.  
 
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_flow.png "在线制图 workflow")
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow_flow.png "online drawing workflow")
 
-# 流程图的益处
+# Benefits of flow charts
 
-- 将工作过程的复杂性、有问题的地方、重复部分、多余环节以及可以简化和标准化的地方都显示出来； 
+- Show the complexity of the work process, problems, duplication, redundant links and areas that can be simplified and standardized;  
+- Compare and contrast actual and imagined process flows in order to seek opportunities to improve the process;  
+- Provides a tool for visually and popularly displaying complex processes
 
-- 将实际的和想象的过程流程进行比较和对照、以便寻求改进过程的机会； 
+# Production of flow chart
 
-- 提供了一个直观而通俗地展示复杂过程的工具
-
-# 流程图的制作
-
-创建流程图的方式有很多，若选择在线绘制流程图，推荐使用在线制图网站： [freedgo Design](https://www.freedgo.com  "在线制图工具")。 freedgo Design ，其访问地址为: https://www.freedgo.com 。freedgo design 在线制图网站是一款多类型的图形图表设计软件，软件内容自带丰富的几何图形模板，可以用于绘制专业的流程图，泳道图、影响图、SDL图、审批图、会计流程图等。
-
-
-在具体的流程图中需要把业务逻辑分解成更小、更具体的步骤。 然后，考虑流程中任何可能的异常，如果是，为备选路径添加决策节点。
- 继续重复这个过程，直到你达到了每个人都能完全理解的简单步骤。
-
-现在，一起开看如何使用Freedgo Design制好看的流程图。
-
-### 步骤一：
-
-访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com)
-
-### 步骤二：
-
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
-
-进入制图页面后 点击 `文件` -> `从类型中新建` -> `流程图` -> `一般流程图`
-
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow2.png "在线制图 workflow")
+There are many ways to create flowcharts. 
+if you choose to draw flowcharts online, it is recommended to use the online drawing website: [freedgodesign](https://www.freedgo.com "online drawing tool"). Freedgo Design, whose access address is: https://www.freedgo.com. 
+Freedgo design online drawing website is a multi-type graphic design software, with rich geometric graphics templates, which can be used to draw professional flowcharts, swimlane charts, impact charts, SDL charts, approval charts, accounting flowcharts, etc.   
+Business logic needs to be broken down into smaller and more specific steps in a specific flow chart. 
+Then, consider any possible exceptions in the process, and if so, add decision nodes for alternative paths. 
+Continue to repeat the process until you reach a simple step that everyone can fully understand.  
+Now, let's take a look at how to use Freedgo Design to make a nice flowchart.
 
 
-或者点击图例，在图例中找到 `流程图` -> `基本流程图`，选择一个类似的图例进行改动
+### step1：
 
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow3.png "在线制图 workflow")
+visitor https://www.freedgo.com ,First register a user, and after successful registration, log in to [home](https://www.freedgo.com)
 
+### step2：
 
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow4.png "在线制图 workflow")
+visitor https://www.freedgo.com/draw_index.html ,Enter the `drawing page` or click "start making" from the menu at the top of the "home page" page.
 
-### 步骤三：
+After entering the drawing page, click file-> new from type-> flowchart-> general flowchart.
 
-从左侧符号栏拖拽合适的几何图形至画布，松手后，椭圆图形就被固定画布上，双击几何图形，还可输入文字。当鼠标放置在图形上时，
-图形四周会显示“小三角形”，是为了方便用户点击后能够快速生成新的图形。
-
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow5.png "在线制图 workflow")
-
-### 步骤四：
-
-软件提供多种连接样式，在该流程图中，可以选择普通的直角连接线。在连接线上，还可以输入文字做进一步的说明。
-
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow6.png "在线制图 workflow")
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow2.png "online drawing workflow")
 
 
-### 步骤五：
+Or click on the legend, find the "flowchart"-> "basic flowchart" in the legend, and select a similar legend to change it.
 
-流程图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的流程图，颜值提升了不少。
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow7.png "在线制图 workflow")
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow3.png "online drawing workflow")
 
 
-### 步骤六：
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow4.png "online drawing workflow")
 
-按照绘图要求，一步一步的地完成流程图的绘制。最终完成了整幅的绘制任务。
-![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow8.png "在线制图 workflow")
+### step3：
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html
+Drag the appropriate geometric figure from the symbol bar on the left to the canvas. After releasing, the oval figure will be fixed on the canvas. Double-click the geometric figure and enter text. When the mouse is placed on the graph, A "small triangle" will be displayed around the graph to facilitate users to quickly generate new graphs after clicking.
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow5.png "online drawing workflow")
+
+### step4：
+
+The software provides a variety of connection styles. In this flow chart, you can select common right-angle connection lines. On the connection line, you can also enter text for further explanation.
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow6.png "online drawing workflow")
+
+
+### step5：
+
+The flow chart making tool has a set of styles with rich functions. Users can fill closed graphics with monochrome, gradient, text size, position and color adjustment. After the flow chart of pattern filling, the color value has been greatly improved.
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow7.png "online drawing workflow")
+
+
+### step6：
+
+According to the drawing requirements, the flow chart is drawn step by step. Finally, the whole painting task was completed.
+
+![online drawing workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow8.png "online drawing workflow")
+
+For more examples of basic processes, please refer to [example](https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html) Or direct access ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html
 

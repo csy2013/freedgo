@@ -1,8 +1,8 @@
 ---
 title: Login
 ---
-Users can log in through the login page, and can use the online saving function of online mapping after logging in. 
-When the user who is not logged in does online mapping for file storage, the system prompts the user to select the saving method.
+Users can log in through the login page, and can use the online saving function of Online Drawing after logging in. 
+When the user who is not logged in does Online Drawing for file storage, the system prompts the user to select the saving method.
 
  ![Online Diagram Drawing](/public/themes/freedgo/login_draw.png "login") 
 

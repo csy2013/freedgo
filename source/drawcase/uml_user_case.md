@@ -1,153 +1,148 @@
 ---
-title: 在线UML图设计 用例图 在线制图
+title: Online UML Diagram Design,Use Case Diagram,Online Drawing
 ---
 
-**以下图例皆使用了在线UML制图网站[Freedgo Design](https://www.freedgo.com)，其访问地址为： https://www.freedgo.com**
+**The following Diagram all use the online UML mapping website[Freedgo Design](https://www.freedgo.com)，Its access address is： https://www.freedgo.com**
 
-freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 阿里云架构图 腾讯云架构图 Oracle云架构图 AWS系统部署图 软件架构图, UML，BPMN，ERD，流程图，UX设计图,ANT DESIGN，思维导图，图表。 可以做到注册用户免费使用。
+freedgo Design is an online drawing software for various types of charts. It allows you to create Aliyun Cloud Architecture Diagram, Tencent Cloud Architecture Diagram, Oracle Cloud Architecture Diagram, AWS System Deployment Diagram, Software Architecture Diagram, UML, BPMN, ERD, Flow Diagram, UX Design Diagram, ANT DESIGN, Mind Map, Chart. It can be used by registered users free of charge.。
 
-** 具体参考 在线制图网站关于UML设计图例：  http://www.feedgo.com/showcase.html **
-
-
-
-# 用例图
-
-用例描述了用户如何使用系统来实现特定的目标。用例图由系统、相关的用例图和参与者组成，并且将它们相互联系起来.
-用例图可视化的描述如下:
-
-- System: 要实现什么;
-- Actor：谁在使用系统；
-- 用例: Actor想到实现什么；
-
-因此，用例图是通过从用户的角度捕获需求来开发正确的系统。
-
-## UML中的实现
-
-用例图描述了一系列动作或事件步骤，通常定义了参与者和系统之间为实现某种目标而进行的交互。
-用例图可以有效的识别、阐述系统需求。
-用例由系统和用户之间一系列可能的交互组成，这些交互定义了要实现的功能以及可能遇到的任何错误的解决方案。 
-虽然用例本身可能会深入到每一种可能性的许多细节(例如，事件和场景的流程)，但是用例图可以帮助提供系统的更直观的视图，提供系统实际必须做什么的简化和图形化表示。
-
-
-用例图具有以下特征:  
+** For details, please refer to the legend of UML design on the Online Drawing website:  http://www.feedgo.com/showcase.html **
 
 
 
-- 功能需求 
-- 系统与参与者之间交互的模型 
-- 描述一个主要的事件流(主要场景)和可能的其他异常流(可选)，也称为路径或用户场景
+# Use Case
 
-## 用例图的符号
-用例定义外部参与者和系统之间的交互，以达到特定的目标。用例图包含四个主要组件：
+Use cases describe how users use the system to achieve specific goals. Use case diagram consists of system, relevant use case diagram and participants, and connects them with each other. The visual description of the use case diagram is as follows:
 
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase.png "用例图")
+- System: What to Realize;
+- Actor：Who is using the system；
+- Use Case: ActorWhat do users want to achieve；
+
+Therefore, the use case diagram is to develop the correct system by capturing requirements from the perspective of users.
+
+## UML implementation
+
+Use case diagrams describe a series of actions or event steps and generally define the interaction between participants and the system to achieve a certain goal. 
+Use case diagrams can effectively identify and explain system requirements. 
+Use cases consist of a series of possible interactions between the system and the user, which define the functions to be implemented and the solutions to any errors that may be encountered. 
+Although the use case itself may go deep into many details of each possibility (e.g., the flow of events and scenes), the use case diagram can help provide a more intuitive view of the system and a simplified and graphical representation of what the system actually must do.
+
+Use case diagrams have the following features:
+- Functional requirements -Model of interaction between system and participants 
+- Describe a main event flow (main scenario) and possibly other abnormal flows (optional), also known as paths or user scenarios
+
+## Symbol of Use Case Diagram
+Use cases define interactions between external participants and the system to achieve specific goals. Use case diagrams contain four main components:
+
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase.png "Use Case")
 
 ### Actor
-参与者通常是根据角色定义的参与系统的个人。Actor可以是用户或其他外部系统。
+Actor are usually individuals who participate in the system according to role definitions. Actor can be a user or other external system.
 
 ### Use Case
-用例描述了参与者如何使用系统来实现特定的目标。用例通常由用户发起，以实现描述实现目标所涉及的活动、步骤过程。
+Use cases describe how participants use the system to achieve specific goals. Use cases are usually initiated by users to describe the activities and procedures involved in achieving the goals.
 
 ### RelationShip
-参与者和用例之间的关系
+Relationship between Participants and Use Cases
 
 ### System Boundary
 
-系统边界定义了系统与外部世界边界。
+The system boundary defines the boundary between the system and the outside world.
 
 
-## 用例图作用
+## Use Case 
 
-- 用例是获取和记录黑盒功能需求的强大技术。 
-- 因为用例很容易理解，并且提供了一个很好的方法来与客户和用户交流，因为它们是用自然语言编写的。
-- 用例可以通过将问题划分成主要的用户特征(即用例),并从用户的角度指定应用程序来帮助管理大型项目的复杂性。 
-- 通常由序列图表示的用例场景涉及多个对象和类的协作，用例图有助于识别将对象和类粘合在一起的消息(操作和所需的信息或数据参数)。 
-- 用例为更高级模型的验证(即参与者和一组协作对象之间的交互)和随后的功能需求验证(即白盒测试)提供了良好的基础。 
-- 用例驱动的方法为项目跟踪提供了可追踪性，其中关键的开发活动，例如实现、测试和交付的用例，从用户的角度实现了目标和目的。
+- Use cases are powerful technologies to capture and document black box functional requirements. 
+- Because use cases are easy to understand and provide a good way to communicate with customers and users because they are written in natural language. 
+- Use cases can help manage the complexity of large projects by dividing the problem into major user characteristics (i.e., use cases) and specifying applications from the user's perspective. 
+- Use Case scenarios, usually represented by sequence diagrams, involve the collaboration of multiple objects and classes. Use case helps identify messages (operations and required information or data parameters) that bind objects and classes together. 
+- Use cases provide a good foundation for verification of higher-level models (i.e., interactions between participants and a group of collaboration objects) and subsequent functional requirements verification (i.e., white-box testing). 
+- The use case-driven approach provides traceability for project tracking, in which key development activities, such as use cases for implementation, testing and delivery, achieve goals and objectives from the perspective of users.
 
-## 用例图的使用
+## Use Case 
 
-用例图的开发步骤如下：
+Use Case:The development steps of are as follows:
 
-- 确定系统的参与者(用户角色)。 
-- 对于每一类用户，确定与系统相关的用户所扮演角色。
-- 确定用户要求系统执行哪些操作来实现这些目标。 
-- 为每个目标创建用例。 
-- 构建用例。
-- 对用户进行优先排序、审查、评估和验证
-
-
-**注意:为了更加“敏捷”的使用用例图，不要详述所有用例，而是对它们进行优先排序，您应该根据开发阶段在不同的细节层次上细化用例**
-
-用例图设计也可以：将用例逻辑分类的包绘制到相关子系统中
-
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase1.png "用例图")
+- Identify system participants (user roles). 
+- For each type of user, determine the role played by users related to the system. 
+- Determine what actions the user requires the system to perform to achieve these goals. 
+- Create use cases for each goal. 
+- Build use cases. 
+- Prioritize, review, evaluate and validate users
 
 
-## 用例图结构
+**Note: in order to use Use Case more "promptly", do not detail all use cases, but prioritize them. you should refine use cases at different levels of detail according to the development stage.**
 
-UML定义了用例之间关联的三个原型:
+The Use Case design can also draw packages logically classified by use cases into relevant subsystems.
+
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase1.png "Use Case")
+
+
+## Use CaseStructure
+
+UML defines three prototypes for the association between use cases:
 
 ### `<<include>> Use Case`
 
-使用`<<include>>`是在您完成对所有主要用例之后。
+Use `<<include>>` after you have completed all major use cases.
 
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase3.png "用例图")
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase3.png "Use Case")
 
 
 ### `<<extend>> Use Case`
 
-扩展用例实际是基础用例的一个替代过程。`<<extend>>`用例通过在基本用例序列中概念性地插入额外的动作序列来实现这一点。
+The extended use case is actually an alternative process to the basic use case. `<<extend>>` use cases accomplish this by conceptually inserting additional sequences of actions into the basic sequence of use cases.
 
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase4.png "用例图")
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase4.png "Use Case")
 
 ### `Abstract and generalized Use Case`
 
-通用用例是抽象的。它无法实例化，因为它包含不完整的信息。抽象用例的标题用斜体显示
+Common use cases are abstract. It cannot be instantiated because it contains incomplete information. The title of the abstract use case is shown in italics.
 
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase5.png "用例图")
-
-
-## 例子
-
-这个例子描述了几个业务用例(目标)的模型，它代表了一个餐馆(业务系统)和它的主要参与者之间的交互。 
-在第一轮中确定了基本用例之后，也许我们可以在第二轮用`<<extend>>`和`<<include>>`进一步构建这些用例，
-
-如下图所示:
-
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase10.png "用例图")
-
-## 业务用例图
-
-业务用例是用无技术术语描述的，它将业务流程视为一个黑匣子，并描述其业务参与者使用的业务流程，
-而普通用例通常在系统功能级别描述，并指定系统为用户提供的功能或服务。
-换句话说，业务用例代表了在当前情况下如何手动完成工作，它不一定是由系统完成的，也不打算在目标系统的范围内自动完成。
-
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase7.png "用例图")
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase5.png "Use Case")
 
 
-## 用例图例子 
+## Example
 
-**以下图例皆使用了在线UML制图网站[Freedgo Design](https://www.freedgo.com)，其访问地址为： https://www.freedgo.com**
+ 
+This example describes a model of several business use cases (goals), which represent the interaction between a restaurant (business system) and its main participants. After determining the basic use cases in the first round, perhaps we can further build these use cases in the second round with `<<extend>>` and `<<include>>`.
 
-freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 阿里云架构图 腾讯云架构图 Oracle云架构图 AWS系统部署图 软件架构图, UML，BPMN，ERD，流程图，UX设计图,ANT DESIGN，思维导图，图表。 可以做到注册用户免费使用。
+As shown in the following figure:
 
-** 具体参考 在线制图网站关于UML设计图例：  http://www.feedgo.com/showcase.html **
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase10.png "Use Case")
 
-**`备注`: 点击 https://www.freedgo.com/public/zh-cn/site/ 进一步了解关于在线制图的 更多功能。**
+## Business Use Case
 
-下图显示了一个自动柜员机用例图示例，这是在讲授用例图时使用的一个非常经典的示例。
+Business use cases are described in non-technical terms. 
+It regards business processes as a black box and describes the business processes used by its business participants. 
+However, ordinary use cases are usually described at the system function level and specify the functions or services provided by the system to users. In other words, the business use case represents how to complete the work manually under the current situation. 
+It is not necessarily completed by the system, nor is it intended to be completed automatically within the scope of the target system.
 
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase8.png "用例图")
-
-下面的文档管理系统(DMS)用例图示例显示了系统的参与者和用例。特别是，用例之间有包含和扩展的关系。
-
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase6.png "用例图")
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase7.png "Use Case")
 
 
-下面的订单系统用例图示例显示了系统中涉及的参与者和用例:
+## Use Case 
 
-![用例图](https://www.freedgo.com/public/themes/freedgo/uml/usecase9.png "用例图")
+**The following illustrations all use the online UML mapping website[Freedgo Design](https://www.freedgo.com)，Its access address is： https://www.freedgo.com**
+
+Freedgo Design is an online drawing software for various types of charts. It allows you to create Arian Cloud Architecture Diagram, Tengxun Cloud Architecture Diagram, Oracle Cloud Architecture Diagram, AWS System Deployment Diagram, Software Architecture Diagram, UML, BPMN, ERD, Flow Diagram, UX Design Diagram, ANT DESIGN, Mind Map, Chart. It can be used by registered users free of charge.
+
+**For details, please refer to the legend of UML design on the Online Drawing website：  http://www.feedgo.com/showcase.html **
+
+**`Readme`: Click https://www.freedgo.com/public/site/ Learn more about Online Drawing。**
+
+The following figure shows an example of automatic teller machine USCASE, which is a very classic example used when teaching USCASE.
+
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase8.png "Use Case")
+
+The following document management system (DMS)Use Case example shows the participants and use cases of the system. In particular, there is an inclusive and extended relationship between use cases.
+
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase6.png "Use Case")
+
+
+The following example of the order system Use Case shows the participants and use cases involved in the system:
+
+![Use Case](https://www.freedgo.com/public/themes/freedgo/uml/usecase9.png "Use Case")
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 在线EPC设计  在线制图
+title: Online EPC Design,Online Drawing
 ---
 
 

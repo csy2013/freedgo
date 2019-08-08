@@ -1,4 +1,4 @@
 ---
-title: 在线电路设计 电路原理图 在线制图
+title: Online Circuit Design Circuit, Schematic Diagram 
 ---
 

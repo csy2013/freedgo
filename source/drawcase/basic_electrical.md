@@ -1,4 +1,4 @@
 ---
-title: 在线电路设计 基本电路图 在线制图
+title: Basic Circuit Diagram of Online Circuit Design
 ---
 

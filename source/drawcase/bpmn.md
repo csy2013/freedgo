@@ -1,100 +1,92 @@
 ---
-title: 在线BPMN设计 怎么画BPMN bpmn图 实例 BPMN流程图在线 画流程图用什么 BPMN2图生成
+title: On-line BPMN Design, How to Draw BPMN bpmn, Diagram Example BPMN   On-line Drawing  , What BPMN N2 Diagram to Generate
 ---
 
 # bpmn
 
-BPMN（业务流程建模符号） 是业务流程建模现代化的标准，由BPMI符号工作组五月制定2004年版的2.0 BPMN发布于2010年在英国最初的规范写由对象管理组。
+BPMN (Business Process Modeling Symbol) is the standard for the modernization of business process modeling. The 2004 version of 2.0 BPMN developed by BPMI Symbol Working Group in May was released in 2010. 
+The original specification was written by the Object Management Group in the UK.   BPMN's objectives are:  
+- Technical experts responsible for process implementation; 
+- Business analysts who create and improve processes; 
+- Managers who monitor and control processes.  In this way, BPMN can be used as a link between business processes and their implementation.
 
+# bpmn 
 
-BPMN的目标是：
+Business Process Model and Representation (BPMN) provides a graphical representation of business workflow that anyone can easily understand.
+Assist in business process analysis and business process improvement. Complex business processes and workflows are easier to understand when presented in graphical form. 
 
-- 负责流程实施的技术专家;
-- 创建和改进流程的业务分析师;
-- 监控和控制流程的经理。
+# Draw with online drawing tools BPMN
 
-通过这种方式，BPMN可以作为业务流程及其实现之间的链接。 
+Freedgo Design has a complete BPMN icon and a simple and easy-to-use drawing method, so that users who make business flow diagrams can easily identify elements and draw elegant BPMN diagrams.
 
-# bpmn 作用
-
-业务流程模型和表示法（BPMN）提供了任何人都可以轻松理解的业务工作流程的图形表示;帮助进行业务流程分析和业务流程改进。
-当以图表形式呈现时，复杂的业务流程和工作流更容易理解。  
-
-# 使用在线制图工具绘制 BPMN
-
-Freedgo Design具有完整的BPMN图标和简单易用的绘制方法，使业务流程图制作的用户可以轻松识别元素绘制美观大方的BPMN图。
-
-以下是通过Freedgo 制作的图例
-![在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn4.png "在线绘图_BPMN") 
+The following is a legend made by Freedgo.
+![Online Drawing_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn4.png "Online Drawing_BPMN") 
 
 
 
-# BPMN 图标：
+# BPMN ICON：
 
-## BPMN通用
+## BPMN 
 
-![在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn1.png "在线绘图_BPMN")
-
-
-## BPMN网关
+![Online Drawing_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn1.png "Online Drawing_BPMN")
 
 
-![在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn2.png "在线绘图_BPMN")
+## BPMN GATEWAY
+
+
+![Online Drawing_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn2.png "Online Drawing_BPMN")
 
 
 
-## BPMN事件
+## BPMN EVENT
 
-![在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn3.png "在线绘图_BPMN")
+![Online Drawing_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn3.png "Online Drawing_BPMN")
 
  
 
-### 如何制作在线绘图_BPMN？
+### How to Draw a Online Drawing_BPMN？
 
  
-下面列出了如何使用Freedgo Design制作轻松创建BPMN的步骤。借助拖放式图标和直观的界面，使用在线可视化视图制作BPMN既快速又简单。 
+The following is a list of steps to make BPMN easy to create using Freedgo Design. 
+Using drag-and-drop icons and intuitive interfaces to create BPMN using online visual views is fast and simple.  
+Now, let's look at how to use Freedgo Design to make a good-looking BPMN.
 
-现在，一起开看如何使用Freedgo Design制作好看的BPMN。
-
-### 步骤一：
+### step 1：
 
 访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com)
 
-### 步骤二：
+### setp2：
 
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
-
-进入制图页面后 点击 `文件` -> `从类型中新建` -> `业务设计` -> `BPMN图`
-
-![在线制图 在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn5.png "在线制图 在线绘图_BPMN")
+Visit https://www.freedgo.com/draw_index.html to enter the `Drawing Page` or click `Start Making` from the menu at the top of the `Home Page` page.  
+After entering the drawing page, click `file`-> `new from type`-> `business design`-> `bpmn` diagram.
+![Online Drawing Online Drawing_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn5.png "Online Drawing Online Drawing_BPMN")
 
 
-或者点击图例，在图例中找到 `业务设计` -> `BPMN图`，选择一个类似的图例进行改动
+Or click on the legend, find the `business design`-> `bpmn diagram` in the legend, and select a similar legend to change it.
 
-![在线制图 在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn6.png "在线制图 在线绘图_BPMN")
+![Online Drawing Online Drawing_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn6.png "Online Drawing Online Drawing_BPMN")
 
-### 步骤三：
+### step3：
 
-从左侧符号栏拖拽合适的几何图形至画布，松手后，椭圆图形就被固定画布上，双击几何图形，还可输入文字。当鼠标放置在图形上时，
-图形四周会显示“小三角形”，是为了方便用户点击后能够快速生成新的图形。
+Drag the appropriate geometric figure from the symbol bar on the left to the canvas. After releasing, the oval figure will be fixed on the canvas. Double-click the geometric figure and enter text. When the mouse is placed on the graph, A "small triangle" will be displayed around the graph to facilitate users to quickly generate new graphs after clicking.
 
-![在线制图 在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn9.png "在线制图 在线绘图_BPMN") 
+![Online Drawing Online Drawing_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn9.png "Online Drawing Online Drawing_BPMN") 
 
-### 步骤四：
+### step4：
 
-软件提供多种连接样式，在该在线绘图BPMN中，可以选择普通的直角连接线。在连接线上，还可以输入文字做进一步的说明。 
+The software provides a variety of connection styles. In this Online Drawing BPMN, you can choose a normal right-angle connection line. On the connection line, you can also enter text for further explanation.
 
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn8.png "在线制图 网络拓扑图")
+![Online Drawing bpmn](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn8.png "Online Drawing bpmn")
 
-### 步骤五：
+### step5：
 
-在线绘图制作工具拥有一套功能丰富的样式，用户可以对图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充后颜值提升了不少。
-![在线制图 网络拓扑图](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn7.png "在线制图 网络拓扑图")
+The Online Drawing tool has a set of styles with rich functions. users can fill graphics in monochrome, gradient, text size, position and color adjustment. After pattern filling, the color value has been greatly improved.
+![Online Drawing bpmn](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn7.png "Online Drawing bpmn")
  
-### 步骤六：
+### step6：
 
-按照绘图要求，一步一步的地完成在线绘图_BPMN的绘制。最终完成了整幅的绘制任务。 
+According to the drawing requirements, the Online Drawing_BPMN is completed step by step. Finally, the whole painting task was completed.
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html
+For more examples of basic processes, please refer to [Draw Example] (https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html) Or direct access ： https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html

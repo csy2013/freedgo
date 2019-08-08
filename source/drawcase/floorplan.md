@@ -1,27 +1,28 @@
 ---
-title: 	在线绘图图表制作,在线平面图设计	平面图设计教程 	怎样绘制平面图 绘制平面图用什么软件 在线制图
+title: 	On-line drawing chart making
 ---
 
-在介绍平面图之前先简单了解一下平面图的概念
+Before introducing the plan view, let's have a brief understanding of the concept of plan view.
 
-# 什么是平面图
+# What is a plan view
 
-平面图，又称图则，是建筑物工程图的组成部分。当测区面积不大，半径小于10公里（甚至25公里）时，可以用水平面代替水准面。在这个前提下，可以把测区内的地面景物沿铅垂线方向投影到平面上，按规定的符号和比例缩小而构成相似图形，即为平面图。平面图以比例图绘制，表现该建筑物内的客厅、房间、空间及其它硬件的分布，其中包括主力墙、出入口、窗的位置图。
+The plan, also known as the plan, is an integral part of the building engineering drawing. When the measuring area is not large and the radius is less than 10km (even 25km), the water level can be replaced by the water level. Under this premise, the ground scenery in the survey area can be projected onto the plane along the vertical line direction, and reduced according to the specified symbols and proportions to form a similar figure, which is the plan view. The plan is drawn on a scale to show the distribution of living rooms, rooms, spaces and other hardware in the building, including the location maps of main walls, entrances and windows.
 
-平面图方便绘图员、建筑师、地产发展商、室内设计师、地盘工人、装修及业主、保安、消防、访客等做沟通之用。
+The floor plan facilitates communication among draftsmen, architects, real estate developers, interior designers, site workers, decoration and owners, security guards, fire fighters, visitors, etc.  
+Introduce the plan effect as follows:
 
-介绍一下平面图效果如下：
+# Plan design tool
 
-# 平面图设计工具
+Graphic design software includes Photoshop, CorelDRAW, IIIustator, Freehand, PageMaker, etc. 
+These tools need to be downloaded and installed, which requires high requirements for computer equipment and designers. 
+At present, some websites provide on-line floor plan design tools, which can draw various related floor plans.  
+The following small editor will introduce an online plan drawing tool: Freedgo Design, which can easily, quickly and collaboratively create various professional charts. It is online drawing software for various types of charts, allowing you to quickly create floor plans of homes, offices, kitchens, bathrooms, bedrooms, restaurants, etc. Start the free trial immediately.
 
-平面图设计软件有Photoshop、CorelDRAW、IIIustator、Freehand、PageMaker等等。这些工具都需要下载安装，对电脑设备及设计人员要求都比较高。
-现在一些网站提供在线的平面图设计工具，可以绘制各类相关的平面图，
-
-下面小编就为大家介绍一款在线平面图绘制工具： Freedgo Design ,他可以轻松、快速、协作地创建各种专业图表。是多种类型图表的在线绘制软件,让您快速创建家庭、办公、厨房、卫生间、卧室、餐厅等等平面图。立即开始免费试用，其网址为: https://www.freedgo.com.
+visitor : https://www.freedgo.com.
 
 ---
 
-#### 通过一系列的绘制完成平面图设计，操作示例请看如下视频：
+#### Through a series of drawing to complete the plan design, operation example please see the following video：
 
 <video id="video" controls="" preload="none" poster="https://www.freedgo.com/public/themes/freedgo/floor/floor1.png">
 <source id="mp4" src="https://www.freedgo.com/public/themes/freedgo/floor/floor_m.mp4" type="video/mp4">
@@ -30,76 +31,76 @@ title: 	在线绘图图表制作,在线平面图设计	平面图设计教程 	�
 <br/>
 <br/>
 <br/>
-#### 该平面图查看效果如下：
+#### The plan view effect is as follows：
 
 <iframe src="https://www.freedgo.com/draw_index.html?lightbox=1&p=ex1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=平面图示例#Uhttps://www.freedgo.com/templates/floor/floor_sample1.xml" width="800px" height="600px" frameborder="0" scrolling="no"></iframe>
 
-下面简单介绍一下该平面图的功能：
+The following is a brief introduction to the functions of the plan:
 
-这是一个住宅的平面图，绘制了主建筑的墙、门窗结构、照明设备，安全设施、家具、水管和洁具设备等等，通过点击如下按钮，可以显示平面图的不同部分的图样。
-![在线制图 平面图设计](https://www.freedgo.com/public/themes/freedgo/floor/floor1.png "在线制图 平面图设计")
+This is a floor plan of a residential building, drawing the walls, door and window structures, lighting equipment, safety facilities, furniture, water pipes and sanitary ware equipment of the main building. By clicking the following buttons, the drawings of different parts of the floor plan can be displayed.
+![Online Drawing Floor Plan](https://www.freedgo.com/public/themes/freedgo/floor/floor1.png "Online Drawing Floor Plan")
 
-##### 平面图包括:
+##### The plan includes:
 
-- 门窗及墙面
-- 安全设施
-- 家具
-- 照明设备：区分3种不同的颜色标识区分厨房，室内，室内等
+- Doors, Windows and Walls 
+- Safety facilities 
+- Furniture 
+- Lighting equipment: distinguish 3 different color marks to distinguish kitchen, indoor, indoor, etc.
 
-![在线制图 平面图设计](https://www.freedgo.com/public/themes/freedgo/floor/floor2.png "在线制图 平面图设计")
-
-
-- 水管及洁具： 标注了`盥洗室`，`排水管道`,`梳妆台`,`冷水管道`,`温水管道`等
-![在线制图 平面图设计](/public/themes/freedgo/floor/floor8.png "在线制图 平面图设计")
+![Online Drawing Floor Plan](https://www.freedgo.com/public/themes/freedgo/floor/floor2.png "Online Drawing Floor Plan")
 
 
+- Water pipes and sanitary ware: marked with 'washroom','drainage pipe','dressing table','cold water pipe','warm water pipe', etc.
+![Online Drawing Floor Plan](/public/themes/freedgo/floor/floor8.png "Online Drawing Floor Plan")
 
 
-该平面图通过 在线制图工具 [Freedgo Design](https://www.freedgo.com/draw_index.html?libs=floorplan;general; "平面图设计工具")Freedgo Design设计，具体地址为: https://www.freedgo.com/draw_index.html?libs=floorplan;general;
+
+
+The plan is drawn through an online drawing tool[Freedgo Design](https://www.freedgo.com/draw_index.html?libs=floorplan;general; "Plan design tool")Freedgo Design ，address: https://www.freedgo.com/draw_index.html?libs=floorplan;general;
 
  
 
-# 平面图的制作步骤
+# Making steps of plan
 
-### 步骤一：
+### step1：
 
-访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com)
+visitor https://www.freedgo.com ,First register a user, and after successful registration, log in to [Home](https://www.freedgo.com)
 
-### 步骤二：
+### step2：
 
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+visitor https://www.freedgo.com/draw_index.html ,Enter the "drawing page" or click "start making" from the menu at the top of the "home page" page.
 
-进入制图页面后 点击 `文件` -> `从类型中新建` -> `平面图` 选择其中一个平面图
+After entering the drawing page, click file-> new from type-> plan to select one of the plans.
 
-![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor3.png "在线制图 平面图")
+![online floor plan](https://www.freedgo.com/public/themes/freedgo/floor/floor3.png "online floor plan")
 
 
-或者点击图例，在图例中找到 `平面图`，选择一个类似的图例进行改动
+Or click on the legend, find the "plan" in the legend, and select a similar legend to change it.
 
-![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor4.png "在线制图 平面图")
+![online floor plan](https://www.freedgo.com/public/themes/freedgo/floor/floor4.png "online floor plan")
 
-### 步骤三：
+### step3：
 
-从左侧符号栏拖拽合适的几何图形至画布，松手后，椭圆图形就被固定画布上.
+Drag the appropriate geometric figure from the symbol bar on the left to the canvas. After releasing, the oval figure will be fixed on the canvas.
 
-![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor5.png "在线制图 平面图")
+![online floor plan](https://www.freedgo.com/public/themes/freedgo/floor/floor5.png "online floor plan")
  
 
 
-### 步骤四：
+### step4：
 
-平面图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的平面图，颜值提升了不少。
-![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor6.png "在线制图 平面图")
-
-
-### 步骤五：
-
-按照绘图要求，一步一步的地完成平面图的绘制。最终完成了整幅的绘制任务。
-![在线制图 平面图](https://www.freedgo.com/public/themes/freedgo/floor/floor7.png "在线制图 平面图")
+The floor plan making tool has a set of styles with rich functions. Users can fill closed graphics with monochrome, gradient, text size, position and color adjustment. After the pattern filling plan, the color value increased a lot.
+![online floor plan](https://www.freedgo.com/public/themes/freedgo/floor/floor6.png "online floor plan")
 
 
+### step5：
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html
+According to the drawing requirements, the plan drawing is completed step by step. Finally, the whole painting task was completed.
+![online floor plan](https://www.freedgo.com/public/themes/freedgo/floor/floor7.png "online floor plan")
+
+
+
+For more examples of basic processes, please refer to [example](https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html) Or direct access ： https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html
 
 
 
