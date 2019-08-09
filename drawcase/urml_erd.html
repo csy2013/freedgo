@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#"><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="utf-8">
+  <title>Database reverse engineering, ER model generation, ER model generation through DDL statements | Freedgo Design:专注图表制作,模型设计的网站</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Canonical links -->
+  <link rel="canonical" href="https://www.freedgo.com/drawcase/urml_erd.html">
+  <!-- Alternative links -->
+  
+    
+      <link rel="alternative" hreflang="en" href="https://www.freedgo.com/drawcase/urml_erd.html">
+    
+      <link rel="alternative" hreflang="zh-cn" href="https://www.freedgo.com/zh-cn/drawcase/urml_erd.html">
+    
+  
+  <!-- Icon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/public/icon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/public/icon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/public/icon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/public/icon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/public/icon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/public/icon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/public/icon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/public/icon/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#2f83cd">
+  <meta name="msapplication-TileImage" content="/public/icon/mstile-144x144.png">
+  <!-- CSS -->
+  <!-- build:css build/css/navy.css -->
+  <link rel="stylesheet" href="/public/css/navy.css">
+  <!-- endbuild -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+  <!-- RSS -->
+  <link rel="alternate" href="/public/atom.xml" title="Freedgo Design:专注图表制作,模型设计的网站">
+  <!-- Open Graph -->
+  <meta name="description" content="Let’s introduce a tool for online ER model generation.It can generate ER model charts online for DDL files of various databases and supports MySQL, SQLServer, Oracle, PostgreSQL and other databases. T">
+<meta name="keywords" content="在线绘图工具，在线图表工具，图表工具，图表解决方案，在线图表制造商，在线图表创建者，在线uml工具，图表软件，在线阿里云部署图工具，在线AWS部署图工具，在线腾讯云部署图工具，流程图工具，工程电气在线设计，平面图设计，UX设计，信息图表制造商，图表制造商，信息图表软件， 图表软件，业务在线设计，在线图表编辑器">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Database reverse engineering, ER model generation, ER model generation through DDL statements">
+<meta property="og:url" content="https://www.freedgo.com/drawcase/urml_erd.html">
+<meta property="og:site_name" content="Freedgo Design:专注图表制作,模型设计的网站">
+<meta property="og:description" content="Let’s introduce a tool for online ER model generation.It can generate ER model charts online for DDL files of various databases and supports MySQL, SQLServer, Oracle, PostgreSQL and other databases. T">
+<meta property="og:locale" content="en">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/erd_index.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er1.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/ddl.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_import.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_table.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_column.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_column1.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_column2.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_table_show.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_column_show.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_view.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_view1.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/er_feedback.png">
+<meta property="og:updated_time" content="2019-08-08T00:58:56.612Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Database reverse engineering, ER model generation, ER model generation through DDL statements">
+<meta name="twitter:description" content="Let’s introduce a tool for online ER model generation.It can generate ER model charts online for DDL files of various databases and supports MySQL, SQLServer, Oracle, PostgreSQL and other databases. T">
+<meta name="twitter:image" content="https://www.freedgo.com/public/themes/freedgo/er/generic/erd_index.png">
+<meta name="twitter:site" content="changsy2017">
+<meta property="fb:admins" content="100000247608790">
+  <!-- Google Analytics -->
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48498357-3', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ <!-- googleAds -->
+ <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9055212255210230" data-ad-slot="9155963506" data-ad-format="auto" data-full-width-responsive="true"></ins>
+ <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+ </script>
+  <script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?c6c6de8eb83a4574f91f11072be8fd68";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+  </script>
+</head>
+
+<body>
+  <div id="container">
+    <header id="header" class="wrapper">
+  <div id="header-inner" class="inner">
+    <h1 id="logo-wrap">
+      <a href="https://www.freedgo.com" id="logo">Freedgo Desgin</a>
+    </h1>
+    <nav id="main-nav">
+      <a href="/public/site/" class="main-nav-link">Site</a><a href="/public/manual/" class="main-nav-link">Manual</a><a href="/public/drawcase/" class="main-nav-link">Draw Case</a>
+      <a href="https://github.com/csy2013/freedgo" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
+      <div id="search-input-wrap">
+        <div id="search-input-icon">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="search" id="search-input" placeholder="Search...">
+      </div>
+    </nav>
+    <div id="lang-select-wrap">
+      <label id="lang-select-label"><i class="fa fa-globe"></i><span>English</span></label>
+      <select id="lang-select" data-canonical="drawcase/urml_erd.html">
+        
+          <option value="en" selected>English</option>
+        
+          <option value="zh-cn">简体中文</option>
+        
+      </select>
+    </div>
+    <a id="mobile-nav-toggle">
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+    </a>
+  </div>
+</header>
+
+    <div id="content-wrap">
+  <div id="content" class="wrapper">
+    <div id="content-inner">
+      <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+          <div class="article">
+            <div class="inner">
+              <header class="article-header">
+                <h1 class="article-title" itemprop="name">Database reverse engineering, ER model generation, ER model generation through DDL statements</h1>
+                <a href="https://github.com/csy2013/site/edit/master/source/drawcase/urml_erd.md" class="article-edit-link" title="Improve"><i class="fa fa-pencil"></i></a>
+              </header>
+              <div class="article-content" itemprop="articleBody">
+                <p>Let’s introduce a tool for online ER model generation.<br>It can generate ER model charts online for DDL files of various databases and supports MySQL, SQLServer, Oracle, PostgreSQL and other databases. The main functions are as follows:</p>
+<ul>
+<li>supports the creation of tables, and can edit table structure, field type, primary key, default value, index, remark information, etc. according to different types of databases. </li>
+<li>Support view, trigger, sequence, stored procedure, function view and edit </li>
+<li>Generate SQL synchronously for user operation</li>
+</ul>
+<h1 id="access-address：" class="article-heading"><a href="#access-address：" class="headerlink" title="access address："></a>access address：<a class="article-anchor" href="#access-address：" aria-hidden="true"></a></h1><p><a href="https://www.freedgo.com/erd_index.html" title="Database ER Diagram">Database ER Diagram</a>。 </p>
+<h1 id="Function：" class="article-heading"><a href="#Function：" class="headerlink" title="Function："></a>Function：<a class="article-anchor" href="#Function：" aria-hidden="true"></a></h1><p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/erd_index.png" alt="Database ER Diagram" title="Database ER Diagram"> </p>
+<ul>
+<li>`Chart’: You can set the ER model, select a model file to edit, save, etc. </li>
+<li>`database’: provides the function of importing DDL to database and viewing all SQL </li>
+<li>`Shape’: View icons corresponding to database tables, views, triggers, stored procedures, etc. and drag them to the editing area </li>
+<li>`Format’: Click to arrange and style icons, adjust positions, colors, etc.</li>
+</ul>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er1.png" alt="Database ER Diagram" title="Database ER Diagram"><br>Adjust the display scale of the editing area to fit the appropriate size.</p>
+<h1 id="How-to-make-ER-model-diagram：" class="article-heading"><a href="#How-to-make-ER-model-diagram：" class="headerlink" title="How to make ER model diagram："></a>How to make ER model diagram：<a class="article-anchor" href="#How-to-make-ER-model-diagram：" aria-hidden="true"></a></h1><h2 id="1、import-DDL" class="article-heading"><a href="#1、import-DDL" class="headerlink" title="1、import DDL"></a>1、import DDL<a class="article-anchor" href="#1、import-DDL" aria-hidden="true"></a></h2><p>visitor  <a href="https://www.freedgo.com/erd_index.html,choose">https://www.freedgo.com/erd_index.html,choose</a> database 、Click menu <code>database</code> -&gt; <code>SQLServer</code> -&gt; <code>import DDL</code></p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/ddl.png" alt="Database ER Diagram-DDL import" title="Database ER Diagram-DDLImport"> </p>
+<p>Copy SQL language to the corresponding box, or drag SQLServer DDL file to the corresponding input box、Click <code>insert SQLServer</code></p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_import.png" alt="Database ER Diagram-DDL import" title="Database ER Diagram-DDLImport"> </p>
+<h2 id="2、add-Table" class="article-heading"><a href="#2、add-Table" class="headerlink" title="2、add Table"></a>2、add Table<a class="article-anchor" href="#2、add-Table" aria-hidden="true"></a></h2><p>Select <code>shape</code> and drag the corresponding database table to the editing area.</p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_table.png" alt="Database ER Diagram-New Table" title="Database ER Diagram-Table">  </p>
+<h2 id="3、add-Column" class="article-heading"><a href="#3、add-Column" class="headerlink" title="3、add Column"></a>3、add Column<a class="article-anchor" href="#3、add-Column" aria-hidden="true"></a></h2><p>To add a table field online, click the arrow at the position where the field needs to be added to add it.</p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_column.png" alt="Online Drawing-SQLServer-Column" title="Database ER Diagram-Cloumn"></p>
+<p>After adding a field, right-click-&gt;<code>modify field</code> to modify the attribute value of the field. field name, type, length, primary key, foreign key, comment, null, etc. are supported.</p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_column1.png" alt="Online Drawing-SQLServer-Column" title="Database ER Diagram-Column"></p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_column2.png" alt="Online Drawing-SQLServer-Column" title="Database ER Diagram-Column"></p>
+<h2 id="4、view-table-SQL" class="article-heading"><a href="#4、view-table-SQL" class="headerlink" title="4、view table SQL"></a>4、view table SQL<a class="article-anchor" href="#4、view-table-SQL" aria-hidden="true"></a></h2><p>Select a table, and then right-click <code>Show Table Structure</code>:   </p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_table_show.png" alt="Online Drawing-SQLServer-Table SQL" title="Database ER Diagram-Table SQL"></p>
+<h2 id="5、view-Column-SQL" class="article-heading"><a href="#5、view-Column-SQL" class="headerlink" title="5、view Column SQL"></a>5、view Column SQL<a class="article-anchor" href="#5、view-Column-SQL" aria-hidden="true"></a></h2><p>Select a column and right-click to view <code>Add Column SQL</code> and <code>Modify Column SQL</code><br><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_column_show.png" alt="Online Drawing-SQLServer-Show SQL" title="Database ER Diagram-View SQL"></p>
+<h2 id="6、add-view" class="article-heading"><a href="#6、add-view" class="headerlink" title="6、add view"></a>6、add view<a class="article-anchor" href="#6、add-view" aria-hidden="true"></a></h2><p>Select <code>shape</code>, drag the corresponding database <code>View</code> to the editing area.</p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_view.png" alt="Database ER Diagram-view" title="Database ER Diagram-view">  </p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_view1.png" alt="Database ER Diagram-view" title="Database ER Diagram-view"> </p>
+<p>Operations on triggers, stored procedures, and functions are similar to views</p>
+<h1 id="Problem-feedback" class="article-heading"><a href="#Problem-feedback" class="headerlink" title="Problem feedback"></a>Problem feedback<a class="article-anchor" href="#Problem-feedback" aria-hidden="true"></a></h1><p>In the process of using, you can feedback the use effect in time. Please click the <code>Question Feedback</code> button</p>
+<p><img src="https://www.freedgo.com/public/themes/freedgo/er/generic/er_feedback.png" alt="Online Drawing-Feedback" title="Online DrawingFeedback"></p>
+
+              </div>
+              <footer class="article-footer">
+                <time class="article-footer-updated" datetime="2019-08-08T00:58:56.612Z" itemprop="dateModified">Last updated：2019-08-08</time>
+                <a href="uml_sequence.html" class="article-footer-prev" title="uml sequence"><i class="fa fa-chevron-left"></i><span>Prev</span></a><a href="erd_mysql.html" class="article-footer-next" title="mysql ER model"><span>Next</span><i class="fa fa-chevron-right"></i></a>
+              </footer>
+              
+<section id="comments">
+  <div id="disqus_thread"></div>
+</section>
+<script>
+  var disqus_shortname = 'freedgo-design';
+  var disqus_url = 'https://www.freedgo.com/drawcase/urml_erd.html';
+  var disqus_title = "Database reverse engineering, ER model generation, ER model generation through DDL statements";
+  var disqus_config = function(){
+    this.language = 'en';
+  };
+  (function(){
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'https://go.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+            </div>
+          </div>
+          <aside id="article-toc" role="navigation">
+            <div id="article-toc-inner">
+              <strong class="sidebar-title">Directory</strong>
+              <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#access-address："><span class="toc-text">access address：</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Function："><span class="toc-text">Function：</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#How-to-make-ER-model-diagram："><span class="toc-text">How to make ER model diagram：</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#1、import-DDL"><span class="toc-text">1、import DDL</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2、add-Table"><span class="toc-text">2、add Table</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3、add-Column"><span class="toc-text">3、add Column</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4、view-table-SQL"><span class="toc-text">4、view table SQL</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#5、view-Column-SQL"><span class="toc-text">5、view Column SQL</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#6、add-view"><span class="toc-text">6、add view</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Problem-feedback"><span class="toc-text">Problem feedback</span></a></li></ol>
+              <a href="#" id="article-toc-top">Back to top</a>
+            </div>
+          </aside>
+        </div>
+      </article>
+      <aside id="sidebar" role="navigation">
+  <div class="inner">
+    <strong class="sidebar-title">overview</strong><a href="index.html" class="sidebar-link">example</a><strong class="sidebar-title">UML</strong><a href="uml_class.html" class="sidebar-link">uml class</a><a href="uml_class_1.html" class="sidebar-link">uml class example</a><a href="uml_user_case.html" class="sidebar-link">uml user case</a><a href="uml_activity.html" class="sidebar-link">uml activity</a><a href="uml_component.html" class="sidebar-link">uml component</a><a href="uml_package.html" class="sidebar-link">uml package</a><a href="uml_sequence.html" class="sidebar-link">uml sequence</a><a href="urml_erd.html" class="sidebar-link current">er diagram</a><a href="erd_mysql.html" class="sidebar-link">mysql ER model</a><a href="erd_oracle.html" class="sidebar-link">Oracle ER Model</a><a href="erd_sqlserver.html" class="sidebar-link">SQLServer ER model</a><a href="erd_postgresql.html" class="sidebar-link">PostgreSQL ER Model</a><strong class="sidebar-title">business design</strong><a href="bpmn.html" class="sidebar-link">BPMN</a><a href="organization.html" class="sidebar-link">organization</a><a href="epc.html" class="sidebar-link">EPC</a><strong class="sidebar-title">workflow</strong><a href="generic_workflow.html" class="sidebar-link">generic workflow</a><a href="swimlane_workflow.html" class="sidebar-link">swimlane workflow</a><a href="sdl_workflow.html" class="sidebar-link">SDL</a><a href="audit_workflow.html" class="sidebar-link">audit workflow</a><strong class="sidebar-title">UX Design</strong><a href="ux_ios.html" class="sidebar-link">ios ux</a><a href="ux_android.html" class="sidebar-link">android ux</a><a href="ux_bootstrap.html" class="sidebar-link">Bootstrap ux</a><strong class="sidebar-title">cloud</strong><a href="cloud_aliyun.html" class="sidebar-link">aliyun</a><a href="spring_cloud_aliyun.html" class="sidebar-link">aliyun SpringCloud</a><a href="cloud_tencent.html" class="sidebar-link">tencent cloud</a><a href="cloud_aws.html" class="sidebar-link">AWS</a><a href="cloud_oracle.html" class="sidebar-link">Oracle</a><a href="cloud_ibm.html" class="sidebar-link">IBM</a><a href="cloud_azure.html" class="sidebar-link">Azure</a><a href="cloud_google.html" class="sidebar-link">Google cloud</a><strong class="sidebar-title">Floor Plan</strong><a href="floorplan.html" class="sidebar-link">Generic</a><a href="homeoffice.html" class="sidebar-link">Home Office</a><a href="workoffice.html" class="sidebar-link">work office</a><a href="livingroom.html" class="sidebar-link">livingroom</a><a href="kitchen.html" class="sidebar-link">kitchen</a><a href="diningroom.html" class="sidebar-link">diningroom</a><a href="bathroom.html" class="sidebar-link">bathroom</a><strong class="sidebar-title">network</strong><a href="network_deploy.html" class="sidebar-link">network deploy</a><a href="network_rack.html" class="sidebar-link">network rack</a><strong class="sidebar-title">project</strong><a href="basic_electrical.html" class="sidebar-link">basic electrical</a><a href="logic_electrical.html" class="sidebar-link">logic electrical</a><a href="circuit_electrical.html" class="sidebar-link">circuit electrical</a><a href="wiring_electrical.html" class="sidebar-link">wiring electrical</a><a href="process_flow_electrical.html" class="sidebar-link">process flow electrical</a><a href="pid.html" class="sidebar-link">P&ID</a><strong class="sidebar-title">other</strong><a href="other_generic.html" class="sidebar-link">Concept map</a><a href="tqm.html" class="sidebar-link">TQM</a><a href="archimate.html" class="sidebar-link">Archimate</a><a href="itil.html" class="sidebar-link">ITIL</a>
+  </div>
+</aside>
+    </div>
+  </div>
+</div>
+
+    <footer id="footer" class="wrapper">
+  <div class="inner">
+    <div id="footer-copyright">
+      &copy; 2019 <a href="http://www.yuaoq.com" target="_blank">南京裕奥软件科技有限公司</a><br>
+      备案号 <a href="http://www.beian.miit.gov.cn/" target="_blank">苏ICP备14047301号-3 </a>.<br>
+      QQ:&nbsp;&nbsp; 857717515&nbsp;&nbsp;<br>
+      微信:&nbsp;&nbsp;&nbsp;&nbsp; <img width="60px" src="https://www.freedgo.com/assets/images/WechatIMG32.jpeg"/><br>
+      微博: csyer2004@sina.com
+    </div>
+    <div id="footer-links">
+      <a href="https://twitter.com/changsy2017" class="footer-link" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/csy2013/freedgo" class="footer-link" target="_blank"><i class="fa fa-github-alt"></i></a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  <div id="mobile-nav-dimmer"></div>
+  <nav id="mobile-nav">
+  <div id="mobile-nav-inner">
+    <ul id="mobile-nav-list">
+      <a href="/public/site/" class="mobile-nav-link">Site</a><a href="/public/manual/" class="mobile-nav-link">Manual</a><a href="/public/drawcase/" class="mobile-nav-link">Draw Case</a>
+      <li class="mobile-nav-item">
+        <a href="https://github.com/csy2013/freedgo" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
+      </li>
+    </ul>
+    
+      <strong class="mobile-nav-title">overview</strong><a href="index.html" class="mobile-nav-link">example</a><strong class="mobile-nav-title">UML</strong><a href="uml_class.html" class="mobile-nav-link">uml class</a><a href="uml_class_1.html" class="mobile-nav-link">uml class example</a><a href="uml_user_case.html" class="mobile-nav-link">uml user case</a><a href="uml_activity.html" class="mobile-nav-link">uml activity</a><a href="uml_component.html" class="mobile-nav-link">uml component</a><a href="uml_package.html" class="mobile-nav-link">uml package</a><a href="uml_sequence.html" class="mobile-nav-link">uml sequence</a><a href="urml_erd.html" class="mobile-nav-link current">er diagram</a><a href="erd_mysql.html" class="mobile-nav-link">mysql ER model</a><a href="erd_oracle.html" class="mobile-nav-link">Oracle ER Model</a><a href="erd_sqlserver.html" class="mobile-nav-link">SQLServer ER model</a><a href="erd_postgresql.html" class="mobile-nav-link">PostgreSQL ER Model</a><strong class="mobile-nav-title">business design</strong><a href="bpmn.html" class="mobile-nav-link">BPMN</a><a href="organization.html" class="mobile-nav-link">organization</a><a href="epc.html" class="mobile-nav-link">EPC</a><strong class="mobile-nav-title">workflow</strong><a href="generic_workflow.html" class="mobile-nav-link">generic workflow</a><a href="swimlane_workflow.html" class="mobile-nav-link">swimlane workflow</a><a href="sdl_workflow.html" class="mobile-nav-link">SDL</a><a href="audit_workflow.html" class="mobile-nav-link">audit workflow</a><strong class="mobile-nav-title">UX Design</strong><a href="ux_ios.html" class="mobile-nav-link">ios ux</a><a href="ux_android.html" class="mobile-nav-link">android ux</a><a href="ux_bootstrap.html" class="mobile-nav-link">Bootstrap ux</a><strong class="mobile-nav-title">cloud</strong><a href="cloud_aliyun.html" class="mobile-nav-link">aliyun</a><a href="spring_cloud_aliyun.html" class="mobile-nav-link">aliyun SpringCloud</a><a href="cloud_tencent.html" class="mobile-nav-link">tencent cloud</a><a href="cloud_aws.html" class="mobile-nav-link">AWS</a><a href="cloud_oracle.html" class="mobile-nav-link">Oracle</a><a href="cloud_ibm.html" class="mobile-nav-link">IBM</a><a href="cloud_azure.html" class="mobile-nav-link">Azure</a><a href="cloud_google.html" class="mobile-nav-link">Google cloud</a><strong class="mobile-nav-title">Floor Plan</strong><a href="floorplan.html" class="mobile-nav-link">Generic</a><a href="homeoffice.html" class="mobile-nav-link">Home Office</a><a href="workoffice.html" class="mobile-nav-link">work office</a><a href="livingroom.html" class="mobile-nav-link">livingroom</a><a href="kitchen.html" class="mobile-nav-link">kitchen</a><a href="diningroom.html" class="mobile-nav-link">diningroom</a><a href="bathroom.html" class="mobile-nav-link">bathroom</a><strong class="mobile-nav-title">network</strong><a href="network_deploy.html" class="mobile-nav-link">network deploy</a><a href="network_rack.html" class="mobile-nav-link">network rack</a><strong class="mobile-nav-title">project</strong><a href="basic_electrical.html" class="mobile-nav-link">basic electrical</a><a href="logic_electrical.html" class="mobile-nav-link">logic electrical</a><a href="circuit_electrical.html" class="mobile-nav-link">circuit electrical</a><a href="wiring_electrical.html" class="mobile-nav-link">wiring electrical</a><a href="process_flow_electrical.html" class="mobile-nav-link">process flow electrical</a><a href="pid.html" class="mobile-nav-link">P&ID</a><strong class="mobile-nav-title">other</strong><a href="other_generic.html" class="mobile-nav-link">Concept map</a><a href="tqm.html" class="mobile-nav-link">TQM</a><a href="archimate.html" class="mobile-nav-link">Archimate</a><a href="itil.html" class="mobile-nav-link">ITIL</a>
+    
+  </div>
+  <div id="mobile-lang-select-wrap">
+    <span id="mobile-lang-select-label"><i class="fa fa-globe"></i><span>English</span></span>
+    <select id="mobile-lang-select" data-canonical="drawcase/urml_erd.html">
+      
+        <option value="en" selected>English</option>
+      
+        <option value="zh-cn">简体中文</option>
+      
+    </select>
+  </div>
+</nav>
+  <!-- Scripts -->
+<!-- Cookie -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+<!-- build:js build/js/main.js -->
+<script src="/public/js/lang_select.js"></script>
+<script src="/public/js/toc.js"></script>
+<script src="/public/js/mobile_nav.js"></script>
+<!-- endbuild -->
+
+<!-- Algolia -->
+
+
+</body>
+</html>
