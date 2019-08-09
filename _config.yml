@@ -17,9 +17,7 @@ per_page: 0
 
 theme: navy
 deploy:
-  type: git
-  repo: git@github.com:csy2013/freedgo.github.io.git
-
+  type: baidu_url_submitter
 highlight:
   enable: true
   line_number: false
@@ -33,3 +31,8 @@ algolia:
   indexName: algolia-freedgo
 twitter: changsy2017
 github: csy2013/freedgo
+baidu_url_submit:
+  count: 1000
+  host: www.freedgo.com
+  token: e9avp4LG2sK9Gj9F
+  path: baidu_urls.txt
