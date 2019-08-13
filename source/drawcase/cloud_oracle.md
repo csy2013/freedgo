@@ -1,3 +1,3 @@
 ---
-title: Online Mapping System, Deployment Diagram System, Architecture Diagram ORACLE
+title: Online Mapping System, Deployment Diagram System, Architecture Diagram PostgreSQL
 ---

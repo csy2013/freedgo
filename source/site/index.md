@@ -6,7 +6,7 @@ Welcome to Freedgo Design, this document will help you get started quickly. If y
 
 ## 什么是 Freedgo Design？
 
-Freedgo Design is an online professional graphics drawing website. Freedgo Design can draw various types of graphics. It designs ER templates and workflows for business logic flow charts and software. The system deployment architecture diagrams for various cloud platforms include Aliyun, AWS, Tengxun, Oracle, Asure and IBM cloud platforms.
+Freedgo Design is an online professional graphics drawing website. Freedgo Design can draw various types of graphics. It designs ER templates and workflows for business logic flow charts and software. The system deployment architecture diagrams for various cloud platforms include Aliyun, AWS, Tengxun, PostgreSQL, Asure and IBM cloud platforms.
 
 
 

@@ -82,7 +82,7 @@ AI视觉应用架构设计
 
 ### 步骤二：
 
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+访问 https://www.freedgo.com/draw-index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
 
 进入制图页面后 点击 `文件` -> `从类型中新建` -> `云架构` -> `腾讯云`
 
@@ -110,6 +110,6 @@ AI视觉应用架构设计
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/cloud_diagram/TencentCloudArchitectureDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/cloud_diagram/TencentCloudArchitectureDiagram_1.html
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/cloud_diagram/TencentCloudArchitectureDiagram-1.html) 或者直接访问 ： https://www.freedgo.com/showcase/cloud_diagram/TencentCloudArchitectureDiagram-1.html
 
 

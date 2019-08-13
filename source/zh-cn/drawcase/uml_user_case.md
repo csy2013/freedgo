@@ -4,7 +4,7 @@ title: 在线UML图设计 用例图 在线制图
 
 **以下图例皆使用了在线UML制图网站[Freedgo Design](https://www.freedgo.com)，其访问地址为： https://www.freedgo.com**
 
-freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 阿里云架构图 腾讯云架构图 Oracle云架构图 AWS系统部署图 软件架构图, UML，BPMN，ERD，流程图，UX设计图,ANT DESIGN，思维导图，图表。 可以做到注册用户免费使用。
+freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 阿里云架构图 腾讯云架构图 PostgreSQL云架构图 AWS系统部署图 软件架构图, UML，BPMN，ERD，流程图，UX设计图,ANT DESIGN，思维导图，图表。 可以做到注册用户免费使用。
 
 ** 具体参考 在线制图网站关于UML设计图例：  http://www.feedgo.com/showcase.html **
 
@@ -130,7 +130,7 @@ UML定义了用例之间关联的三个原型:
 
 **以下图例皆使用了在线UML制图网站[Freedgo Design](https://www.freedgo.com)，其访问地址为： https://www.freedgo.com**
 
-freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 阿里云架构图 腾讯云架构图 Oracle云架构图 AWS系统部署图 软件架构图, UML，BPMN，ERD，流程图，UX设计图,ANT DESIGN，思维导图，图表。 可以做到注册用户免费使用。
+freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 阿里云架构图 腾讯云架构图 PostgreSQL云架构图 AWS系统部署图 软件架构图, UML，BPMN，ERD，流程图，UX设计图,ANT DESIGN，思维导图，图表。 可以做到注册用户免费使用。
 
 ** 具体参考 在线制图网站关于UML设计图例：  http://www.feedgo.com/showcase.html **
 

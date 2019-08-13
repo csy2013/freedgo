@@ -117,7 +117,7 @@ title: 流程图 一般流程图 在线制图
 
 ### 步骤二：
 
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+访问 https://www.freedgo.com/draw-index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
 
 进入制图页面后 点击 `文件` -> `从类型中新建` -> `流程图` -> `一般流程图`
 
@@ -156,5 +156,5 @@ title: 流程图 一般流程图 在线制图
 按照绘图要求，一步一步的地完成流程图的绘制。最终完成了整幅的绘制任务。
 ![在线制图 workflow](https://www.freedgo.com/public/themes/freedgo/workflow/workflow8.png "在线制图 workflow")
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/network_diagram/NetworkDiagram-1.html) 或者直接访问 ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram-1.html
 

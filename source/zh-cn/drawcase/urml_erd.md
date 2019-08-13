@@ -13,15 +13,17 @@ Freedgo(自由行走) Design 一款在线ER模型生成的工具，可以针对M
 
 # 步骤一：
 
-首先访问https://www.freedgo.com/draw_index.html,点击 `调整图形` -> `插入` -> `From MySQL`
+首先访问/erd-index.html ,点击 `调整图形` -> `插入` -> `From MySQL`
 
-![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/er1.png "在线制图 ER模型")
+![在线制图_ER模型](/public/themes/freedgo/er/er1.png "在线制图 ER模型")
 
 # 步骤二:
 
 使用工具生成数据库表结构SQL语句，然后copy到输入框，点击`Insert MySQL` 
 
-<video id="video" controls="" preload="none" poster="https://www.freedgo.com/public/themes/freedgo/er/er3.png">
-<source id="mp4" src="https://www.freedgo.com/public/themes/freedgo/er/er2.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" poster="/public/themes/freedgo/er/er3.png">
+<source id="mp4" src="/public/themes/freedgo/er/er2.mp4" type="video/mp4">
 </video>
-![在线制图_ER模型](https://www.freedgo.com/public/themes/freedgo/er/er3.png "在线制图 ER模型")
+
+
+![在线制图_ER模型](/public/themes/freedgo/er/er3.png "在线制图 ER模型")

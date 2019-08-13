@@ -83,7 +83,7 @@ title: 在线网络拓扑图设计 如何在线制图网络拓扑图 网络拓�
 
 ### 步骤二：
 
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+访问 https://www.freedgo.com/draw-index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
 
 进入制图页面后 点击 `文件` -> `从类型中新建` -> `网络架构` -> `网络图`
 
@@ -123,7 +123,7 @@ title: 在线网络拓扑图设计 如何在线制图网络拓扑图 网络拓�
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/network_diagram/NetworkDiagram-1.html) 或者直接访问 ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram-1.html
 
 
 

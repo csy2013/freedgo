@@ -33,7 +33,7 @@ visitor : https://www.freedgo.com.
 <br/>
 #### The plan view effect is as follows：
 
-<iframe src="https://www.freedgo.com/draw_index.html?lightbox=1&p=ex1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=平面图示例#Uhttps://www.freedgo.com/templates/floor/floor_sample1.xml" width="800px" height="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.freedgo.com/draw-index.html?lightbox=1&p=ex1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=平面图示例#Uhttps://www.freedgo.com/templates/floor/floor_sample1.xml" width="800px" height="600px" frameborder="0" scrolling="no"></iframe>
 
 The following is a brief introduction to the functions of the plan:
 
@@ -56,7 +56,7 @@ This is a floor plan of a residential building, drawing the walls, door and wind
 
 
 
-The plan is drawn through an online drawing tool[Freedgo Design](https://www.freedgo.com/draw_index.html?libs=floorplan;general; "Plan design tool")Freedgo Design ，address: https://www.freedgo.com/draw_index.html?libs=floorplan;general;
+The plan is drawn through an online drawing tool[Freedgo Design](https://www.freedgo.com/draw-index.html?libs=floorplan;general; "Plan design tool")Freedgo Design ，address: https://www.freedgo.com/draw-index.html?libs=floorplan;general;
 
  
 
@@ -68,7 +68,7 @@ visitor https://www.freedgo.com ,First register a user, and after successful reg
 
 ### step2：
 
-visitor https://www.freedgo.com/draw_index.html ,Enter the "drawing page" or click "start making" from the menu at the top of the "home page" page.
+visitor https://www.freedgo.com/draw-index.html ,Enter the "drawing page" or click "start making" from the menu at the top of the "home page" page.
 
 After entering the drawing page, click file-> new from type-> plan to select one of the plans.
 
@@ -100,7 +100,7 @@ According to the drawing requirements, the plan drawing is completed step by ste
 
 
 
-For more examples of basic processes, please refer to [example](https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html) Or direct access ： https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html
+For more examples of basic processes, please refer to [example](https://www.freedgo.com/showcase/plane_diagram/FloorPlan-1.html) Or direct access ： https://www.freedgo.com/showcase/plane_diagram/FloorPlan-1.html
 
 
 

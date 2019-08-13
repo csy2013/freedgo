@@ -57,7 +57,7 @@ Now, let's look at how to use Freedgo Design to make a good-looking BPMN.
 
 ### setp2：
 
-Visit https://www.freedgo.com/draw_index.html to enter the `Drawing Page` or click `Start Making` from the menu at the top of the `Home Page` page.  
+Visit https://www.freedgo.com/draw-index.html to enter the `Drawing Page` or click `Start Making` from the menu at the top of the `Home Page` page.  
 After entering the drawing page, click `file`-> `new from type`-> `business design`-> `bpmn` diagram.
 ![Online Drawing Online Drawing_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn5.png "Online Drawing Online Drawing_BPMN")
 
@@ -89,4 +89,4 @@ According to the drawing requirements, the Online Drawing_BPMN is completed step
 
 
 
-For more examples of basic processes, please refer to [Draw Example] (https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html) Or direct access ： https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html
+For more examples of basic processes, please refer to [Draw Example] (https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram-1.html) Or direct access ： https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram-1.html

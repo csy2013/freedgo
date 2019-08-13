@@ -32,7 +32,7 @@ title: 	在线绘图图表制作,在线平面图设计	平面图设计教程 	�
 <br/>
 #### 该平面图查看效果如下：
 
-<iframe src="https://www.freedgo.com/draw_index.html?lightbox=1&p=ex1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=平面图示例#Uhttps://www.freedgo.com/templates/floor/floor_sample1.xml" width="800px" height="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.freedgo.com/draw-index.html?lightbox=1&p=ex1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=平面图示例#Uhttps://www.freedgo.com/templates/floor/floor_sample1.xml" width="800px" height="600px" frameborder="0" scrolling="no"></iframe>
 
 下面简单介绍一下该平面图的功能：
 
@@ -55,7 +55,7 @@ title: 	在线绘图图表制作,在线平面图设计	平面图设计教程 	�
 
 
 
-该平面图通过 在线制图工具 [Freedgo Design](https://www.freedgo.com/draw_index.html?libs=floorplan;general; "平面图设计工具")Freedgo Design设计，具体地址为: https://www.freedgo.com/draw_index.html?libs=floorplan;general;
+该平面图通过 在线制图工具 [Freedgo Design](https://www.freedgo.com/draw-index.html?libs=floorplan;general; "平面图设计工具")Freedgo Design设计，具体地址为: https://www.freedgo.com/draw-index.html?libs=floorplan;general;
 
  
 
@@ -67,7 +67,7 @@ title: 	在线绘图图表制作,在线平面图设计	平面图设计教程 	�
 
 ### 步骤二：
 
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+访问 https://www.freedgo.com/draw-index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
 
 进入制图页面后 点击 `文件` -> `从类型中新建` -> `平面图` 选择其中一个平面图
 
@@ -99,7 +99,7 @@ title: 	在线绘图图表制作,在线平面图设计	平面图设计教程 	�
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/plane_diagram/FloorPlan-1.html) 或者直接访问 ： https://www.freedgo.com/showcase/plane_diagram/FloorPlan-1.html
 
 
 

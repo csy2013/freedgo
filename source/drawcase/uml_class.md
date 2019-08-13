@@ -122,7 +122,7 @@ To visit https://www.freedgo.com, register a user first. After successful regist
 
 ### step2：
 
-Visit https://www.freedgo.com/draw_index.html to enter the `Drawing Page` or click `Start Making` from the menu at the top of the `Home Page` page.  
+Visit https://www.freedgo.com/draw-index.html to enter the `Drawing Page` or click `Start Making` from the menu at the top of the `Home Page` page.  
 After entering the drawing page, click file-> new from type-> software design-> class diagram
 
 ![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class6.png "Online Draw Class Diagram")
@@ -161,5 +161,5 @@ The class diagram making tool has a set of rich styles. Users can fill closed gr
 
 According to the drawing requirements, the class diagram is drawn step by step. Finally, the whole painting task was completed.
 
-For more examples of basic class diagrams, please refer to[example](https://www.freedgo.com/showcase/software_design/ClassDiagram_1.html) Or direct access ： https://www.freedgo.com/showcase/software_design/ClassDiagram_1.html
+For more examples of basic class diagrams, please refer to[example](https://www.freedgo.com/showcase/software_design/ClassDiagram-1.html) Or direct access ： https://www.freedgo.com/showcase/software_design/ClassDiagram-1.html
 

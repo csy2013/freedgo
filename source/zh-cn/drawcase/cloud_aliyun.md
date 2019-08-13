@@ -16,7 +16,7 @@ title: 在线制图 系统部署图 系统架构图 阿里云
 用在线制图工具创建阿里云架构图相对比较简单。以下是您需要的三个步骤:
 
 
-- 创建空白[阿里云架构图](https://www.freedgo.com/draw_index.html?libs=aliyun;general;basic;arrows2 "阿里云架构图")。 
+- 创建空白[阿里云架构图](https://www.freedgo.com/draw-index.html?libs=aliyun;general;basic;arrows2 "阿里云架构图")。 
 
 - 将解决方案所需的服务和产品从图标库拖放到图表上。
 

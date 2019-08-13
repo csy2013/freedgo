@@ -21,103 +21,12 @@ ER模型使用可视化了实体存储的信息，以及直观的呈现了实体
 
 #### 图例
 
-[在线制图 SQLServer ER模型例子](https://www.freedgo.com/showcase/software_design/EntityRelationshipDiagram_1.html "在线制图 SQLServer ER模型例子") 
+[在线制图 SQLServer ER模型例子](https://www.freedgo.com/showcase/EntityRelationshipDiagram/SQLServer-1.html "在线制图 SQLServer ER模型例子") 
 
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver1.png "在线制图 SQLServer ER模型")
+![在线制图-SQLServer-ER模型](/public/themes/freedgo/er/sqlserver/er_sqlserver.png "在线制图 SQLServer ER模型")
 
 ## 快速上手
 
 #### 基本使用：
 
-如果要使用SQLServer表建立ER模型，请选择实体类型为`实体关系/SQLServer`，选择对应的表、视图、存储过程、触发器、Sequence 等组件后拖动到编辑区域。
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver2.png "在线制图 SQLServer ER模型")
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver3.png "在线制图 SQLServer ER模型")
-
-
-
-#### 1、如何导入SQL？
-已经建立好的数据库如何生成ER模型有一种比较简单的方式就是导出数据库的建表脚本后再导入，具体操作如下：
-
-首先访问 https://www.freedgo.com/draw_index.html ,点击菜单 `数据库` -> `SQLServer` -> `导入DDL`
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver4.png "在线制图 SQLServer ER模型") 
-
-
-复制SQL语言到对应的框中，或者拖动SQLServer DDL文件到对应的输入框、点击`insert SQLServer`
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver5.png "在线制图 SQLServer ER模型") 
-
-或拖动SQL文件到对应的输入框
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver6.png "在线制图 SQLServer ER模型") 
-
-最后生成对应的模型图
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver7.png "在线制图 SQLServer ER模型") 
-
-
-#### 2、在线ER模型表操作
-
-##### 新增修改表结构
-
-在线对表字段进行新增，可以在需要添加字段的位置点击箭头进行添加，
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver8.png "在线制图 SQLServer ER模型")
-
-添加字段后点击右键->`修改字段` 可以修改字段的属性值,支持字段名、类型、长度、是否主键、是否外键、备注 、是否为空等等
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver9.png "在线制图 SQLServer ER模型")
-
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver10.png "在线制图 SQLServer ER模型") 
-
-
-#### 3、View操作
-
-新增或修改视图：通过拖动SQLServer视图模型到编辑区，对视图的编辑通过点击右键->`视图SQL`，在弹出框中进行视图的SQL修改。
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver11.png "在线制图 SQLServer ER模型")
-
-
-可以复制SQl到剪切板，也可以修改View脚本点击`应用`生效
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver12.png "在线制图 SQLServer ER模型")
- 
-
-#### 4、Trigger操作
-
-操作同视图操作
-
-#### 5、Sequence 操作
-新增或者修改Sequence操作
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver13.png "在线制图 SQLServer ER模型")
-
-可以点击`修改Sequence`,修改sequence对应的start with,increment by ,max,min value,order,cycle,cache等等属性。
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver14.png "在线制图 SQLServer ER模型")
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver15.png "在线制图 SQLServer ER模型")
-
-#### 6、导出SQL
-
-##### 查询整个ER模型的SQL：
-
-点击`数据库` -> `SQLServer` -> `导出SQL`
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver16.png "在线制图 SQLServer ER模型")
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver17.png "在线制图 SQLServer ER模型")
-
-##### 查询多表或单表SQl：
-
-如下图：选择3个表右键：
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver18.png "在线制图 SQLServer ER模型")
-
-##### 查询列的修改SQL或新增SQL
- 
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver19.png "在线制图 SQLServer ER模型")
- 
-#### 问题反馈
-使用过程中可以及时反馈使用效果，请点击`问题反馈`按钮
-
-![在线制图-SQLServer-ER模型](https://www.freedgo.com/public/themes/freedgo/er/sqlserver/er_sqlserver20.png "在线制图 SQLServer ER模型")
+请参考 MySQL ER 模型设计 [在线制图 MySQL ER模型](/public/zh-cn/drawcase/erd_mysql.html "MySQL ER 模型设计")

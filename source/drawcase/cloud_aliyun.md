@@ -16,7 +16,7 @@ title: 在线制图 系统部署图 系统架构图 阿里云
 用在线视觉范例创建阿里云建筑图简单、直接，不需要学习。以下是您需要的三个快速步骤:
 
 
-- 创建空白[阿里云架构图](https://www.freedgo.com/draw_index.html?libs=aliyun;general;basic;arrows2 "阿里云架构图")。 
+- 创建空白[阿里云架构图](https://www.freedgo.com/draw-index.html?libs=aliyun;general;basic;arrows2 "阿里云架构图")。 
 
 - 使用区域形状将图表划分为不同的部分或区域。您可以从图表调色板中找到一组丰富的区域形状。
 

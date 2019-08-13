@@ -78,7 +78,7 @@ visitor https://www.freedgo.com ,First register a user, and after successful reg
 
 ### step2：
 
-visitor https://www.freedgo.com/draw_index.html ,Enter the "drawing page" or click "start making" from the menu at the top of the "home page" page.。
+visitor https://www.freedgo.com/draw-index.html ,Enter the "drawing page" or click "start making" from the menu at the top of the "home page" page.。
 
 After entering the drawing page, click file-> new from type-> network architecture-> network diagram.
 
@@ -116,7 +116,7 @@ According to the drawing requirements, the Network topology diagram is drawn ste
 
 
 
-For more examples of basic processes, please refer to [example](https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html) Or direct access ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram_1.html
+For more examples of basic processes, please refer to [example](https://www.freedgo.com/showcase/network_diagram/NetworkDiagram-1.html) Or direct access ： https://www.freedgo.com/showcase/network_diagram/NetworkDiagram-1.html
 
 
 

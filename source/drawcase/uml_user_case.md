@@ -4,7 +4,7 @@ title: Online UML Diagram Design,Use Case Diagram,Online Drawing
 
 **The following Diagram all use the online UML mapping website[Freedgo Design](https://www.freedgo.com)，Its access address is： https://www.freedgo.com**
 
-freedgo Design is an online drawing software for various types of charts. It allows you to create Aliyun Cloud Architecture Diagram, Tencent Cloud Architecture Diagram, Oracle Cloud Architecture Diagram, AWS System Deployment Diagram, Software Architecture Diagram, UML, BPMN, ERD, Flow Diagram, UX Design Diagram, ANT DESIGN, Mind Map, Chart. It can be used by registered users free of charge.。
+freedgo Design is an online drawing software for various types of charts. It allows you to create Aliyun Cloud Architecture Diagram, Tencent Cloud Architecture Diagram, PostgreSQL Cloud Architecture Diagram, AWS System Deployment Diagram, Software Architecture Diagram, UML, BPMN, ERD, Flow Diagram, UX Design Diagram, ANT DESIGN, Mind Map, Chart. It can be used by registered users free of charge.。
 
 ** For details, please refer to the legend of UML design on the Online Drawing website:  http://www.feedgo.com/showcase.html **
 
@@ -125,7 +125,7 @@ It is not necessarily completed by the system, nor is it intended to be complete
 
 **The following illustrations all use the online UML mapping website[Freedgo Design](https://www.freedgo.com)，Its access address is： https://www.freedgo.com**
 
-Freedgo Design is an online drawing software for various types of charts. It allows you to create Arian Cloud Architecture Diagram, Tengxun Cloud Architecture Diagram, Oracle Cloud Architecture Diagram, AWS System Deployment Diagram, Software Architecture Diagram, UML, BPMN, ERD, Flow Diagram, UX Design Diagram, ANT DESIGN, Mind Map, Chart. It can be used by registered users free of charge.
+Freedgo Design is an online drawing software for various types of charts. It allows you to create Arian Cloud Architecture Diagram, Tengxun Cloud Architecture Diagram, PostgreSQL Cloud Architecture Diagram, AWS System Deployment Diagram, Software Architecture Diagram, UML, BPMN, ERD, Flow Diagram, UX Design Diagram, ANT DESIGN, Mind Map, Chart. It can be used by registered users free of charge.
 
 **For details, please refer to the legend of UML design on the Online Drawing website：  http://www.feedgo.com/showcase.html **
 

@@ -6,7 +6,7 @@ title: 文档
 
 ## 什么是 Freedgo Design？
 
-Freedgo Design 是一in款在线绘制专业图形的网站。Freedgo Design可以绘制各种类型的图形，针对业务逻辑的流程图，软件设计ER模板，工作流，各种云平台的系统部署架构图包括阿里云、AWS云、腾讯云、Oracle、Asure云、IBM云平台等。
+Freedgo Design 是一in款在线绘制专业图形的网站。Freedgo Design可以绘制各种类型的图形，针对业务逻辑的流程图，软件设计ER模板，工作流，各种云平台的系统部署架构图包括阿里云、AWS云、腾讯云、PostgreSQL、Asure云、IBM云平台等。
 
 
 
@@ -121,7 +121,7 @@ Freedgo Design提供一系列UX设计的制作,可以实现IOS，安卓，以及
 
 
 ### 平面图
-Freedgo Design可以绘制平面图包括建筑平面表，房屋平面表，房屋效果图设计,在图例中提供了家庭、办公、厨房、卫生间等等图例，具体可以登录在线制图网站，查看 [图例](https://www.freedgo.com/showcase/plane_diagram/FloorPlan_1.html "在线制图图例")
+Freedgo Design可以绘制平面图包括建筑平面表，房屋平面表，房屋效果图设计,在图例中提供了家庭、办公、厨房、卫生间等等图例，具体可以登录在线制图网站，查看 [图例](https://www.freedgo.com/showcase/plane_diagram/FloorPlan-1.html "在线制图图例")
 
 ![在线绘制平面图](https://www.freedgo.com/public/themes/freedgo/index16.png "在线绘制平面图")
 
@@ -134,7 +134,7 @@ Freedgo Design 可以绘制各种网络拓扑图，和机架图。
 ![在线绘制机架图](https://www.freedgo.com/public/themes/freedgo/index18.png "机架图")
 
 ### 云架构
-Freedgo Design 提供了各类云架构的系统架构图、系统部署图，包括AWS架构，阿里云架构、腾讯云架构、IBM、ORACLE、Azure和Google云等等。
+Freedgo Design 提供了各类云架构的系统架构图、系统部署图，包括AWS架构，阿里云架构、腾讯云架构、IBM、PostgreSQL、Azure和Google云等等。
 
 
 #### AWS
@@ -152,9 +152,9 @@ Freedgo Design 提供了各类云架构的系统架构图、系统部署图，�
 
 ![在线绘制IBM架构](https://www.freedgo.com/public/themes/freedgo/index22.png "在线绘制IBM架构")
 
-#### ORACLE架构
+#### PostgreSQL架构
 
-![在线绘制ORACLE架构](https://www.freedgo.com/public/themes/freedgo/index23.png "在线绘制ORACLE架构")
+![在线绘制PostgreSQL架构](https://www.freedgo.com/public/themes/freedgo/index23.png "在线绘制PostgreSQL架构")
 
 #### Azure架构
 

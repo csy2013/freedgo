@@ -62,7 +62,7 @@ Freedgo Design具有完整的BPMN图标和简单易用的绘制方法，使业�
 
 ### 步骤二：
 
-访问 https://www.freedgo.com/draw_index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+访问 https://www.freedgo.com/draw-index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
 
 进入制图页面后 点击 `文件` -> `从类型中新建` -> `业务设计` -> `BPMN图`
 
@@ -97,4 +97,4 @@ Freedgo Design具有完整的BPMN图标和简单易用的绘制方法，使业�
 
 
 
-更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html) 或者直接访问 ： https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram_1.html
+更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram-1.html) 或者直接访问 ： https://www.freedgo.com/showcase/business_design/BusinessProcessDiagram-1.html

@@ -3,14 +3,14 @@ title: Database reverse engineering, ER model generation, ER model generation th
 ---
 
 Let's introduce a tool for online ER model generation. 
-It can generate ER model charts online for DDL files of various databases and supports MySQL, SQLServer, Oracle, PostgreSQL and other databases. The main functions are as follows:
+It can generate ER model charts online for DDL files of various databases and supports MySQL, SQLServer, PostgreSQL, PostgreSQL and other databases. The main functions are as follows:
 
 - supports the creation of tables, and can edit table structure, field type, primary key, default value, index, remark information, etc. according to different types of databases. 
 - Support view, trigger, sequence, stored procedure, function view and edit 
 - Generate SQL synchronously for user operation
 
 # access address：
-[Database ER Diagram](https://www.freedgo.com/erd_index.html "Database ER Diagram")。 
+[Database ER Diagram](https://www.freedgo.com/erd-index.html "Database ER Diagram")。 
 
 
 # Function：
@@ -30,7 +30,7 @@ Adjust the display scale of the editing area to fit the appropriate size.
 
 ## 1、import DDL
 
-visitor  https://www.freedgo.com/erd_index.html,choose database 、Click menu `database` -> `SQLServer` -> `import DDL`
+visitor  https://www.freedgo.com/erd-index.html,choose database 、Click menu `database` -> `SQLServer` -> `import DDL`
 
 ![Database ER Diagram-DDL import](https://www.freedgo.com/public/themes/freedgo/er/generic/ddl.png "Database ER Diagram-DDLImport") 
 

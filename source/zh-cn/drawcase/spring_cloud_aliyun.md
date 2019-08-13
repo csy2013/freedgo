@@ -72,10 +72,10 @@ Spring Cloud版本采用Greenwich.M1。
 
 架构预览地址： 
 
-<a target='blank' href='https://www.freedgo.com/draw_index.html?#Uhttps://www.freedgo.com/templates/network/springcloud_aliyun.xml'>https://www.freedgo.com/draw_index.html?#Uhttps://www.freedgo.com/templates/network/springcloud_aliyun.xml</a>
+<a target='blank' href='https://www.freedgo.com/draw-index.html?#Uhttps://www.freedgo.com/templates/network/springcloud_aliyun.xml'>https://www.freedgo.com/draw-index.html?#Uhttps://www.freedgo.com/templates/network/springcloud_aliyun.xml</a>
 
 
-Freedgo Design 是一in款在线绘制专业图形的网站。Freedgo Design可以绘制各种类型的图形，针对业务逻辑的流程图，软件设计ER模板，工作流，各种云平台的系统部署架构图包括阿里云、AWS云、腾讯云、Oracle、Asure云、IBM云平台等。
+Freedgo Design 是一in款在线绘制专业图形的网站。Freedgo Design可以绘制各种类型的图形，针对业务逻辑的流程图，软件设计ER模板，工作流，各种云平台的系统部署架构图包括阿里云、AWS云、腾讯云、PostgreSQL、Asure云、IBM云平台等。
 
 ![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/aliyun_springcloud.png "在线制图 springCloud设计")
 
