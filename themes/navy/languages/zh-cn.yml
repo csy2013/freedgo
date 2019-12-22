@@ -4,6 +4,7 @@ menu:
   drawcase: 图例
   news: 新闻
   search: 搜索
+  mind: 思维导图
 
 index:
   get_started: 开始使用
@@ -120,3 +121,8 @@ sidebar:
     tqm: TQM
     archimate: Archimate
     itil: ITIL
+  mind:
+      overview: 概述
+      intro: 介绍
+      use: 使用
+      case: 图例

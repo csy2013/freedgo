@@ -99,3 +99,8 @@ drawcase:
     tqm: tqm.html
     archimate: archimate.html
     itil: itil.html
+mind:
+  overview:
+    intro: index.html
+    use: user.html
+    case: case.html
