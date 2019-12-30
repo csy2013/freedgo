@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head prefix="og: http://ogp.me/ns#"><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="utf-8">
+  <title>使用层 | Freedgo Design:专注在线绘图工具,ER模型设计</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Canonical links -->
+  <link rel="canonical" href="https://www.freedgo.com/zh-cn/manual/use_layer.html">
+  <!-- Alternative links -->
+  
+    
+      <link rel="alternative" hreflang="en" href="https://www.freedgo.com/manual/use_layer.html">
+    
+      <link rel="alternative" hreflang="zh-cn" href="https://www.freedgo.com/zh-cn/manual/use_layer.html">
+    
+  
+  <!-- Icon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/public/icon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/public/icon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/public/icon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/public/icon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/public/icon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/public/icon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/public/icon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/public/icon/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#2f83cd">
+  <meta name="msapplication-TileImage" content="/public/icon/mstile-144x144.png">
+  <!-- CSS -->
+  <!-- build:css build/css/navy.css -->
+  <link rel="stylesheet" href="/public/css/navy.css">
+  <!-- endbuild -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+  <!-- RSS -->
+  <link rel="alternate" href="/public/atom.xml" title="Freedgo Design:专注在线绘图工具,ER模型设计">
+  <!-- Open Graph -->
+  <meta name="description" content="可以创建包含不同元素层的图表。每个层及其元素将一起显示(除非您另有指定)，但就编辑而言，将被视为与其他层完全分离。 我们已经在示例图中添加了一个新的矩形。现在选择查看-&amp;gt;图层，调出图层菜单。   图层菜单出现在屏幕右侧，与格式面板重叠。 目前，图表只包含默认的背景层，也就是只有一个层时要处理的层。勾选框表示显示的所有背景元素 现在让我们添加第二层。这是通过单击底部的添加层按钮来完成的。">
+<meta name="keywords" content="在线绘图工具，在线图表工具，图表工具，图表解决方案，在线图表制造商，在线图表创建者，在线uml工具，图表软件，在线阿里云部署图工具，在线AWS部署图工具，在线腾讯云部署图工具，流程图工具，工程电气在线设计，平面图设计，UX设计，信息图表制造商，图表制造商，信息图表软件， 图表软件，业务在线设计，在线图表编辑器">
+<meta property="og:type" content="website">
+<meta property="og:title" content="使用层">
+<meta property="og:url" content="https://www.freedgo.com/zh-cn/manual/use_layer.html">
+<meta property="og:site_name" content="Freedgo Design:专注在线绘图工具,ER模型设计">
+<meta property="og:description" content="可以创建包含不同元素层的图表。每个层及其元素将一起显示(除非您另有指定)，但就编辑而言，将被视为与其他层完全分离。 我们已经在示例图中添加了一个新的矩形。现在选择查看-&amp;gt;图层，调出图层菜单。   图层菜单出现在屏幕右侧，与格式面板重叠。 目前，图表只包含默认的背景层，也就是只有一个层时要处理的层。勾选框表示显示的所有背景元素 现在让我们添加第二层。这是通过单击底部的添加层按钮来完成的。">
+<meta property="og:locale" content="zh-cn">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer1.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer2.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer3.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer4.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer5.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer6.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer7.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer8.png">
+<meta property="og:updated_time" content="2019-08-09T14:35:50.188Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="使用层">
+<meta name="twitter:description" content="可以创建包含不同元素层的图表。每个层及其元素将一起显示(除非您另有指定)，但就编辑而言，将被视为与其他层完全分离。 我们已经在示例图中添加了一个新的矩形。现在选择查看-&amp;gt;图层，调出图层菜单。   图层菜单出现在屏幕右侧，与格式面板重叠。 目前，图表只包含默认的背景层，也就是只有一个层时要处理的层。勾选框表示显示的所有背景元素 现在让我们添加第二层。这是通过单击底部的添加层按钮来完成的。">
+<meta name="twitter:image" content="https://www.freedgo.com/public/themes/freedgo/use_layer.png">
+<meta name="twitter:site" content="changsy2017">
+<meta property="fb:admins" content="100000247608790">
+  <!-- Google Analytics -->
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48498357-3', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ <!-- googleAds -->
+ <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9055212255210230" data-ad-slot="9155963506" data-ad-format="auto" data-full-width-responsive="true"></ins>
+ <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+ </script>
+  <script>
+var _hmt = _hmt || [];
+    (function () {
+        let hm = document.createElement('script');
+        hm.src = 'https://hm.baidu.com/hm.js?93679cc51fbef1728e9b7d2624ed3263';
+        let s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
+</head>
+
+<body>
+  <div id="container">
+    <header id="header" class="wrapper">
+  <div id="header-inner" class="inner">
+    <h1 id="logo-wrap">
+      <a href="https://www.freedgo.com" id="logo">Freedgo Desgin</a>
+    </h1>
+    <nav id="main-nav">
+      <a href="/public/zh-cn/site/" class="main-nav-link">网站</a><a href="/public/zh-cn/manual/" class="main-nav-link">工具使用</a><a href="/public/zh-cn/drawcase/" class="main-nav-link">图例</a><a href="/public/zh-cn/mind/" class="main-nav-link">思维导图</a>
+      <a href="https://github.com/csy2013/freedgo" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
+      <div id="search-input-wrap">
+        <div id="search-input-icon">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="search" id="search-input" placeholder="Search...">
+      </div>
+    </nav>
+    <div id="lang-select-wrap">
+      <label id="lang-select-label"><i class="fa fa-globe"></i><span>简体中文</span></label>
+      <select id="lang-select" data-canonical="manual/use_layer.html">
+        
+          <option value="en">English</option>
+        
+          <option value="zh-cn" selected>简体中文</option>
+        
+      </select>
+    </div>
+    <a id="mobile-nav-toggle">
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+    </a>
+  </div>
+</header>
+
+    <div id="content-wrap">
+  <div id="content" class="wrapper">
+    <div id="content-inner">
+      <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+          <div class="article">
+            <div class="inner">
+              <header class="article-header">
+                <h1 class="article-title" itemprop="name">使用层</h1>
+                <a href="https://github.com/csy2013/site/edit/master/source/zh-cn/manual/use_layer.md" class="article-edit-link" title="改进本文"><i class="fa fa-pencil"></i></a>
+              </header>
+              <div class="article-content" itemprop="articleBody">
+                <p>可以创建包含不同元素层的图表。每个层及其元素将一起显示(除非您另有指定)，但就编辑而言，将被视为与其他层完全分离。</p>
+<p>我们已经在示例图中添加了一个新的矩形。现在选择查看-&gt;图层，调出图层菜单。</p>
+<p><img src="/public/themes/freedgo/use_layer.png" alt="使用层" title="使用层"> </p>
+<p><code>图层</code>菜单出现在屏幕右侧，与<code>格式面板</code>重叠。</p>
+<p>目前，图表只包含默认的背景层，也就是只有一个层时要处理的层。勾选框表示显示的所有背景元素</p>
+<p>现在让我们添加第二层。这是通过单击底部的添加层按钮来完成的。</p>
+<p><img src="/public/themes/freedgo/use_layer1.png" alt="使用层" title="使用层"> </p>
+<p>我们在背景层的顶部添加了第二层，称为第一层。如果我们现在向图中添加新元素，它们将作为第1层的一部分添加。让我们添加一个椭圆。</p>
+<p>将椭圆拖到矩形上会导致它出现在前面。我们在任何情况下都会想到这一点，因为新的形状会出现在旧的形状之前。</p>
+<p>但是，如果我们右键单击椭圆并单击返回，椭圆仍将出现在矩形前面。第1层元素将始终出现在背景元素前面。</p>
+<p> <img src="/public/themes/freedgo/use_layer2.png" alt="使用层" title="使用层"> </p>
+<p>一次查看多个图层可能会令人困惑。因此，可以选择从显示器上移除任何或所有层。让我们打开背景框。</p>
+<p><img src="/public/themes/freedgo/use_layer3.png" alt="使用层" title="使用层"> </p>
+<p>矩形已经消失，但是第1层中的椭圆仍然可见。</p>
+<p>通过选择元素并单击移动选择按钮，我们可以将元素向上移动到下一层。让我们保留背景框，然后选择矩形，并将其移动到第1层。</p>
+<p><img src="/public/themes/freedgo/use_layer4.png" alt="使用层" title="使用层"> </p>
+<p>现在两个形状都在第1层，我们可以像往常一样将其中一个移动到另一个前面。</p>
+<p>我们可能想要复制一个层来形成新层的基础。现在我们在第1层有两个形状，让我们把它们复制到另一个新的层，第2层。不需要选择；只需单击<code>复制图层</code>按钮，形状的副本就会出现在它们的原件上。请注意，第2层也出现在层列表中。</p>
+<p><img src="/public/themes/freedgo/use_layer5.png" alt="使用层" title="使用层"> </p>
+<p>我们将把新的形状拖下来，使它们低于原来的形状。</p>
+<p> <img src="/public/themes/freedgo/use_layer6.png" alt="使用层" title="使用层"> </p>
+<p>此时，第1层中有一个矩形与椭圆重叠，第2层中也是如此。我们可能决定删除一些层。可以删除任何层，包括背景层。但是请注意，如果只剩下一个图层，并且您试图删除它，图表将默认恢复为具有无法删除的背景图层。</p>
+<p>我们可以通过单击移除图层按钮来删除图层。</p>
+<p><img src="/public/themes/freedgo/use_layer7.png" alt="使用层" title="使用层"> </p>
+<p>这里我们删除了背景和第1层。只有第2层中的形状保留。第1层形状和第1层一起被删除。</p>
+<p><img src="/public/themes/freedgo/use_layer8.png" alt="使用层" title="使用层"> </p>
+
+              </div>
+              <footer class="article-footer">
+                <time class="article-footer-updated" datetime="2019-08-09T14:35:50.188Z" itemprop="dateModified">上次更新：2019-08-09</time>
+                <a href="shape_edit.html" class="article-footer-prev" title="修改形状"><i class="fa fa-chevron-left"></i><span>上一页</span></a>
+              </footer>
+              
+<section id="comments">
+  <div id="disqus_thread"></div>
+</section>
+<script>
+  var disqus_shortname = 'freedgo-design';
+  var disqus_url = 'https://www.freedgo.com/zh-cn/manual/use_layer.html';
+  var disqus_title = "使用层";
+  var disqus_config = function(){
+    this.language = 'zh';
+  };
+  (function(){
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'https://go.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+            </div>
+          </div>
+          <aside id="article-toc" role="navigation">
+            <div id="article-toc-inner">
+              <strong class="sidebar-title">目录</strong>
+              
+              <a href="#" id="article-toc-top">回到顶部</a>
+            </div>
+          </aside>
+        </div>
+      </article>
+      <aside id="sidebar" role="navigation">
+  <div class="inner">
+    <strong class="sidebar-title">文件使用</strong><a href="my_file.html" class="sidebar-link">我的制作</a><a href="open_file.html" class="sidebar-link">打开文件</a><a href="create_file.html" class="sidebar-link">创建文件</a><a href="save_file.html" class="sidebar-link">存储文件</a><a href="print_file.html" class="sidebar-link">打印文件</a><a href="history_file.html" class="sidebar-link">文件版本</a><strong class="sidebar-title">在线制图</strong><a href="login_draw.html" class="sidebar-link">登录制图</a><a href="draw_info.html" class="sidebar-link">页面概览</a><a href="draw_formate.html" class="sidebar-link">格式面板</a><strong class="sidebar-title">自定义图形</strong><a href="style_option.html" class="sidebar-link">样式选项</a><a href="text_option.html" class="sidebar-link">文本选项</a><a href="rang_option.html" class="sidebar-link">排列选项</a><strong class="sidebar-title">教程</strong><a href="create_draw.html" class="sidebar-link">创建图形</a><a href="rang_draw.html" class="sidebar-link">布局</a><a href="link_draw.html" class="sidebar-link">连接、航点</a><a href="export_draw.html" class="sidebar-link">导出选项</a><strong class="sidebar-title">高级</strong><a href="use_metadata.html" class="sidebar-link">使用元元素</a><a href="shape_edit.html" class="sidebar-link">修改形状</a><a href="use_layer.html" class="sidebar-link current">使用层</a>
+  </div>
+</aside>
+    </div>
+  </div>
+</div>
+
+    <footer id="footer" class="wrapper">
+  <div class="inner">
+    <div id="footer-copyright">
+      &copy; 2019 <a href="http://www.yuaoq.com" target="_blank">南京裕奥软件科技有限公司</a><br>
+      备案号 <a href="http://www.beian.miit.gov.cn/" target="_blank">苏ICP备14047301号-3 </a>.<br>
+      QQ:&nbsp;&nbsp; 857717515&nbsp;&nbsp;<br>
+      微信:&nbsp;&nbsp;&nbsp;&nbsp; <img width="60px" src="https://www.freedgo.com/assets/images/WechatIMG32.jpeg"/><br>
+      微博: csyer2004@sina.com
+    </div>
+    <div id="footer-links">
+      <a href="https://twitter.com/changsy2017" class="footer-link" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/csy2013/freedgo" class="footer-link" target="_blank"><i class="fa fa-github-alt"></i></a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  <div id="mobile-nav-dimmer"></div>
+  <nav id="mobile-nav">
+  <div id="mobile-nav-inner">
+    <ul id="mobile-nav-list">
+      <a href="/public/zh-cn/site/" class="mobile-nav-link">网站</a><a href="/public/zh-cn/manual/" class="mobile-nav-link">工具使用</a><a href="/public/zh-cn/drawcase/" class="mobile-nav-link">图例</a><a href="/public/zh-cn/mind/" class="mobile-nav-link">思维导图</a>
+      <li class="mobile-nav-item">
+        <a href="https://github.com/csy2013/freedgo" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
+      </li>
+    </ul>
+    
+      <strong class="mobile-nav-title">文件使用</strong><a href="my_file.html" class="mobile-nav-link">我的制作</a><a href="open_file.html" class="mobile-nav-link">打开文件</a><a href="create_file.html" class="mobile-nav-link">创建文件</a><a href="save_file.html" class="mobile-nav-link">存储文件</a><a href="print_file.html" class="mobile-nav-link">打印文件</a><a href="history_file.html" class="mobile-nav-link">文件版本</a><strong class="mobile-nav-title">在线制图</strong><a href="login_draw.html" class="mobile-nav-link">登录制图</a><a href="draw_info.html" class="mobile-nav-link">页面概览</a><a href="draw_formate.html" class="mobile-nav-link">格式面板</a><strong class="mobile-nav-title">自定义图形</strong><a href="style_option.html" class="mobile-nav-link">样式选项</a><a href="text_option.html" class="mobile-nav-link">文本选项</a><a href="rang_option.html" class="mobile-nav-link">排列选项</a><strong class="mobile-nav-title">教程</strong><a href="create_draw.html" class="mobile-nav-link">创建图形</a><a href="rang_draw.html" class="mobile-nav-link">布局</a><a href="link_draw.html" class="mobile-nav-link">连接、航点</a><a href="export_draw.html" class="mobile-nav-link">导出选项</a><strong class="mobile-nav-title">高级</strong><a href="use_metadata.html" class="mobile-nav-link">使用元元素</a><a href="shape_edit.html" class="mobile-nav-link">修改形状</a><a href="use_layer.html" class="mobile-nav-link current">使用层</a>
+    
+  </div>
+  <div id="mobile-lang-select-wrap">
+    <span id="mobile-lang-select-label"><i class="fa fa-globe"></i><span>简体中文</span></span>
+    <select id="mobile-lang-select" data-canonical="manual/use_layer.html">
+      
+        <option value="en">English</option>
+      
+        <option value="zh-cn" selected>简体中文</option>
+      
+    </select>
+  </div>
+</nav>
+  <!-- Scripts -->
+<!-- Cookie -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+<!-- build:js build/js/main.js -->
+<script src="/public/js/lang_select.js"></script>
+<script src="/public/js/toc.js"></script>
+<script src="/public/js/mobile_nav.js"></script>
+<!-- endbuild -->
+
+<!-- Algolia -->
+
+
+</body>
+</html>

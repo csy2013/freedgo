@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#"><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="utf-8">
+  <title>Connectors, waypoints and changing shapes | Freedgo Design:专注在线绘图工具,ER模型设计</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Canonical links -->
+  <link rel="canonical" href="https://www.freedgo.com/manual/link_draw.html">
+  <!-- Alternative links -->
+  
+    
+      <link rel="alternative" hreflang="en" href="https://www.freedgo.com/manual/link_draw.html">
+    
+      <link rel="alternative" hreflang="zh-cn" href="https://www.freedgo.com/zh-cn/manual/link_draw.html">
+    
+  
+  <!-- Icon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/public/icon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/public/icon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/public/icon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/public/icon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/public/icon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/public/icon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/public/icon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/public/icon/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#2f83cd">
+  <meta name="msapplication-TileImage" content="/public/icon/mstile-144x144.png">
+  <!-- CSS -->
+  <!-- build:css build/css/navy.css -->
+  <link rel="stylesheet" href="/public/css/navy.css">
+  <!-- endbuild -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+  <!-- RSS -->
+  <link rel="alternate" href="/public/atom.xml" title="Freedgo Design:专注在线绘图工具,ER模型设计">
+  <!-- Open Graph -->
+  <meta name="description" content="changing shapesRotating shapeWhen creating a new shape, it always starts in a direction relative to the page. For example, when creating a cylinder, it always appears like this:     It is possible to">
+<meta name="keywords" content="在线绘图工具，在线图表工具，图表工具，图表解决方案，在线图表制造商，在线图表创建者，在线uml工具，图表软件，在线阿里云部署图工具，在线AWS部署图工具，在线腾讯云部署图工具，流程图工具，工程电气在线设计，平面图设计，UX设计，信息图表制造商，图表制造商，信息图表软件， 图表软件，业务在线设计，在线图表编辑器">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Connectors, waypoints and changing shapes">
+<meta property="og:url" content="https://www.freedgo.com/manual/link_draw.html">
+<meta property="og:site_name" content="Freedgo Design:专注在线绘图工具,ER模型设计">
+<meta property="og:description" content="changing shapesRotating shapeWhen creating a new shape, it always starts in a direction relative to the page. For example, when creating a cylinder, it always appears like this:     It is possible to">
+<meta property="og:locale" content="en">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw1.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw3.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw4.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw5.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw6.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw7.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw8.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw9.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw10.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw11.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw12.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw13.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw14.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw15.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw16.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw17.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw18.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw19.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw20.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw21.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw22.png">
+<meta property="og:updated_time" content="2019-08-09T14:35:53.573Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Connectors, waypoints and changing shapes">
+<meta name="twitter:description" content="changing shapesRotating shapeWhen creating a new shape, it always starts in a direction relative to the page. For example, when creating a cylinder, it always appears like this:     It is possible to">
+<meta name="twitter:image" content="https://www.freedgo.com/public/themes/freedgo/link_draw.png">
+<meta name="twitter:site" content="changsy2017">
+<meta property="fb:admins" content="100000247608790">
+  <!-- Google Analytics -->
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48498357-3', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ <!-- googleAds -->
+ <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9055212255210230" data-ad-slot="9155963506" data-ad-format="auto" data-full-width-responsive="true"></ins>
+ <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+ </script>
+  <script>
+var _hmt = _hmt || [];
+    (function () {
+        let hm = document.createElement('script');
+        hm.src = 'https://hm.baidu.com/hm.js?93679cc51fbef1728e9b7d2624ed3263';
+        let s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
+</head>
+
+<body>
+  <div id="container">
+    <header id="header" class="wrapper">
+  <div id="header-inner" class="inner">
+    <h1 id="logo-wrap">
+      <a href="https://www.freedgo.com" id="logo">Freedgo Desgin</a>
+    </h1>
+    <nav id="main-nav">
+      <a href="/public/site/" class="main-nav-link">Site</a><a href="/public/manual/" class="main-nav-link">Manual</a><a href="/public/drawcase/" class="main-nav-link">Draw Case</a><a href="/public/mind/" class="main-nav-link">mind mapping</a>
+      <a href="https://github.com/csy2013/freedgo" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
+      <div id="search-input-wrap">
+        <div id="search-input-icon">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="search" id="search-input" placeholder="Search...">
+      </div>
+    </nav>
+    <div id="lang-select-wrap">
+      <label id="lang-select-label"><i class="fa fa-globe"></i><span>English</span></label>
+      <select id="lang-select" data-canonical="manual/link_draw.html">
+        
+          <option value="en" selected>English</option>
+        
+          <option value="zh-cn">简体中文</option>
+        
+      </select>
+    </div>
+    <a id="mobile-nav-toggle">
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+    </a>
+  </div>
+</header>
+
+    <div id="content-wrap">
+  <div id="content" class="wrapper">
+    <div id="content-inner">
+      <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+          <div class="article">
+            <div class="inner">
+              <header class="article-header">
+                <h1 class="article-title" itemprop="name">Connectors, waypoints and changing shapes</h1>
+                <a href="https://github.com/csy2013/site/edit/master/source/manual/link_draw.md" class="article-edit-link" title="Improve"><i class="fa fa-pencil"></i></a>
+              </header>
+              <div class="article-content" itemprop="articleBody">
+                <h2 id="changing-shapes" class="article-heading"><a href="#changing-shapes" class="headerlink" title="changing shapes"></a>changing shapes<a class="article-anchor" href="#changing-shapes" aria-hidden="true"></a></h2><h3 id="Rotating-shape" class="article-heading"><a href="#Rotating-shape" class="headerlink" title="Rotating shape"></a>Rotating shape<a class="article-anchor" href="#Rotating-shape" aria-hidden="true"></a></h3><p>When creating a new shape, it always starts in a direction relative to the page. For example, when creating a cylinder, it always appears like this:</p>
+<p><img src="/public/themes/freedgo/link_draw.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes">   </p>
+<p>It is possible to rotate any shape, and there are several ways to do this. In order to use any of them, we must first click on the shape to highlight it.</p>
+<p><img src="/public/themes/freedgo/link_draw1.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes">   </p>
+<p>Notice the curved arrow above the shape.<br>Clicking the arrow once rotates the object 90 degrees clockwise. Therefore, in order to rotate the cylinder 270 degrees so that the top points to the left, we only need to click the arrow three times.</p>
+<p><img src="/public/themes/freedgo/link_draw3.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>We are not limited to multiples of 90 degrees.<br>By clicking and holding down the mouse, then rotating the cursor left or right, we can rotate the shape counterclockwise or clockwise, respectively. Next we see a cylinder rotating 120 degrees counterclockwise.</p>
+<p> <img src="/public/themes/freedgo/link_draw4.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<h3 id="Change-Size" class="article-heading"><a href="#Change-Size" class="headerlink" title="Change Size"></a>Change Size<a class="article-anchor" href="#Change-Size" aria-hidden="true"></a></h3><p>When creating a new shape, it always starts to display at the same size. For example, ellipses are always created like this:</p>
+<p><img src="/public/themes/freedgo/link_draw5.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>You can adjust the size of any shape. There are several ways to do this.<br>In order to use any of them, we must first click on the shape to highlight it.<br>Notice the blue dots around the highlighted frame. We can resize the shape by clicking and dragging one of the points.<br>Sometimes we want to keep the aspect ratio of the shape (i.e. keep the same aspect ratio).<br>To do this, click and drag one of the corners.</p>
+<p> <img src="/public/themes/freedgo/link_draw6.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>Above we have enlarged the shape; It is the same as the original shape, but enlarged.<br>On the contrary, we can only change the height or width. We do this by dragging a point on a horizontal line (height adjustment) or a vertical line (width adjustment).</p>
+<p> <img src="/public/themes/freedgo/link_draw7.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>Above we only adjusted the height of the ellipse. Now the ellipse looks more like a circle.</p>
+<h3 id="Use-connector" class="article-heading"><a href="#Use-connector" class="headerlink" title="Use connector"></a>Use connector<a class="article-anchor" href="#Use-connector" aria-hidden="true"></a></h3><p>In fact, there are two ways to connect connectors to shapes.<br> Let’s look at them now. We can create <code>anchor connection</code> or <code>floating connection</code>.  Anchor connector  Suppose we want to connect two rectangles.</p>
+<p><img src="/public/themes/freedgo/link_draw8.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>Connect two shapes by finding a connection point on the first shape, and then click and drag until a connection point is found on the second shape.</p>
+<p> <img src="/public/themes/freedgo/link_draw9.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>Release the connection here.<br> We have now created an anchor connection point.<br> This means that as the shape moves, the connector will always be connected to the same connection point.<br> In our example, both ends of the connector are anchored.</p>
+<p><img src="/public/themes/freedgo/link_draw10.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>One of the best ways to show how this works is to rotate one of the shapes several times.</p>
+<p><img src="/public/themes/freedgo/link_draw11.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>You can see that the connector follows the connection point. If we rotate the first shape, we will see the same thing.</p>
+<h3 id="Floating-connector" class="article-heading"><a href="#Floating-connector" class="headerlink" title="Floating connector"></a>Floating connector<a class="article-anchor" href="#Floating-connector" aria-hidden="true"></a></h3><p>Let’s look at another way to connect the two rectangles.</p>
+<p> <img src="/public/themes/freedgo/link_draw12.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>We will find a connection point on the first shape and click and drag as before. But this time, we will drag the connector to the center of the second shape so that the whole shape is outlined with a solid blue line.<br>Release the connection here. We have now created a floating connection point. This means that as the shape moves, the connector adjusts the connection point of its connection. Please note that it looks the same as the anchor connection point.</p>
+<p> <img src="/public/themes/freedgo/link_draw13.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>However, if we rotate the second shape, we will see a difference.</p>
+<p> <img src="/public/themes/freedgo/link_draw14.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>There are many ways to establish a connection between two points. In this section, we have been studying how to create connections to existing shapes. There are also some ways to create a new shape and create a connection to it.<br>One is to use an arrow symbol to the right of the highlighted shape.<br>Another method is to create a new connection with the copy on connection option enabled so that the new connector terminates in a copy of the original shape.</p>
+<h3 id="Anchor" class="article-heading"><a href="#Anchor" class="headerlink" title="Anchor"></a>Anchor<a class="article-anchor" href="#Anchor" aria-hidden="true"></a></h3><p>It is possible to arrange connections in different ways. This is usually useful in more complex charts where connecting lines between different shapes may need to avoid any intermediate shapes. In addition, the orthogonal connector we are currently using may not be the most suitable choice. We have seen some layouts/arrangements using curved connectors in the insertion function.<br>You can merge various types of connector shapes by using waypoints.<br> Let’s start with a simple diagram: two rectangles connected by a connector. The starting point of the connector is fixed on the first rectangle. The end of the connector has a floating connection to the second rectangle. Let’s click on the connector to highlight it.</p>
+<p> <img src="/public/themes/freedgo/link_draw15.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>You can see a blue dot in the middle of the connector. This is a waypoint. We can use it to change the path of the connector. Click and drag the blue dot up.</p>
+<p> <img src="/public/themes/freedgo/link_draw16.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>We have changed the path of the connector. Please note that both ends of the connector are anchored and the other floating as we expect. When we create a new part of the connector, more waypoints will appear to allow us to further manipulate the path.<br>Let’s select a new waypoint, the waypoint above the first rectangle, and drag it slightly to the right.</p>
+<p><img src="/public/themes/freedgo/link_draw17.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>Now let’s go to the toolbar and select the path point drop-down menu. There are different types of connectors. We are currently using orthogonal connectors, which can bend, but only at right angles.</p>
+<p>  <img src="/public/themes/freedgo/link_draw18.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>Click the first menu option <code>straight line</code> (represented by a straight line connector) to make the connector straight.<br>We have returned the connector to its original path.<br>But now, even if the connector is highlighted, there is no central waypoint. Straight connectors cannot deviate from straight lines, so no connectors are required.<br>If we move the second rectangle by dragging it, the connector will move with it-but it cannot deviate from the straight line.<br>You may not have seen this before.<br>As you expected, the floating connection to the second rectangle has moved, but it is no longer connected to any connection point on the second rectangle. Compare this with the default orthogonal connector, which moves only north, east, south or west, so even floating connections point to connection points at the edges of the rectangle.</p>
+<p><img src="/public/themes/freedgo/link_draw19.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>Now the connector is curved and new path points appear, allowing us to customize the path. We can click and drag a waypoint, just as we did in the orthogonal example.</p>
+<p> <img src="/public/themes/freedgo/link_draw20.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"><br>  <img src="/public/themes/freedgo/link_draw21.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"><br>We have a new connector path and we have added new path points.  Finally, several options in the right-click menu may be useful. After selecting the connector, adjust the drawing.</p>
+<p> <img src="/public/themes/freedgo/link_draw22.png" alt="Online Diagram Drawing" title="Connectors, waypoints and changing shapes"> </p>
+<p>There are several waypoint-related options to choose from. Click Clear waypoints, which will delete the waypoints we added manually. Path changes associated with these waypoints are also deleted. In fact, we have already returned to before we changed the road.<br>We can also remove additional waypoints individually by right-clicking one of the waypoints and selecting Remove waypoint.</p>
+
+              </div>
+              <footer class="article-footer">
+                <time class="article-footer-updated" datetime="2019-08-09T14:35:53.573Z" itemprop="dateModified">Last updated：2019-08-09</time>
+                <a href="rang_draw.html" class="article-footer-prev" title="rang diagram"><i class="fa fa-chevron-left"></i><span>Prev</span></a><a href="export_draw.html" class="article-footer-next" title="export diagram"><span>Next</span><i class="fa fa-chevron-right"></i></a>
+              </footer>
+              
+<section id="comments">
+  <div id="disqus_thread"></div>
+</section>
+<script>
+  var disqus_shortname = 'freedgo-design';
+  var disqus_url = 'https://www.freedgo.com/manual/link_draw.html';
+  var disqus_title = "Connectors, waypoints and changing shapes";
+  var disqus_config = function(){
+    this.language = 'en';
+  };
+  (function(){
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'https://go.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+            </div>
+          </div>
+          <aside id="article-toc" role="navigation">
+            <div id="article-toc-inner">
+              <strong class="sidebar-title">Directory</strong>
+              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#changing-shapes"><span class="toc-text">changing shapes</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Rotating-shape"><span class="toc-text">Rotating shape</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Change-Size"><span class="toc-text">Change Size</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Use-connector"><span class="toc-text">Use connector</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Floating-connector"><span class="toc-text">Floating connector</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Anchor"><span class="toc-text">Anchor</span></a></li></ol></li></ol>
+              <a href="#" id="article-toc-top">Back to top</a>
+            </div>
+          </aside>
+        </div>
+      </article>
+      <aside id="sidebar" role="navigation">
+  <div class="inner">
+    <strong class="sidebar-title">file use</strong><a href="my_file.html" class="sidebar-link">my file</a><a href="open_file.html" class="sidebar-link">open file</a><a href="create_file.html" class="sidebar-link">create file</a><a href="save_file.html" class="sidebar-link">save file</a><a href="print_file.html" class="sidebar-link">print file</a><a href="history_file.html" class="sidebar-link">history file</a><strong class="sidebar-title">online draw</strong><a href="login_draw.html" class="sidebar-link">login for draw</a><a href="draw_info.html" class="sidebar-link">drawing page</a><a href="draw_formate.html" class="sidebar-link">draw format</a><strong class="sidebar-title">custom diagram style</strong><a href="style_option.html" class="sidebar-link">style options</a><a href="text_option.html" class="sidebar-link">text options</a><a href="rang_option.html" class="sidebar-link">rang options</a><strong class="sidebar-title">course</strong><a href="create_draw.html" class="sidebar-link">create diagram</a><a href="rang_draw.html" class="sidebar-link">rang diagram</a><a href="link_draw.html" class="sidebar-link current">Link Line</a><a href="export_draw.html" class="sidebar-link">export diagram</a><strong class="sidebar-title">advance</strong><a href="use_metadata.html" class="sidebar-link">use metadata</a><a href="shape_edit.html" class="sidebar-link">shape edit</a><a href="use_layer.html" class="sidebar-link">use layer</a>
+  </div>
+</aside>
+    </div>
+  </div>
+</div>
+
+    <footer id="footer" class="wrapper">
+  <div class="inner">
+    <div id="footer-copyright">
+      &copy; 2019 <a href="http://www.yuaoq.com" target="_blank">南京裕奥软件科技有限公司</a><br>
+      备案号 <a href="http://www.beian.miit.gov.cn/" target="_blank">苏ICP备14047301号-3 </a>.<br>
+      QQ:&nbsp;&nbsp; 857717515&nbsp;&nbsp;<br>
+      微信:&nbsp;&nbsp;&nbsp;&nbsp; <img width="60px" src="https://www.freedgo.com/assets/images/WechatIMG32.jpeg"/><br>
+      微博: csyer2004@sina.com
+    </div>
+    <div id="footer-links">
+      <a href="https://twitter.com/changsy2017" class="footer-link" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/csy2013/freedgo" class="footer-link" target="_blank"><i class="fa fa-github-alt"></i></a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  <div id="mobile-nav-dimmer"></div>
+  <nav id="mobile-nav">
+  <div id="mobile-nav-inner">
+    <ul id="mobile-nav-list">
+      <a href="/public/site/" class="mobile-nav-link">Site</a><a href="/public/manual/" class="mobile-nav-link">Manual</a><a href="/public/drawcase/" class="mobile-nav-link">Draw Case</a><a href="/public/mind/" class="mobile-nav-link">mind mapping</a>
+      <li class="mobile-nav-item">
+        <a href="https://github.com/csy2013/freedgo" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
+      </li>
+    </ul>
+    
+      <strong class="mobile-nav-title">file use</strong><a href="my_file.html" class="mobile-nav-link">my file</a><a href="open_file.html" class="mobile-nav-link">open file</a><a href="create_file.html" class="mobile-nav-link">create file</a><a href="save_file.html" class="mobile-nav-link">save file</a><a href="print_file.html" class="mobile-nav-link">print file</a><a href="history_file.html" class="mobile-nav-link">history file</a><strong class="mobile-nav-title">online draw</strong><a href="login_draw.html" class="mobile-nav-link">login for draw</a><a href="draw_info.html" class="mobile-nav-link">drawing page</a><a href="draw_formate.html" class="mobile-nav-link">draw format</a><strong class="mobile-nav-title">custom diagram style</strong><a href="style_option.html" class="mobile-nav-link">style options</a><a href="text_option.html" class="mobile-nav-link">text options</a><a href="rang_option.html" class="mobile-nav-link">rang options</a><strong class="mobile-nav-title">course</strong><a href="create_draw.html" class="mobile-nav-link">create diagram</a><a href="rang_draw.html" class="mobile-nav-link">rang diagram</a><a href="link_draw.html" class="mobile-nav-link current">Link Line</a><a href="export_draw.html" class="mobile-nav-link">export diagram</a><strong class="mobile-nav-title">advance</strong><a href="use_metadata.html" class="mobile-nav-link">use metadata</a><a href="shape_edit.html" class="mobile-nav-link">shape edit</a><a href="use_layer.html" class="mobile-nav-link">use layer</a>
+    
+  </div>
+  <div id="mobile-lang-select-wrap">
+    <span id="mobile-lang-select-label"><i class="fa fa-globe"></i><span>English</span></span>
+    <select id="mobile-lang-select" data-canonical="manual/link_draw.html">
+      
+        <option value="en" selected>English</option>
+      
+        <option value="zh-cn">简体中文</option>
+      
+    </select>
+  </div>
+</nav>
+  <!-- Scripts -->
+<!-- Cookie -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+<!-- build:js build/js/main.js -->
+<script src="/public/js/lang_select.js"></script>
+<script src="/public/js/toc.js"></script>
+<script src="/public/js/mobile_nav.js"></script>
+<!-- endbuild -->
+
+<!-- Algolia -->
+
+
+</body>
+</html>

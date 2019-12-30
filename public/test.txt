@@ -1,0 +1,45 @@
+index.md
+uml_class.md
+uml_user_case.md
+uml_activity.md
+uml_component.md
+uml_package.md
+uml_sequence.md
+urml_erd.md
+echo ''>bpmn.md
+echo ''>organization.md
+echo ''>epc.md
+echo ''>generator.md
+echo ''>generic_workflow.md
+echo ''>swimlane_workflow.md
+echo ''>sdl_workflow.md
+echo ''>audit_workflow.md
+echo ''>ux_ios.md
+echo ''>ux_android.md
+echo ''>ux_bootstrap.md
+echo ''>cloud_aliyun.md
+echo ''>cloud_tencent.md
+echo ''>cloud_aws.md
+echo ''>cloud_oracle.md
+echo ''>cloud_ibm.md
+echo ''>cloud_azure.md
+echo ''>cloud_google.md
+echo ''>floorplan.md
+echo ''>homeoffice.md
+echo ''>workoffice.md
+echo ''>livingroom.md
+echo ''>kitchen.md
+echo ''>diningroom.md
+echo ''>bathroom.md
+echo ''>network_deploy.md
+echo ''>network_rack.md
+echo ''>basic_electrical.md
+echo ''>logic_electrical.md
+echo ''>circuit_electrical.md
+echo ''>wiring_electrical.md
+echo ''>process_flow_electrical.md
+echo ''>pid.md
+echo ''>other_generic.md
+echo ''>tqm.md
+echo ''>archimate.md
+echo ''>itil.md
