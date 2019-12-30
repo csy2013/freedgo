@@ -21,8 +21,8 @@ title:  Freedgo工具-思维导图介绍
 
 ### 视频操作流程
 
-<video id="video" controls="" preload="none" poster="/public/themes/freedgo/mind/freedgo_mapping.mp4">
-<source id="mp4" src="/public/themes/freedgo/mind/freedgo_mapping.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" poster="https://www.freedgo.com/public/themes/freedgo/mind/freedgo_mapping.mp4">
+<source id="mp4" src="https://www.freedgo.com/public/themes/freedgo/mind/freedgo_mapping.mp4" type="video/mp4">
 </video> 
 
 <br/>
@@ -34,7 +34,7 @@ title:  Freedgo工具-思维导图介绍
 
 ### 4.1 新建思维导图，填充主题及内容。
 
-![Online Mind Mapping](/public/themes/freedgo/mind/map_use1.png "思维导图-新建")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map_use1.png "思维导图-新建")
 
 
 ### 4.2 调整格式
@@ -45,38 +45,38 @@ title:  Freedgo工具-思维导图介绍
 
 #### 4.3 整体格式调整
 在鼠标不选择如何导图节点的时候，鼠标右键->`格式...`, 或者点击`菜单栏`->`格式`按钮，会出现整体格式设置对话框
-![Online Mind Mapping](/public/themes/freedgo/mind/map-format.png "思维导图-整体格式")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map-format.png "思维导图-整体格式")
 
 #### 4.4 节点格式调整
-![Online Mind Mapping](/public/themes/freedgo/mind/map-format1.png "思维导图-节点样式")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map-format1.png "思维导图-节点样式")
 选中想要修改的节点文字，鼠标右键->`格式...`, 或者点击`菜单栏`->`格式`按钮： 
 包括四个部分：包括`主题`，`分支`，`文本`,`图库`
 - 主题：可以设置主题的非富颜色模板,当然也可以通过填充和渐变来自定义自己的风格、同时提供节点的样式如长方形、圆形、椭圆、六角、八角等等
 - 分支：定义该主题下级分支的样式,如分支样式选择，分支绘制的粗细，分支颜色等等，如果是自由主题提供自由主题的分支的设置
 - 文本：是字体、字号、颜色、加粗等，类似Word文档的基本功能,当双击文本的时候可以对文本进行编辑，包括插入链接、图片和表格
-![Online Mind Mapping](/public/themes/freedgo/mind/map-format1.png "思维导图-文本修改")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map-format1.png "思维导图-文本修改")
 - 图库：提供节点添加图片的功能，另外提供了图片搜索、和图片便签本的功能，便签本可以通过编辑加入自己电脑中的图片
 
 ### 5、风格及效果
 #### 5.1 风格
-![Online Mind Mapping](/public/themes/freedgo/mind/map-feng.png "思维导图-风格选择")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map-feng.png "思维导图-风格选择")
 freedgo 思维导图提供多种风格可供用户选择，对于注册版用户可以选择四种，会员版则不做限制。
 选择`菜单栏`->`风格选择`，调整风格
 #### 5.2 结构 
-![Online Mind Mapping](/public/themes/freedgo/mind/map-jieg.png "思维导图-结构")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map-jieg.png "思维导图-结构")
 freedgo 思维导图提供多种结构可供用户选择，如左侧显示、左右、右侧结构、组织机构、树状等等
 选择`菜单栏`->`结构`，调整风格
 #### 5.3 文字大纲
 通过文字大纲可以修改主题的内容
-![Online Mind Mapping](/public/themes/freedgo/mind/map-dag.png "思维导图-大纲")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map-dag.png "思维导图-大纲")
 ### 5.4 菜单功能
-![Online Mind Mapping](/public/themes/freedgo/mind/map-downmenu.png "思维导图-菜单")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map-downmenu.png "思维导图-菜单")
 - 提供回到`首页`
 - 从freedgo打开之前创建的思维导图
 - 手工保存思维导图
 - 导出思维导图的图片
 - 发布：可以让自己创建的思维导图发布的导图社区设置价格来获取收益
-![Online Mind Mapping](/public/themes/freedgo/mind/map-publish.png "思维导图-发布")
+![Online Mind Mapping](https://www.freedgo.com/public/themes/freedgo/mind/map-publish.png "思维导图-发布")
 - 缩微图： 显示缩微图，鼠标拖动可以显示思维导图的局部
 - 历史版本：注册版用户只保存当前思维导图，会员保存每次操作的历史记录
 
