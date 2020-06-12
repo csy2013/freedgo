@@ -110,7 +110,7 @@ sidebar:
     kitchen: kitchen
     diningroom: diningroom
     bathroom: bathroom
-    floordetail: floordetail
+    floorupgrade: floorupgrade
     network: network
     network_deploy: network deploy
     network_rack: network rack
