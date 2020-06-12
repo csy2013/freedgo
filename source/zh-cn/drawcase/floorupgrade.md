@@ -2,7 +2,7 @@
 title: 一个具有多个组件的在线平面图设计 平面图 在线制图
 ---
 
-小编就为大家介绍一款在线平面图绘制工具： Freedgo Design ，它集成了多种类型的图标包括各类家具、厨房，卫生间，五金配件，灯具等等。 访问网址为: https://www.freedgo.com/draw-index.html?dev=1&libs=floorplan
+小编就为大家介绍一款在线平面图绘制工具： Freedgo Design ，它集成了多种类型的图标包括各类家具、厨房，卫生间，五金配件，灯具等等。 访问网址为: https://www.freedgo.com/draw-index.html?libs=floorplan
 # 丰富的组件
 包括：
 1平面图,2办公家具,3门厅家具,4客厅家具,5餐厅家具,6学习家具,7卧室家具,8儿童家具,
