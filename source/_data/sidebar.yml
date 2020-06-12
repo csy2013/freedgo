@@ -84,6 +84,7 @@ drawcase:
     kitchen: kitchen.html
     diningroom: diningroom.html
     bathroom: bathroom.html
+    floorupgrade: floorupgrade.html
   network:
     network_deploy: network_deploy.html
     network_rack: network_rack.html
