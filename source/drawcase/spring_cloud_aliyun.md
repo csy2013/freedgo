@@ -68,7 +68,7 @@ Spring Cloud版本采用Greenwich.M1。
 
 ## 使用
 
-阿里云的spring cloud 架构图在线设计地址： https://www.freedgo.com 即可使用Freedgo Desing 进行图形设计. 
+阿里云的spring cloud 架构图在线设计地址： https://www.freedgo.com 即可使用Freedgo Design 进行图形设计. 
 
 架构预览地址： 
 
