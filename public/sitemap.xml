@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/floorupgrade.html</loc>
+    <loc>https://www.freedgo.com/index.html</loc>
     
-    <lastmod>2020-06-12T04:35:26.337Z</lastmod>
+    <lastmod>2020-07-18T07:09:58.007Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/spring_cloud_aliyun.html</loc>
+    
+    <lastmod>2020-07-18T07:09:58.001Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/index.html</loc>
+    
+    <lastmod>2020-07-18T07:09:57.988Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/spring_cloud_aliyun.html</loc>
+    
+    <lastmod>2020-07-18T07:09:57.965Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.freedgo.com/zh-cn/drawcase/floorupgrade.html</loc>
     
-    <lastmod>2020-06-12T04:35:26.335Z</lastmod>
+    <lastmod>2020-06-12T04:59:36.103Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/floorupgrade.html</loc>
+    
+    <lastmod>2020-06-12T04:35:26.337Z</lastmod>
     
   </url>
   
@@ -100,13 +128,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/spring_cloud_aliyun.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.089Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_oracle.html</loc>
     
     <lastmod>2019-08-13T01:37:16.081Z</lastmod>
@@ -124,13 +145,6 @@
     <loc>https://www.freedgo.com/site/index.html</loc>
     
     <lastmod>2019-08-13T01:37:16.077Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/spring_cloud_aliyun.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.073Z</lastmod>
     
   </url>
   
@@ -1258,20 +1272,6 @@
     <loc>https://www.freedgo.com/manual/deployer.html</loc>
     
     <lastmod>2019-08-09T14:35:50.160Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/index.html</loc>
-    
-    <lastmod>2019-08-09T14:35:10.129Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/index.html</loc>
-    
-    <lastmod>2019-08-09T14:35:09.715Z</lastmod>
     
   </url>
   
