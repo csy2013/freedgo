@@ -13,7 +13,6 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "hexo": "github:hexojs/hexo",
-    "hexo-baidu-url-submit": "0.0.6",
     "hexo-deployer-git": "^1.0.0",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-feed": "^1.1.0",
@@ -22,6 +21,7 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.3.3",
+    "hexo-submit-urls-to-search-engine": "^2.0.0",
     "lodash": "^4.17.11",
     "lunr": "2.3.6"
   },
