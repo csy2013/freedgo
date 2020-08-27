@@ -1,8 +1,8 @@
 <header id="header" class="wrapper">
   <div id="header-inner" class="inner">
-    <h1 id="logo-wrap">
+    <h2 id="logo-wrap">
       <a href="https://www.freedgo.com" id="logo">Freedgo Desgin</a>
-    </h1>
+    </h2>
     <nav id="main-nav">
       {{ header_menu('main-nav') }}
       <a href="https://github.com/{{ config.github }}" class="main-nav-link"><i class="fa fa-github-alt"></i></a>

@@ -222,7 +222,7 @@ body {
   text-indent: 101%;
   white-space: nowrap;
   overflow: hidden;
-  background: url("/public/logo.svg");
+  background: url("/public/logo.png");
   width: 40px;
   height: 40px;
   -webkit-background-size: 40px 40px;
