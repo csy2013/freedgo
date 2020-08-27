@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "freedgo-design",
+  "private_key_id": "a47b18f15fd039bfb53e536e056ada2aca612b4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDY8GMtwKiAbWcu\nVKkzabij0RlyP5YeVuUuHPtSe8DggHvxiyDw7Ehiw1r8G/tN4InN+7GY/exmLU2s\nKu5bXpzEcy/TotM0ZTK1de7AeG3q69LtFGPJ5eOOaIsMZUH7MgVRDCwIrwHLM3qt\n03DVQ8hkcqxwhDvRIUMjtguPzrPcS891Mc3N+CtiYkwQQCieq/hseSXBebtpZbrk\nLDnhR6W2YD+dptitH43YAgyq9twsY9mcnHOsBYTHkHSsoXGId7SgF2pyKxIQoTZd\n0tnduKcry2DG7PwtrGA+SgBelKxemSpppLarj5AbHC2hV61RdhAx4DCAqjjV8/wg\nrEWlcWDJAgMBAAECgf92NofU5qbrVLJlDL0mxvVWTxsOppem8LLx7dkFmWoA7AKe\nHLJWlmrbZpityJGoXjK5i+268KNhCk7JApvgLi4+3oWxTYjJhFudhiYTu4wp91d4\n2SOHYT4e29jpaEQMHbXH9FoKYVMY53RyREW38LfCBLrylRwDWZy8WPbz5i8cWzG6\nTPSPBWqctpkQUDetp0fKpbX3EL0p5UIdQJtuT0tRFKGIoRkI19NZiw6KkZWM8KqG\n/Ays6vGu7NL6DNJxabigHZY6233Obtbl5z4E4ZwsKTJvRiNZb//hNGA7wXf51zUl\nRn6+QnY2nlSbQOICCtI39zf3b3MZriBhkYEwg+cCgYEA/MGQEP8m5NIKlFa1xuAy\nDk2kRhqemQWWODof8RJAhtsNEeBH+f9j49ZvG1FYs6KwZ6ahVrp1NrtYQHt+esD1\ng9Wh/q7oAA9RGV2CkHDR0YCPu46iJ7eOkR5HSuuQfbu1i6jx7exOpMYm06nxik0k\n78y4btDy4kYbeNOyv/Akxe8CgYEA27klh9j0MEw0dvyvfF5edpvArtCOmiuXrrBz\nkArSaAeZAmePQmRvw1gQ0f93Y/XtxYTYGtCXbQ82WujhRMjpkuZI/QVtyiJ744E+\nmHpwO2tshAMgfRELvDER1phlEq8q2mtlc2Ex3LNR8d54gfaw3doTr3WgjYza2XBm\n7ACAvMcCgYA9tAc2jwNwsvIQOobP0SWHJl8nGhKDqsB8Y3wuvtTv1wP+zDDmD/nT\nwiKHmbk8yUelViFm6cf5n4yw2TUMRJTrJTkR0qMieJrExXY9Sr1+FpOAJxbg+Ued\nl7WxzYYNm8h7GrhM6/Za9WC/JWqo56JPxDt2Gh5hLNpCCfRGNRrVEwKBgQC+x5vW\nwIIGDaTgS7bzfdz3j3VWVK/9HSyu+Xbd8weOXEp21ASH2T1Rl/3C2NaJbNfvUNFz\nNvrELxk7BknSt8BXVKy7RSN3B0oa1/XJ30Xj0fp/BVgIP+y4ksKyWdAo0P+cdvO3\nowTwZKMaJ9jqv5ACkX/WMYQeY9cCRZ6X/DfLsQKBgQDG4SAl6JTgIhdjiHiChXAN\nXTl68rcvq66FPym5Tj3js9Q1ZEztFSDPW700oTMYQGRuKhfZBsBpQkIQLYW5QyLf\nylrpKbHCafnV8GsxyIO+9DuL12fPbChNUJHSnOMH2cAAeaTcaoSjy0pgjRkZM5Wh\n3T7NetTp7079GBCOjlchYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "csy-682@freedgo-design.iam.gserviceaccount.com",
+  "client_id": "104062092661257193876",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/csy-682%40freedgo-design.iam.gserviceaccount.com"
+}

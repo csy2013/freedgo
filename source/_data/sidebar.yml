@@ -76,6 +76,7 @@ drawcase:
     cloud_ibm: cloud_ibm.html
     cloud_azure: cloud_azure.html
     cloud_google: cloud_google.html
+    cloud_huawei: cloud_huawei.html
   plane:
     floorplan: floorplan.html
     homeoffice: homeoffice.html

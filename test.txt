@@ -1,45 +1,20 @@
-index.md
-uml_class.md
-uml_user_case.md
-uml_activity.md
-uml_component.md
-uml_package.md
-uml_sequence.md
-urml_erd.md
-echo ''>bpmn.md
-echo ''>organization.md
-echo ''>epc.md
-echo ''>generator.md
-echo ''>generic_workflow.md
-echo ''>swimlane_workflow.md
-echo ''>sdl_workflow.md
-echo ''>audit_workflow.md
-echo ''>ux_ios.md
-echo ''>ux_android.md
-echo ''>ux_bootstrap.md
-echo ''>cloud_aliyun.md
-echo ''>cloud_tencent.md
-echo ''>cloud_aws.md
-echo ''>cloud_oracle.md
-echo ''>cloud_ibm.md
-echo ''>cloud_azure.md
-echo ''>cloud_google.md
-echo ''>floorplan.md
-echo ''>homeoffice.md
-echo ''>workoffice.md
-echo ''>livingroom.md
-echo ''>kitchen.md
-echo ''>diningroom.md
-echo ''>bathroom.md
-echo ''>network_deploy.md
-echo ''>network_rack.md
-echo ''>basic_electrical.md
-echo ''>logic_electrical.md
-echo ''>circuit_electrical.md
-echo ''>wiring_electrical.md
-echo ''>process_flow_electrical.md
-echo ''>pid.md
-echo ''>other_generic.md
-echo ''>tqm.md
-echo ''>archimate.md
-echo ''>itil.md
+#### Exchange邮箱初级版
+![华为云架构图](/public/themes/freedgo/huawei/Exchange邮箱初级版.png "Exchange邮箱初级版")
+#### IoT解决方案
+![华为云架构图](/public/themes/freedgo/huawei/IoT解决方案.png "IoT解决方案")
+#### SAP通用架构
+![华为云架构图](/public/themes/freedgo/huawei/SAP通用架构.png "SAP通用架构")
+#### 云上办公解决方案
+![华为云架构图](/public/themes/freedgo/huawei/云上办公解决方案.png "云上办公解决方案")
+#### 企业云盘解决方案
+![华为云架构图](/public/themes/freedgo/huawei/企业云盘解决方案.png "企业云盘解决方案")
+#### 企业级容灾能力服务化
+![华为云架构图](/public/themes/freedgo/huawei/企业级容灾能力服务化.png "企业级容灾能力服务化")
+#### 小型通用网站
+![华为云架构图](/public/themes/freedgo/huawei/小型通用网站.png "小型通用网站")
+#### 渲染解决方案架构
+![华为云架构图](/public/themes/freedgo/huawei/渲染解决方案架构.png "渲染解决方案架构")
+#### 视频点播基础设施解决方案
+![华为云架构图](/public/themes/freedgo/huawei/视频点播基础设施解决方案.png "视频点播基础设施解决方案")
+#### 金融安全解决方案DDoSCC
+![华为云架构图](/public/themes/freedgo/huawei/金融安全解决方案DDoSCC.png "金融安全解决方案DDoSCC")
