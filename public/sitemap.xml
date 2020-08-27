@@ -345,14 +345,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/site/vip_user.html</loc>
+    <loc>https://www.freedgo.com/site/user.html</loc>
     
     <lastmod>2019-08-09T14:35:54.091Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/site/user.html</loc>
+    <loc>https://www.freedgo.com/site/vip_user.html</loc>
     
     <lastmod>2019-08-09T14:35:54.091Z</lastmod>
     
@@ -373,13 +373,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/ux_android.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.089Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/drawcase/ux_bootstrap.html</loc>
     
     <lastmod>2019-08-09T14:35:54.089Z</lastmod>
@@ -387,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/wiring_electrical.html</loc>
+    <loc>https://www.freedgo.com/drawcase/ux_android.html</loc>
     
     <lastmod>2019-08-09T14:35:54.089Z</lastmod>
     
@@ -395,6 +388,13 @@
   
   <url>
     <loc>https://www.freedgo.com/drawcase/ux_ios.html</loc>
+    
+    <lastmod>2019-08-09T14:35:54.089Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/wiring_electrical.html</loc>
     
     <lastmod>2019-08-09T14:35:54.089Z</lastmod>
     
@@ -436,13 +436,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/process_flow_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.085Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/drawcase/sdl_workflow.html</loc>
     
     <lastmod>2019-08-09T14:35:54.085Z</lastmod>
@@ -450,9 +443,9 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/other_generic.html</loc>
+    <loc>https://www.freedgo.com/drawcase/process_flow_electrical.html</loc>
     
-    <lastmod>2019-08-09T14:35:54.084Z</lastmod>
+    <lastmod>2019-08-09T14:35:54.085Z</lastmod>
     
   </url>
   
@@ -464,14 +457,21 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/network_rack.html</loc>
+    <loc>https://www.freedgo.com/drawcase/other_generic.html</loc>
+    
+    <lastmod>2019-08-09T14:35:54.084Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/organization.html</loc>
     
     <lastmod>2019-08-09T14:35:54.083Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/organization.html</loc>
+    <loc>https://www.freedgo.com/drawcase/network_rack.html</loc>
     
     <lastmod>2019-08-09T14:35:54.083Z</lastmod>
     
@@ -499,14 +499,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/homeoffice.html</loc>
+    <loc>https://www.freedgo.com/drawcase/index.html</loc>
     
     <lastmod>2019-08-09T14:35:54.081Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/index.html</loc>
+    <loc>https://www.freedgo.com/drawcase/homeoffice.html</loc>
     
     <lastmod>2019-08-09T14:35:54.081Z</lastmod>
     
@@ -618,13 +618,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/site/email_update.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.577Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/manual/use_metadata.html</loc>
     
     <lastmod>2019-08-09T14:35:53.577Z</lastmod>
@@ -639,14 +632,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/text_option.html</loc>
+    <loc>https://www.freedgo.com/site/email_update.html</loc>
     
-    <lastmod>2019-08-09T14:35:53.576Z</lastmod>
+    <lastmod>2019-08-09T14:35:53.577Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/style_option.html</loc>
+    <loc>https://www.freedgo.com/manual/text_option.html</loc>
     
     <lastmod>2019-08-09T14:35:53.576Z</lastmod>
     
@@ -660,9 +653,9 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/rang_draw.html</loc>
+    <loc>https://www.freedgo.com/manual/style_option.html</loc>
     
-    <lastmod>2019-08-09T14:35:53.575Z</lastmod>
+    <lastmod>2019-08-09T14:35:53.576Z</lastmod>
     
   </url>
   
@@ -674,7 +667,7 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/shape_edit.html</loc>
+    <loc>https://www.freedgo.com/manual/rang_draw.html</loc>
     
     <lastmod>2019-08-09T14:35:53.575Z</lastmod>
     
@@ -688,14 +681,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/my_file.html</loc>
+    <loc>https://www.freedgo.com/manual/shape_edit.html</loc>
     
-    <lastmod>2019-08-09T14:35:53.574Z</lastmod>
+    <lastmod>2019-08-09T14:35:53.575Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/print_file.html</loc>
+    <loc>https://www.freedgo.com/manual/my_file.html</loc>
     
     <lastmod>2019-08-09T14:35:53.574Z</lastmod>
     
@@ -709,14 +702,21 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/index.html</loc>
+    <loc>https://www.freedgo.com/manual/print_file.html</loc>
+    
+    <lastmod>2019-08-09T14:35:53.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/history_file.html</loc>
     
     <lastmod>2019-08-09T14:35:53.573Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/history_file.html</loc>
+    <loc>https://www.freedgo.com/manual/index.html</loc>
     
     <lastmod>2019-08-09T14:35:53.573Z</lastmod>
     
@@ -730,14 +730,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/events.html</loc>
+    <loc>https://www.freedgo.com/manual/draw_info.html</loc>
     
     <lastmod>2019-08-09T14:35:53.572Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/draw_info.html</loc>
+    <loc>https://www.freedgo.com/manual/events.html</loc>
     
     <lastmod>2019-08-09T14:35:53.572Z</lastmod>
     
@@ -842,14 +842,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/site/register_user.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/site/qq_register.html</loc>
     
     <lastmod>2019-08-09T14:35:50.189Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/site/qq_register.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/site/register_user.html</loc>
     
     <lastmod>2019-08-09T14:35:50.189Z</lastmod>
     
@@ -891,14 +891,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/rang_draw.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/manual/rang_option.html</loc>
     
     <lastmod>2019-08-09T14:35:50.187Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/rang_option.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/manual/rang_draw.html</loc>
     
     <lastmod>2019-08-09T14:35:50.187Z</lastmod>
     
@@ -926,6 +926,13 @@
   </url>
   
   <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/link_draw.html</loc>
+    
+    <lastmod>2019-08-09T14:35:50.186Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedgo.com/zh-cn/manual/index.html</loc>
     
     <lastmod>2019-08-09T14:35:50.186Z</lastmod>
@@ -947,13 +954,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/link_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.186Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/zh-cn/manual/open_file.html</loc>
     
     <lastmod>2019-08-09T14:35:50.186Z</lastmod>
@@ -961,14 +961,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/create_file.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/manual/create_draw.html</loc>
     
     <lastmod>2019-08-09T14:35:50.185Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/create_draw.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/manual/create_file.html</loc>
     
     <lastmod>2019-08-09T14:35:50.185Z</lastmod>
     
@@ -982,14 +982,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/export_draw.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/manual/draw_info.html</loc>
     
     <lastmod>2019-08-09T14:35:50.185Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/draw_info.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/manual/export_draw.html</loc>
     
     <lastmod>2019-08-09T14:35:50.185Z</lastmod>
     
@@ -1003,14 +1003,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_ios.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_bootstrap.html</loc>
     
     <lastmod>2019-08-09T14:35:50.184Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_bootstrap.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_ios.html</loc>
     
     <lastmod>2019-08-09T14:35:50.184Z</lastmod>
     
@@ -1136,14 +1136,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/kitchen.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/itil.html</loc>
     
     <lastmod>2019-08-09T14:35:50.179Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/itil.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/kitchen.html</loc>
     
     <lastmod>2019-08-09T14:35:50.179Z</lastmod>
     
@@ -1248,14 +1248,14 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/site/permalinks.html</loc>
+    <loc>https://www.freedgo.com/site/qq_register.html</loc>
     
     <lastmod>2019-08-09T14:35:50.171Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/site/qq_register.html</loc>
+    <loc>https://www.freedgo.com/site/permalinks.html</loc>
     
     <lastmod>2019-08-09T14:35:50.171Z</lastmod>
     
@@ -1325,13 +1325,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/news/2018/10/19/hexo-3-8-released/</loc>
-    
-    <lastmod>2019-08-09T14:35:08.463Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/news/2016/02/28/hexo-3-2-released/</loc>
     
     <lastmod>2019-08-09T14:35:08.463Z</lastmod>
@@ -1339,7 +1332,7 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/news/2018/12/01/2018-12-01-hexofs-1-0-1-and-hexo-renderer-less-1-0-0-released-md/</loc>
+    <loc>https://www.freedgo.com/news/2018/10/19/hexo-3-8-released/</loc>
     
     <lastmod>2019-08-09T14:35:08.463Z</lastmod>
     
@@ -1354,6 +1347,13 @@
   
   <url>
     <loc>https://www.freedgo.com/news/2018/12/26/hexo-autoprefixer-2-0-0_released/</loc>
+    
+    <lastmod>2019-08-09T14:35:08.463Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/news/2018/12/01/2018-12-01-hexofs-1-0-1-and-hexo-renderer-less-1-0-0-released-md/</loc>
     
     <lastmod>2019-08-09T14:35:08.463Z</lastmod>
     

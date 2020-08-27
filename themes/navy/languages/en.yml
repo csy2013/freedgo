@@ -102,6 +102,7 @@ sidebar:
     cloud_ibm: IBM
     cloud_azure: Azure
     cloud_google: Google cloud
+    cloud_huawei: Hua Wei
     plane: Floor Plan
     floorplan: Generic
     homeoffice: Home Office

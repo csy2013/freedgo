@@ -98,6 +98,7 @@ sidebar:
     cloud_ibm: IBM
     cloud_azure: Azure
     cloud_google: Google云
+    cloud_huawei: 华为云
     plane: 平面图
     floorplan: 一般平面图
     homeoffice: 家庭办公室
