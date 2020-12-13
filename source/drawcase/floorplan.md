@@ -10,7 +10,7 @@ The plan, also known as the plan, is an integral part of the building engineerin
 
 The floor plan facilitates communication among draftsmen, architects, real estate developers, interior designers, site workers, decoration and owners, security guards, fire fighters, visitors, etc.  
 Introduce the plan effect as follows:
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 # Plan design tool
 
 Graphic design software includes Photoshop, CorelDRAW, IIIustator, Freehand, PageMaker, etc. 

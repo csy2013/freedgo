@@ -2,30 +2,1199 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.freedgo.com/zh-cn/site/index.html</loc>
+    <loc>https://www.freedgo.com/drawcase/ux_bootstrap.html</loc>
     
-    <lastmod>2020-12-13T09:44:06.572Z</lastmod>
+    <lastmod>2020-12-13T10:01:48.926Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/export_draw.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.925Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/email_update.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.924Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/text_option.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.923Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/print_file.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.922Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/create_file.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.921Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/process_flow_electrical.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/uml_package.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.918Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/uml_activity.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.917Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/shape_edit.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.916Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/pid.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.915Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/link_draw.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.914Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/homeoffice.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.912Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/logic_electrical.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.911Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/uml_class.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.910Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/network_rack.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.909Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/visitor.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.908Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/index.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.907Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/itil.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.905Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/internationalization.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.902Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/erd_postgresql.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.900Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/erd_sqlserver.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.897Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/floorupgrade.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.893Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/organization.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.886Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/workoffice.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.885Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/swimlane_workflow.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.883Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/sdl_workflow.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.882Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/create_draw.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.879Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/ux_ios.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.878Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/kitchen.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.877Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/uml_class_1.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.876Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/index.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.875Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/password_update.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.874Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/wiring_electrical.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.873Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/other_generic.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.872Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/history_file.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.871Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/vip_user.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.870Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/ux_android.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.869Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/draw_formate.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.868Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/generator.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.866Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/urml_erd.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.865Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/rang_draw.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.864Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/index.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/style_option.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.861Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/rang_option.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.860Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/use_layer.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.859Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/weixin_register.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.858Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/save_file.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.856Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/tqm.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.855Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/deployer.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.850Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/qq_register.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.848Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/draw_info.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.846Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/email_register.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.845Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/login_draw.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.844Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/floorplan.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.843Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/user.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.841Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/network_deploy.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.838Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/livingroom.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/spring_cloud_aliyun.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.835Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/generic_workflow.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.831Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/open_file.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.828Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/weibo_register.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.827Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/site/register_user.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.826Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/use_metadata.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.825Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/events.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.823Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/my_file.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.822Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/uml_component.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.820Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/uml_sequence.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/uml_user_case.html</loc>
+    
+    <lastmod>2020-12-13T10:01:48.814Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_class.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.970Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/cloud_google.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.968Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/draw_formate.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.967Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/bathroom.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.966Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/audit_workflow.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.965Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/bpmn.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.964Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/basic_electrical.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.963Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/save_file.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.962Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/epc.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.961Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/create_file.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.959Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/pid.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/index.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/other_generic.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_google.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/shape_edit.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.953Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/cloud_aws.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.952Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/kitchen.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/use_metadata.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/vip_user.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/mind/index.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.947Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/bpmn.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.944Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/cloud_ibm.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.942Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/weibo_register.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.941Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/swimlane_workflow.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_android.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.939Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/workoffice.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.938Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/user.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/tqm.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.936Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/organization.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.934Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/basic_electrical.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.933Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_aliyun.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.932Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/history_file.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.931Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/cloud_tencent.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.929Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_package.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.928Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/my_file.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.927Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/itil.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.926Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/email_register.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.925Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_component.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.924Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/cloud_aliyun.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.922Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_bootstrap.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.921Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/weixin_register.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/circuit_electrical.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.919Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/process_flow_electrical.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.918Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_huawei.html</loc>
     
-    <lastmod>2020-08-27T09:45:14.583Z</lastmod>
+    <lastmod>2020-12-13T09:56:57.916Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/cloud_huawei.html</loc>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/audit_workflow.html</loc>
     
-    <lastmod>2020-08-27T07:33:04.679Z</lastmod>
+    <lastmod>2020-12-13T09:56:57.914Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/print_file.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.912Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/login_draw.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.911Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/link_draw.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.909Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_azure.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.908Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/open_file.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.907Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/floorupgrade.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.906Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/rang_draw.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.903Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_tencent.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.901Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/cloud_azure.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.900Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/archimate.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.899Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/livingroom.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.898Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/generic_workflow.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.897Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_ibm.html</loc>
     
-    <lastmod>2020-08-27T06:46:20.418Z</lastmod>
+    <lastmod>2020-12-13T09:56:57.895Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/erd_oracle.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.892Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/archimate.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.889Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_sqlserver.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.886Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/network_rack.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.883Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/sdl_workflow.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.882Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/spring_cloud_aliyun.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.880Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_oracle.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.877Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/epc.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.876Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/homeoffice.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.874Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/text_option.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.873Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/draw_info.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.872Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/qq_register.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.871Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/wiring_electrical.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.869Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/register_user.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.868Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/rang_option.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.867Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_activity.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.866Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_oracle.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.864Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_ios.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_mysql.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.859Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/diningroom.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.857Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/diningroom.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.856Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/use_layer.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.853Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/style_option.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.852Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/floorplan.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.849Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_class_1.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.843Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/index.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.842Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/generator.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.841Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/circuit_electrical.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.839Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/password_update.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.838Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_sequence.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/erd_mysql.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.835Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/email_update.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.833Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_postgresql.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.831Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/export_draw.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.828Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_user_case.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.827Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/cloud_huawei.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.826Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/network_deploy.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.822Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/visitor.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/create_draw.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.817Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/urml_erd.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.815Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/bathroom.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/cloud_oracle.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.810Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/logic_electrical.html</loc>
+    
+    <lastmod>2020-12-13T09:56:57.806Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/site/index.html</loc>
+    
+    <lastmod>2020-12-13T09:44:06.572Z</lastmod>
     
   </url>
   
@@ -37,44 +1206,9 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/spring_cloud_aliyun.html</loc>
-    
-    <lastmod>2020-07-18T07:09:58.001Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/zh-cn/index.html</loc>
     
     <lastmod>2020-07-18T07:09:57.988Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/spring_cloud_aliyun.html</loc>
-    
-    <lastmod>2020-07-18T07:09:57.965Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/floorupgrade.html</loc>
-    
-    <lastmod>2020-06-12T04:59:36.103Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/floorupgrade.html</loc>
-    
-    <lastmod>2020-06-12T04:35:26.337Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/mind/index.html</loc>
-    
-    <lastmod>2019-12-22T05:35:22.174Z</lastmod>
     
   </url>
   
@@ -100,657 +1234,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/drawcase/erd_postgresql.html</loc>
-    
-    <lastmod>2019-08-13T02:04:31.966Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/erd_sqlserver.html</loc>
-    
-    <lastmod>2019-08-13T02:03:42.050Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/erd_oracle.html</loc>
-    
-    <lastmod>2019-08-13T02:03:13.961Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/erd_mysql.html</loc>
-    
-    <lastmod>2019-08-13T02:00:22.870Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_postgresql.html</loc>
-    
-    <lastmod>2019-08-13T01:49:20.014Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_sqlserver.html</loc>
-    
-    <lastmod>2019-08-13T01:46:49.050Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_oracle.html</loc>
-    
-    <lastmod>2019-08-13T01:44:58.406Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_oracle.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.081Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/urml_erd.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.080Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/index.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.077Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_user_case.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.070Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/cloud_oracle.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.068Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_mysql.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.066Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/uml_user_case.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.061Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/urml_erd.html</loc>
-    
-    <lastmod>2019-08-13T00:45:09.197Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/cloud_aliyun.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.268Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/uml_class.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.266Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/floorplan.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.261Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/generic_workflow.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.256Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/cloud_tencent.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.254Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/bpmn.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.247Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/bpmn.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.245Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/network_deploy.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.243Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/floorplan.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.241Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_class_1.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.234Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_class.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.232Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_aliyun.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.228Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_tencent.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.190Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/generic_workflow.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.188Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/uml_class_1.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.183Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/network_deploy.html</loc>
-    
-    <lastmod>2019-08-12T14:15:01.174Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/tqm.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.685Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/weibo_register.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.092Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/weixin_register.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.092Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/email_register.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.091Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/user.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.091Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/vip_user.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.091Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/workoffice.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.090Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/login_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.090Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/ux_android.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.089Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/ux_ios.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.089Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/ux_bootstrap.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.089Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/wiring_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.089Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/uml_sequence.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.088Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/uml_component.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.087Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/uml_package.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.087Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/swimlane_workflow.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.086Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/uml_activity.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.086Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/sdl_workflow.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.085Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/process_flow_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.085Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/pid.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.084Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/other_generic.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.084Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/network_rack.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.083Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/organization.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.083Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/kitchen.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.082Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/livingroom.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.082Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/logic_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.082Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/homeoffice.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.081Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/itil.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.081Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/index.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.081Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/generator.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.080Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/cloud_google.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.079Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/cloud_ibm.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.079Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/diningroom.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.079Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/epc.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.079Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/circuit_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.078Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/cloud_aws.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.078Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/cloud_azure.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.078Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/audit_workflow.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.077Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/bathroom.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.077Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/basic_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.077Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/drawcase/archimate.html</loc>
-    
-    <lastmod>2019-08-09T14:35:54.076Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/register_user.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.578Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/visitor.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.578Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/use_metadata.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.577Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/email_update.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.577Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/password_update.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.577Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/text_option.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.576Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/use_layer.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.576Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/style_option.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.576Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/rang_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.575Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/rang_option.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.575Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/save_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.575Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/shape_edit.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.575Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/my_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/open_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/print_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/index.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.573Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/history_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.573Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/link_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.573Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/events.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.572Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/draw_info.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.572Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/export_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.572Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/manual/console.html</loc>
     
     <lastmod>2019-08-09T14:35:53.571Z</lastmod>
@@ -758,471 +1241,9 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/manual/create_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.571Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/create_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.571Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/draw_formate.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.571Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/tqm.html</loc>
-    
-    <lastmod>2019-08-09T14:35:53.081Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/history_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:51.574Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/print_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.654Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/weixin_register.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.191Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/user.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.190Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/vip_user.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.190Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/visitor.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.190Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/weibo_register.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.190Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/password_update.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.189Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/qq_register.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.189Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/register_user.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.189Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/text_option.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.188Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/use_layer.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.188Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/use_metadata.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.188Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/email_register.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.188Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/email_update.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.188Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/rang_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.187Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/rang_option.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.187Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/save_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.187Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/shape_edit.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.187Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/style_option.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.187Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/index.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.186Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/link_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.186Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/login_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.186Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/my_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.186Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/open_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.186Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/create_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.185Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/create_file.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.185Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/draw_formate.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.185Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/draw_info.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.185Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/manual/export_draw.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.185Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_android.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.184Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_bootstrap.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.184Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/ux_ios.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.184Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/wiring_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.184Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/workoffice.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.184Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_component.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.183Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_package.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.183Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_sequence.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.183Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/swimlane_workflow.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.182Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/uml_activity.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.182Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/organization.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.181Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/other_generic.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.181Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/pid.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.181Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/process_flow_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.181Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/sdl_workflow.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.181Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/livingroom.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.180Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/logic_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.180Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/network_rack.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.180Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/homeoffice.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.179Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/index.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.179Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/itil.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.179Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/kitchen.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.179Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/generator.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.178Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/diningroom.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.177Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/epc.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.177Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_aws.html</loc>
     
     <lastmod>2019-08-09T14:35:50.176Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_azure.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.176Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_google.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.176Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/audit_workflow.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.175Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/archimate.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.175Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/basic_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.175Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/bathroom.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.175Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/drawcase/circuit_electrical.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.175Z</lastmod>
     
   </url>
   
@@ -1248,23 +1269,9 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/site/qq_register.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.171Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/site/permalinks.html</loc>
     
     <lastmod>2019-08-09T14:35:50.171Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/internationalization.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.170Z</lastmod>
     
   </url>
   
@@ -1279,13 +1286,6 @@
     <loc>https://www.freedgo.com/site/data-files.html</loc>
     
     <lastmod>2019-08-09T14:35:50.168Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/manual/deployer.html</loc>
-    
-    <lastmod>2019-08-09T14:35:50.160Z</lastmod>
     
   </url>
   

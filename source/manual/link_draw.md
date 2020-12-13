@@ -19,7 +19,7 @@ Notice the curved arrow above the shape.
 Clicking the arrow once rotates the object 90 degrees clockwise. Therefore, in order to rotate the cylinder 270 degrees so that the top points to the left, we only need to click the arrow three times.
  
 ![Online Diagram Drawing](/public/themes/freedgo/link_draw3.png "Connectors, waypoints and changing shapes") 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 We are not limited to multiples of 90 degrees. 
 By clicking and holding down the mouse, then rotating the cursor left or right, we can rotate the shape counterclockwise or clockwise, respectively. Next we see a cylinder rotating 120 degrees counterclockwise.
 

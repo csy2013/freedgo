@@ -7,7 +7,7 @@ title: File metadata
 ![Online Diagram Drawing](/public/themes/freedgo/use_meta.png "Edit file metadata") 
  
 Drawing diagrams can be represented using XML metadata, and metadata files associated with diagrams can be viewed and edited. Open the chart file and select other-> edit chart. A screen displaying XML metadata will appear.
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Online Diagram Drawing](/public/themes/freedgo/use_meta1.png "Edit file metadata") 
  
 Below we see a simple diagram, containing a rectangle and related metadata files.

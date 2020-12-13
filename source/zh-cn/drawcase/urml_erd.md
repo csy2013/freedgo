@@ -16,7 +16,7 @@ Freedgo(自由行走) Design 一款在线ER模型生成的工具，可以针对M
 首先访问/erd-index.html ,点击 `调整图形` -> `插入` -> `From MySQL`
 
 ![在线制图_ER模型](/public/themes/freedgo/er/er1.png "在线制图 ER模型")
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 # 步骤二:
 
 使用工具生成数据库表结构SQL语句，然后copy到输入框，点击`Insert MySQL` 

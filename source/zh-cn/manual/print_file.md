@@ -9,7 +9,7 @@ title: 打印文件
  
 ![打印文件页面](https://www.freedgo.com/public/themes/freedgo/print_file1.png "打印文件页面")  
  
- 
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## 打印对话框分为三个部分:  
    
 - 1.允许您打印当前页面或页面范围(仅当文档有多个页面时可见)。 

@@ -41,7 +41,7 @@ title: 创建一个图形
  
 ![创建一个图形](/public/themes/freedgo/create_draw5.png "创建一个图形") 
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 首先，我们看到一个虚线轮廓，显示了如果我们将其释放到当前位置，形状将会走向哪里。它还提供了该位置的当前坐标，取自形状的左上角。有时我们会看到蓝色的指导方针出现。这些告诉我们形状的边缘或中心轴与另一个附近形状的边缘或中心轴对齐。
 
 在上面的例子中，我们可以看到我们当前的位置与两个形状对齐，一个垂直，一个水平。

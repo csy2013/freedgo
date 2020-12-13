@@ -7,7 +7,7 @@ title: Shape
 
 可以通过单击"格式"菜单中的"编辑形状"或"格式"面板的"样式"部分中的"编辑形状"按钮(Ctrl+Shift+P)来编辑形状。下面是对XML格式的描述 
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ### `<shape>`
 
 The outer element is `<shape>`,  that has attributes:

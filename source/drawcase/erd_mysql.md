@@ -31,7 +31,7 @@ If you want to use MySQL tables to build ER models, please select the entity typ
 ![Online ER Diagram Design Tools](/public/themes/freedgo/er/mysql/er_mysql1.png "Online ER Diagram Design Tools MySQL")
 ![Online ER Diagram Design Tools](/public/themes/freedgo/er/mysql/er_mysql2.png "Online ER Diagram Design Tools MySQL")
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 #### 1、How to Import DDL SQL？
 There is a relatively simple way for an established database to generate an ER model, which is to export the database's table-building script and then import it. The specific operations are as follows:

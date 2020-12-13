@@ -5,3 +5,5 @@ title: 可视化业务分析模型 在线制图 Archimate
 Archimate是一个开源建模的
 是一种整合多种架构的一种可视化业务分析模型语言，属于架构描述语言（ADL）它从业务、应用和技术三个层次（Layer），物件、行为和主体三个方面（Aspect）和产品、组织、流程、资讯、资料、应用、技术领域（Domain）来进行描述。
 ArchiMate是 The Open Group 发布的企业级标准。它是一种图形化描述语言，正好可以作为 TOGAF 图形工件的建模工具。
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>

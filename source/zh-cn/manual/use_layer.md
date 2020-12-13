@@ -22,7 +22,7 @@ title: 使用层
 将椭圆拖到矩形上会导致它出现在前面。我们在任何情况下都会想到这一点，因为新的形状会出现在旧的形状之前。
 
 但是，如果我们右键单击椭圆并单击返回，椭圆仍将出现在矩形前面。第1层元素将始终出现在背景元素前面。
- 
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
  ![使用层](/public/themes/freedgo/use_layer2.png "使用层") 
 
 一次查看多个图层可能会令人困惑。因此，可以选择从显示器上移除任何或所有层。让我们打开背景框。
