@@ -53,6 +53,8 @@ ER模型是在数据库设计中常用的数据建模工具，通常是用来描
 
 ![在线绘制ER模型](https://www.freedgo.com/public/themes/freedgo/index4.png "在线绘制ER模型")
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-6r+di+5g-2m-8y" data-ad-client="ca-pub-9055212255210230" data-ad-slot="3094959678"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 ### BPMN模型设计
 
 BPMN是业务流程建模与标记,是用于构建业务流程图的一种建模语言标准。

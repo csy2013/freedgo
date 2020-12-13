@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.freedgo.com/zh-cn/site/index.html</loc>
+    
+    <lastmod>2020-12-13T09:23:50.238Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedgo.com/zh-cn/drawcase/cloud_huawei.html</loc>
     
     <lastmod>2020-08-27T09:45:14.583Z</lastmod>
@@ -138,13 +145,6 @@
     <loc>https://www.freedgo.com/zh-cn/drawcase/erd_oracle.html</loc>
     
     <lastmod>2019-08-13T01:44:58.406Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/zh-cn/site/index.html</loc>
-    
-    <lastmod>2019-08-13T01:37:16.095Z</lastmod>
     
   </url>
   
