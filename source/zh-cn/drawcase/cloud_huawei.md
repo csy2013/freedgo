@@ -21,31 +21,31 @@ title: 在线制图 系统部署图 系统架构图 华为云架构
 - 一旦图表完成，您就可以`保存`或者`另存为` 到我们的云存储库供将来访问。您还可以将您的作品导出为图像(JPG、PNG、PDF、SVG等)，并与您的同事共享。
 
 如下图：
-![华为云架构图](/public/themes/freedgo/huawei.png "华为云架构图")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei.png "华为云架构图")
 
 
 
 ### 案例
 
 #### Exchange邮箱初级版
-![华为云架构图](/public/themes/freedgo/huawei/Exchange邮箱初级版.png "Exchange邮箱初级版")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/Exchange邮箱初级版.png "Exchange邮箱初级版")
 #### IoT解决方案
-![华为云架构图](/public/themes/freedgo/huawei/IoT解决方案.png "IoT解决方案")  
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/IoT解决方案.png "IoT解决方案")  
 #### SAP通用架构
-![华为云架构图](/public/themes/freedgo/huawei/SAP通用架构.png "SAP通用架构")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/SAP通用架构.png "SAP通用架构")
 #### 云上办公解决方案
-![华为云架构图](/public/themes/freedgo/huawei/云上办公解决方案.png "云上办公解决方案")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/云上办公解决方案.png "云上办公解决方案")
 #### 企业云盘解决方案
-![华为云架构图](/public/themes/freedgo/huawei/企业云盘解决方案.png "企业云盘解决方案")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/企业云盘解决方案.png "企业云盘解决方案")
 #### 企业级容灾能力服务化
-![华为云架构图](/public/themes/freedgo/huawei/企业级容灾能力服务化.png "企业级容灾能力服务化")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/企业级容灾能力服务化.png "企业级容灾能力服务化")
 #### 小型通用网站
-![华为云架构图](/public/themes/freedgo/huawei/小型通用网站.png "小型通用网站")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/小型通用网站.png "小型通用网站")
 #### 渲染解决方案架构
-![华为云架构图](/public/themes/freedgo/huawei/渲染解决方案架构.png "渲染解决方案架构")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/渲染解决方案架构.png "渲染解决方案架构")
 #### 视频点播基础设施解决方案
-![华为云架构图](/public/themes/freedgo/huawei/视频点播基础设施解决方案.png "视频点播基础设施解决方案")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/视频点播基础设施解决方案.png "视频点播基础设施解决方案")
 #### 金融安全解决方案DDoSCC
-![华为云架构图](/public/themes/freedgo/huawei/金融安全解决方案DDoSCC.png "金融安全解决方案DDoSCC")
+![华为云架构图](https://www.freedgo.com/public/themes/freedgo/huawei/金融安全解决方案DDoSCC.png "金融安全解决方案DDoSCC")
 
  
