@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.freedgo.com/site/index.html</loc>
+    
+    <lastmod>2020-12-17T15:08:11.786Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedgo.com/drawcase/ux_bootstrap.html</loc>
     
     <lastmod>2020-12-13T10:01:48.926Z</lastmod>
@@ -215,13 +222,6 @@
     <loc>https://www.freedgo.com/drawcase/uml_class_1.html</loc>
     
     <lastmod>2020-12-13T10:01:48.876Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/site/index.html</loc>
-    
-    <lastmod>2020-12-13T10:01:48.875Z</lastmod>
     
   </url>
   
