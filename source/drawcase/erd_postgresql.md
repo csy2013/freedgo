@@ -9,7 +9,7 @@ The ER model uses visualization of information stored by entities and intuitivel
 [Freedgo Desgin](https://www.freedgo.com)It is an easy, fast and collaborative tool for creating various professional charts. Let you create flow chart, system deployment chart, software architecture chart, UML, BPMN, ER model, DFD, organization chart, software flow chart and chart online. Free trial. Using Freedgo Design to create a database ER model currently supports PostgreSQL and basic SQL statements to create tables. "PostgreSQL" and so on database model modeling, supports SQL import to generate ER model, generates ER model through DDL statement, exports ER model SQL, and generates SQL according to ER model.
 If you use traditional client tools such as ERwin or PowerDesign to design the table structure, you may as well experience the benefits of lightweight, cloud storage and ready use brought by online ER model.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 #### function：
 
 - Supports online drawing of tables, views, stored procedures and functions, and supports a variety of styles to choose from.

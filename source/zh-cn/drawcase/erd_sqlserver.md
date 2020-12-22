@@ -10,7 +10,7 @@ ER模型使用可视化了实体存储的信息，以及直观的呈现了实体
 
 如果你使用ERwin 或者PowerDesign等等传统的客户端工具设计表结构，不妨体验一下在线ER模型带来的轻量级，云端存储，随时使用的好处。
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
 #### 提供如下功能：
 

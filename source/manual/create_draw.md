@@ -11,7 +11,7 @@ Click and hold the rectangular shape (the shape in the upper left corner), drag 
  
 ![Online Diagram Drawing](/public/themes/freedgo/create_draw1.png "create a diagram") 
 
- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+ 
 With nothing selected in the chart, hover over the rectangle. There will be many crosses and four blue arrows. These are fixed connection points that you can use to place connectors. Click the connection point and drag the mouse. A green line will appear.
 
 ![Online Diagram Drawing](/public/themes/freedgo/create_draw2.png "create a diagram") 

@@ -21,7 +21,7 @@ Nowadays, flowcharts play an extremely important role in displaying information 
 They help us visualize complex processes or clarify the structure of problems and tasks. 
 Flowcharts can also be used to define processes or projects to be implemented.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
 # Common Symbols for Flowcharts
 

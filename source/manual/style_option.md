@@ -9,7 +9,7 @@ The first part of the `Styles` tab handles shape colors. Clicking any color bloc
 
  ![Online Diagram Drawing](/public/themes/freedgo/style_option1.png "style option") 
  
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 You can select the background color by using the color chart with fine gradation or the coarser color chart below it.
 If you use a color chart with `fine grading`, please note that once you have made a selection, you can adjust the color very accurately using the slider to the right of the main chart.  
 The text field will display the hexadecimal representation of the three primary color components (red, green, and blue) of the currently selected color, and the field background will also change to the selected color. 

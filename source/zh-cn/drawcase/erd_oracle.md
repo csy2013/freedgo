@@ -18,7 +18,7 @@ ER模型使用可视化了实体存储的信息，以及直观的呈现了实体
 - 针对ER模型中表实体实现生成建表SQL语句,支持多表生成
 - 针对ER模型中选择表的字段生成字段新增或修改SQL语句
 - 在线导出ER模型对应的SQL脚本
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
 #### 图例
 

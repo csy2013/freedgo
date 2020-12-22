@@ -32,7 +32,7 @@ Supports all export formats except SVG.
 To illustrate how this works, here is an example of a mathematical formula, the example being LaTeX format: \ (\ sqrt {3x-1}+(1+x) 2 \)
 
  ![Online Diagram Drawing](/public/themes/freedgo/draw_formate3.png "Mathematical typesetting") 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>  
+  
 ###	Page size setting
 
 You can use the drop-down menu to select a different `paper size`. In most cases, you can also choose `portrait` or `landscape`.

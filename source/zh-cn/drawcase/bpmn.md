@@ -27,7 +27,7 @@ Freedgo Design具有完整的BPMN图标和简单易用的绘制方法，使业�
 以下是通过Freedgo 制作的图例
 ![在线绘图_BPMN](https://www.freedgo.com/public/themes/freedgo/bpmn/bpmn4.png "在线绘图_BPMN") 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
 
 # BPMN 图标：

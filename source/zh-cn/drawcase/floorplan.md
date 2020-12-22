@@ -20,7 +20,7 @@ title: 	在线绘图图表制作,在线平面图设计	平面图设计教程 	�
 下面小编就为大家介绍一款在线平面图绘制工具： Freedgo Design ,他可以轻松、快速、协作地创建各种专业图表。是多种类型图表的在线绘制软件,让您快速创建家庭、办公、厨房、卫生间、卧室、餐厅等等平面图。立即开始免费试用，其网址为: https://www.freedgo.com.
 
 ---
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
 #### 通过一系列的绘制完成平面图设计，操作示例请看如下视频：
 

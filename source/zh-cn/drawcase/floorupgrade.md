@@ -15,7 +15,7 @@ title: 一个具有多个组件的在线平面图设计 平面图 在线制图
 52地毯,53门,54楼梯,55木制栏杆,56金属和玻璃栏杆,57墙纸,58门用五金件,59木线条,60彩色塑料线条,
 61传统欧洲壁炉架,62无缝拼花锦砖,63植物盆栽,64植物盆景,65插花,66水景形式,67水族养箱,68中国绘画,
 69西画类,70工艺品,71石材拼花,72仿古釉面砖,73彩色刻绘玻璃,74玻璃砖,75彩色灯池布,76聚氨脂罗马柱,77古代五柱式
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
 如下图所示:
 ![在线制图_办公家具_平面图](https://www.freedgo.com//public/themes/freedgo/floor/floordetail/办公家具.png "在线制图 办公家具")  

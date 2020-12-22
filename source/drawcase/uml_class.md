@@ -16,7 +16,7 @@ In UML, problem domains will eventually be transformed step by step, modeling th
 The class is represented by a rectangle and divided into 3 parts by two straight lines, as shown in the figure:
 
 ![Online Draw Class Diagram](https://www.freedgo.com/public/themes/freedgo/uml/class.png "Online Draw Class Diagram")
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 ### Attribute
 
 The properties section of the class lists each property of the class in a separate row. 

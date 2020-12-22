@@ -5,7 +5,7 @@ title: Shape
 
 Pre-built shapes are provided, as well as raster and SVG images, which you can pull in and use. This gives you great flexibility, but the disadvantage of this method is that you cannot style raster or SVG images.  
 You can edit a shape by clicking Edit Shape on the Format menu or the Edit Shape button (Ctrl+Shift+P) in the Style section of the Format panel. The following is a description of the XML format
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
 ### `<shape>`
 

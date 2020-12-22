@@ -24,7 +24,7 @@ title: Spring Cloud 上手培训资料
 每个应用一定是独立构建、独立部署与测试，应用也是独立发布，应用于应用直接通常通过restful API接口的形式进行相互调用。
 解决了单体应用带来的困扰。
 ![在线制图 springCloud设计](https://www.freedgo.com/public/themes/freedgo/spring/spring_cloud2.png "在线制图 springCloud设计")
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 ## Spring cloud 是什么
 
 ### 发展历史

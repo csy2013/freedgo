@@ -20,7 +20,7 @@ title: 样式选项
 你不必用一种纯色填充。相反，您可以让颜色在两种颜色之间逐渐变化。为此，您需要勾选`渐变`勾选框。这将导致出现另一个颜色块按钮，您可以像使用填充颜色一样进行相同的过程。一旦你选择了两种颜色，你就可以决定颜色渐变的方向。下面我们保留了填充颜色，并添加了一个浅黄色的渐变颜色，带有一个面向下方的渐变。
 
 ![渐变](/public/themes/freedgo/style_option3.png "渐变") 
- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+ 
 默认情况下，形状周围有一条黑线边框。要更改线条颜色，单击行刻度框右侧的颜色块按钮，并再次遵循相同的颜色选择过程。下面我们选择了一条红线。
  
  ![线条颜色](/public/themes/freedgo/style_option4.png "线条颜色") 

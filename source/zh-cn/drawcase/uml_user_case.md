@@ -9,7 +9,7 @@ freedgo Design 是一个多种类型图表的在线绘制软件，让您创建 �
 ** 具体参考 在线制图网站关于UML设计图例：  http://www.feedgo.com/showcase.html **
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 # 用例图
 
 用例描述了用户如何使用系统来实现特定的目标。用例图由系统、相关的用例图和参与者组成，并且将它们相互联系起来.

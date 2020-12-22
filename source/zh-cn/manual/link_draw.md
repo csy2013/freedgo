@@ -38,7 +38,7 @@ title: 连接器，航点和改变形状
  ![连接器，航点和改变形状](/public/themes/freedgo/link_draw7.png "连接器，航点和改变形状") 
 
 上面我们只调整了椭圆的高度。现在椭圆看起来更像一个圆。
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 ###	使用连接器
 实际上，有两种方法可以将连接器连接到形状上，我们现在来看一下。我们可以创建`锚定连接`或`浮动连接`。
 

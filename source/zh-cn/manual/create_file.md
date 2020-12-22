@@ -14,7 +14,7 @@ title: 创建文件
   ![制图新增页面](/public/themes/freedgo/create_file1.png "制图新增页面")
   
 <br/>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 + 在图例中创建,通过 ` 图例`，进入`详细页面`，点击`使用此模板`或者`创建新模板`
 <br/>  
   ![制图模板页面](/public/themes/freedgo/create_file1.png "制图模板页面")

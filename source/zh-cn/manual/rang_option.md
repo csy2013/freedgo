@@ -13,7 +13,7 @@ title: 调整图形选项
 
  
 我们可以通过突出显示椭圆来颠倒顺序，这样我们就可以访问`形状格式`面板，选择`调整图形`选项卡，然后按`移至最后`按钮(或者，右键单击椭圆并从菜单选项中选择`移至最后`)。
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
  ![调整图形选项](/public/themes/freedgo/rang_option2.png "调整图形选项") 
  	
 通过高亮显示矩形，选择`调整图形`选项卡，然后按`到前面`按钮，或者右键单击矩形并选择`到前面`，也可以实现同样的效果。	

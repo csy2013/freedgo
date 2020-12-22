@@ -52,7 +52,7 @@ title: Spring Cloud 上手培训资料
 Spring的出现让EJB等重量级的容器技术逐渐走向末路。
 Spring 通过对Bean的生命周期的管理，可以快速方便的实现业务的逻辑处理。
 Spring 可以方便的整合几乎所有的主流的开源项目如JPA，缓存，消息组合等等，方便的进行开发。
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 ### Spring Cloud实战
 本实战目的：
 全程演示如何创建一个基础的、可用的Spring cloud分布式应用系统

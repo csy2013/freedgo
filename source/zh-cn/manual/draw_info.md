@@ -30,7 +30,7 @@ title: 页面概览
 ## 控制面板
 
 位于右侧`面板`，管理编辑各个方面的功能
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 ## 查看选项
 
 单击`菜单栏`上的`视图`菜单为我们提供了许多自定义用户视图的方法。

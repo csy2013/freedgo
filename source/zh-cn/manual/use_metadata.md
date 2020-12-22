@@ -17,7 +17,7 @@ title: 文件元数据
 我们可以决定在图表中添加一个额外的矩形，位于第一个矩形的下方，在这种情况下，我们可以剪切并粘贴第一个矩形的代码(参见下面突出显示的代码)，分配一个新的唯一标识号，更改y坐标，然后单击"确定"(注意，相邻的下拉菜单默认替换现有的绘图，这正是我们在这种情况下想要的)。
 
 ![编辑文件元数据](/public/themes/freedgo/use_meta3.png "编辑文件元数据") 	
- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+ 
 果然，我们的图表现在包含两个矩形。
 
 下拉菜单还有另外几个选项。如果不想更改原始图表，可以选择在新窗口中打开。

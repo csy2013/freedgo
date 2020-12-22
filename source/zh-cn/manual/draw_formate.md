@@ -23,7 +23,7 @@ title: 格式面板
 文本字段将显示当前选定颜色的三种原色成分(红、绿、蓝)的十六进制表示。默认选择是白色。一旦您对自己的选择满意，请按"应用"将背景设置为该颜色。下面我们选择了深绿色背景。
 
  ![背景](/public/themes/freedgo/draw_formate2.png "背景") 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 ###	数学排版
 
 此选项允许在文档属性中进行数学排版，允许用户使用AsciiMath或LaTeX创建数学公式和方程式。MathJax用于渲染。默认情况下，数学排版是禁用的，并且仅当图表包含数学排版时才应启用，因为它会影响渲染性能和导出的图像质量。支持所有导出格式(SVG除外)。为了说明这是如何工作的，这里有一个数学公式的例子,例子是LaTeX格式: \(\sqrt{3×-1}+(1+x)^2\)

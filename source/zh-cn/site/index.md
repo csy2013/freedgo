@@ -53,7 +53,7 @@ ER模型是在数据库设计中常用的数据建模工具，通常是用来描
 
 ![在线绘制ER模型](https://www.freedgo.com/public/themes/freedgo/index4.png "在线绘制ER模型")
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-9055212255210230" data-ad-slot="7941459222"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 
 ### BPMN模型设计
 
