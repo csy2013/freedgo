@@ -39,7 +39,7 @@ Finally, the corresponding model diagram is generated
 ![on-line drawing ER model to word database design document](https://www.freedgo.com/images/notice/er_word_note2.png "on-line drawing ER model to word database design document") 
 
 The effect is as follows:
-![on-line drawing ER model to word database design document](https://www.freedgo.com/images/notice/er_word_note4.png "on-line drawing ER model to word database design document") 
+![on-line drawing ER model to word database design document](https://www.freedgo.com/images/notice/er_word_note3.png "on-line drawing ER model to word database design document") 
 
  
 
