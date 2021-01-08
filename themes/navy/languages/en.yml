@@ -80,6 +80,7 @@ sidebar:
     erd_oracle: Oracle ER Model
     erd_sqlserver: SQLServer ER model
     erd_postgresql: PostgreSQL ER Model
+    erd_app: ER model app
     business_design: business design
     bpmn: BPMN
     organization: organization

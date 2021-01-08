@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.freedgo.com/zh-cn/drawcase/erd_app.html</loc>
+    
+    <lastmod>2021-01-08T08:53:52.412Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/drawcase/erd_app.html</loc>
+    
+    <lastmod>2021-01-08T08:53:18.917Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedgo.com/zh-cn/manual/create_file.html</loc>
     
     <lastmod>2020-12-22T07:32:19.611Z</lastmod>
@@ -1318,6 +1332,13 @@
   </url>
   
   <url>
+    <loc>https://www.freedgo.com/news/2015/03/05/hexo-3-0-released/</loc>
+    
+    <lastmod>2019-08-09T14:35:08.463Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedgo.com/news/2016/02/28/hexo-3-2-released/</loc>
     
     <lastmod>2019-08-09T14:35:08.463Z</lastmod>
@@ -1326,20 +1347,6 @@
   
   <url>
     <loc>https://www.freedgo.com/news/2018/12/01/2018-12-01-hexofs-1-0-1-and-hexo-renderer-less-1-0-0-released-md/</loc>
-    
-    <lastmod>2019-08-09T14:35:08.463Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/news/2015/03/05/hexo-3-0-released/</loc>
-    
-    <lastmod>2019-08-09T14:35:08.463Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/news/2018/10/19/hexo-3-8-released/</loc>
     
     <lastmod>2019-08-09T14:35:08.463Z</lastmod>
     
@@ -1360,14 +1367,21 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/news/2014/07/13/hexo-2-8-released/</loc>
+    <loc>https://www.freedgo.com/news/2018/10/19/hexo-3-8-released/</loc>
+    
+    <lastmod>2019-08-09T14:35:08.463Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/news/2014/06/14/hexo-2-7-released/</loc>
     
     <lastmod>2019-08-09T14:35:08.461Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/news/2014/06/14/hexo-2-7-released/</loc>
+    <loc>https://www.freedgo.com/news/2014/07/13/hexo-2-8-released/</loc>
     
     <lastmod>2019-08-09T14:35:08.461Z</lastmod>
     
