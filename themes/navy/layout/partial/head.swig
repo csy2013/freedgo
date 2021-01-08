@@ -31,9 +31,9 @@
   <!-- build:css build/css/navy.css -->
   {{ css('css/navy') }}
   <!-- endbuild -->
-  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">-->
+  <link rel="stylesheet" href="https://www.freedgo.com/assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://www.freedgo.com/assets/css/public/docsearch.min.css">
   <!-- RSS -->
   {{ feed_tag('atom.xml') }}
   <!-- Open Graph -->
@@ -66,7 +66,7 @@
     })();
 
  </script>
-
+  <!--
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({
@@ -74,5 +74,5 @@
     enable_page_level_ads: true
     });
     </script>
-
+    -->
 </head>
