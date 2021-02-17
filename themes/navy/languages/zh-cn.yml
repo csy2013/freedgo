@@ -74,6 +74,7 @@ sidebar:
     uml_component: 组件图
     uml_package: 包图
     uml_sequence: 序列图
+    er: 实体关系图/ER模型
     urml_erd: ER模型
     erd_app: ER模型转Word
     erd_mysql: MySQL数据模型

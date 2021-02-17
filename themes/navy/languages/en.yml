@@ -76,6 +76,7 @@ sidebar:
     uml_package: uml package
     uml_sequence: uml sequence
     urml_erd: er diagram
+    er: entity relationship
     erd_mysql: mysql ER model
     erd_oracle: Oracle ER Model
     erd_sqlserver: SQLServer ER model
