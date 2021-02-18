@@ -107,5 +107,5 @@ drawcase:
 mind:
   overview:
     intro: index.html
-    use: user.html
+    use: mind_use.html
 #    case: case.html
