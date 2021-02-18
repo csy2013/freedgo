@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.freedgo.com/mind/mind_use.html</loc>
+    
+    <lastmod>2021-02-18T11:42:46.341Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/mind/mind_use.html</loc>
+    
+    <lastmod>2021-02-18T11:39:18.898Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedgo.com/drawcase/erd_theme.html</loc>
     
     <lastmod>2021-02-17T01:39:52.500Z</lastmod>
@@ -1251,13 +1265,6 @@
     <loc>https://www.freedgo.com/mind/case.html</loc>
     
     <lastmod>2019-12-22T01:35:14.196Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.freedgo.com/mind/use.html</loc>
-    
-    <lastmod>2019-12-22T01:35:04.374Z</lastmod>
     
   </url>
   

@@ -108,4 +108,4 @@ mind:
   overview:
     intro: index.html
     use: user.html
-    case: case.html
+#    case: case.html
