@@ -75,6 +75,7 @@ sidebar:
     uml_component: uml component
     uml_package: uml package
     uml_sequence: uml sequence
+    sdl: SDL
     urml_erd: er diagram
     er: entity relationship
     erd_mysql: mysql ER model
