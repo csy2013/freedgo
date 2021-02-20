@@ -29,12 +29,12 @@ The full syntax in the process symbol is:
  ```
 
 If omitted default values are 1 for the number of instances at startup and infinite for the maximum number of instances.
- ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-process.png "在线SDL图设计_Process")
- ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-processinstance.png "在线SDL图设计_Process")
+ ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-instance.png "在线SDL图设计_Process")
+ ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-with.png "在线SDL图设计_Process")
  
 ##  Architecture
  the overall architecture can be seen as a tree where the leaves are the processes。
-![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-view.png "在线SDL图设计_Process")
+![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-architecture-view.png "在线SDL图设计_Process")
 
 
 # Behavior 
