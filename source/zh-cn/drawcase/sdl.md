@@ -28,6 +28,7 @@ title: 在线SDL图设计 在线制图
 
 ## Process
 一个进程基本上就是将要执行的代码。它是一个基于有限状态机的任务，有一个隐式消息队列来接收消息。同一进程的多个实例可以独立运行。系统启动时出现的实例数和最大实例数在进程名称后的括号中声明。 过程符号的完整语法是:  <进程名>[(<启动时的实例数> ,<最大实例数>)]  如果省略，则启动时实例数的默认值为1，最大实例数为无穷大。
+
  ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-process.png "在线SDL图设计_Process")
  ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-processinstance.png "在线SDL图设计_Process")
 ##  Architecture
@@ -57,20 +58,25 @@ title: 在线SDL图设计 在线制图
 ## Message input
 消息输入符号代表在SDL-RT状态下预期的消息类型。它总是跟随一个SDL-RT状态符号，如果接收到该符号，则执行输入之后的符号。 消息输入符号中的语法如下:
  
- ```<Message name> [(<parameter name> {, <parameter name>}*)]```
- 
- ```<parameter name> is a variable that needs to be declared.```
+ ```
+ <Message name> [(<parameter name> {, <parameter name>}*)]
+<parameter name> is a variable that needs to be declared.
+```
  
 ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/input.png "在线SDL图设计")  
 
 ## Message output
 消息输出用于交换信息。它以异步方式将数据放入接收方的消息队列中。
-```<message name>[(<parameter value> {,<parameter value>}*)] TO_XXX… ```
+```
+<message name>[(<parameter value> {,<parameter value>}*)] TO_XXX… 
+```
 ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/output.png "在线SDL图设计") 
 
 ## Message save
 一个进程可能有中间状态，在正在进行的工作完成之前，不能处理新的请求。这些新的请求不应该丢失，而应该保留，直到进程达到稳定状态。储蓄概念已经被提出来了，它基本上保存着信息，直到它被处理。
-```The symbol syntax is: <message name> ```
+```
+The symbol syntax is: <message name> 
+```
 
 ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/save.png "在线SDL图设计") 
 
@@ -104,13 +110,17 @@ title: 在线SDL图设计 在线制图
 
 ## Task creation
 要创建流程，创建流程符号中的语法是:
-```<process name>[:<process class>] [PRIO <priority>]```
+```
+<process name>[:<process class>] [PRIO <priority>]
+```
  ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/task-creation.png "在线SDL图设计") 
  
 ## Procedure call
 过程调用符号用于调用SDL-RT过程。 
 过程调用中的语法SDL图形符号是标准的C语法:
-```[<return variable> =] <procedure name>({<parameters>}*);```
+```
+[<return variable> =] <procedure name>({<parameters>}*);
+```
  ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/procedure-call.png "在线SDL图设计") 
  
 ## Connectors

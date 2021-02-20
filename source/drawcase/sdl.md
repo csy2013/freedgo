@@ -15,21 +15,23 @@ Agent – An agent is an element in the system structure. There are two kinds of
  
 ## block 
 
-	·A block is a structuring element that does not imply any physical implementation on the target.
-·A block can be further decomposed in blocks and so on allowing to handle large systems.
+- A block is a structuring element that does not imply any physical implementation on the target.
+- A block can be further decomposed in blocks and so on allowing to handle large systems. 
+- A block symbol is a solid rectangle with its name in it
 
-·A block symbol is a solid rectangle with its name in it
 ![在线SDL图设计_BLOCK](https://www.freedgo.com/public/themes/freedgo/uml/sdl-block.png "在线SDL图设计_BLOCK")
 
 ## Process
 A process is basically the code that will be executed. It is a finite state machine based task and has an implicit message queue to receive messages. It is possible to have several instances of the same process running independently. The number of instances present when the system starts and the maximum number of instances are declared between parentheses after the name of the process.
 The full syntax in the process symbol is:
-
+```
 <process name>[(<number of instances at startup>, <maximum number of instances>)]
+ ```
 
 If omitted default values are 1 for the number of instances at startup and infinite for the maximum number of instances.
  ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-process.png "在线SDL图设计_Process")
  ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-processinstance.png "在线SDL图设计_Process")
+ 
 ##  Architecture
  the overall architecture can be seen as a tree where the leaves are the processes。
 ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-view.png "在线SDL图设计_Process")
@@ -54,15 +56,19 @@ A process can terminate itself with the stop symbol.
  The message input symbol represent the type of message that is expected in an SDL-RT state. It always follows an SDL-RT state symbol and if received the symbols following the input are executed.
  The syntax in the message input symbol is the following:
  
- ```<Message name> [(<parameter name> {, <parameter name>}*)]```
- 
- ```<parameter name> is a variable that needs to be declared.```
+```
+ <Message name> [(<parameter name> {, <parameter name>}*)] 
+<parameter name> is a variable that needs to be declared.
+```
  
 ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/input.png "在线SDL图设计")  
 
 ## Message output
 A message output is used to exchange information. It puts data in the receiver’s message queue in an asynchronous way.
-<message name>[(<parameter value> {,<parameter value>}*)] TO_XXX…
+``` 
+ <message name>[(<parameter value> {,<parameter value>}*)] TO_XXX…
+```
+
 ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/output.png "在线SDL图设计") 
 ## Message save
 A process may have intermediate states that can not deal with new request until the on-going job is done. These new requests should not be lost but kept until the process reaches a stable state. Save concept has been made for that matter, it basically holds the message until it can be treated.
@@ -100,13 +106,17 @@ To cancel a timer the syntax in the ‘cancel timer SDL-RT graphical symbol’ i
 
 ## Task creation
 To create a process the syntax in the create process symbol is:
-```<process name>[:<process class>] [PRIO <priority>]```
+```
+<process name>[:<process class>] [PRIO <priority>]
+```
  ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/task-creation.png "在线SDL图设计") 
  
 ## Procedure call
 The procedure call symbol is used to call an SDL-RT procedure.
 The syntax in the procedure call SDL graphical symbol is the standard C syntax: 
-```[<return variable> =] <procedure name>({<parameters>}*);```
+```
+[<return variable> =] <procedure name>({<parameters>}*);
+```
  ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/procedure-call.png "在线SDL图设计") 
 ## Connectors
  Connectors are used to:
