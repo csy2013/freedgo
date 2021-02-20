@@ -49,6 +49,7 @@ drawcase:
     uml_component: uml_component.html
     uml_package: uml_package.html
     uml_sequence: uml_sequence.html
+    sdl: sdl.html
   er:
     urml_erd: urml_erd.html
     erd_mysql: erd_mysql.html
