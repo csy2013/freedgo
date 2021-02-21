@@ -50,7 +50,7 @@
 <meta property="og:description" content="什么是SDL   SDL  (Specification and Description Language) ,定义了一种规范和描述语言, 是一种用于描述实时系统的建模语言。   SDL图说明了规范和描述语言建模的过程。它可广泛应用于汽车、航空、通信、医疗和电信领域。    SDL图有三个部分:  系统定义:  块和过程系统定义定义了系统的主要节点(块)，如客户端和服务器，而块图显示了更多细节。流">
 <meta property="og:locale" content="zh-cn">
 <meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/uml/sdl-block.png">
-<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-instance.png">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/uml/sdl-process.png">
 <meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-with.png">
 <meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/uml/sdl-architecture-view.png">
 <meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/uml/start.png">
@@ -172,7 +172,7 @@
 </ul>
 <h2 id="block" class="article-heading"><a href="#block" class="headerlink" title="block"></a>block<a class="article-anchor" href="#block" aria-hidden="true"></a></h2><p>块是一种结构化元素，并不意味着目标上的任何物理实现。 一个块可以进一步分解成多个块，以此来处理大型系统。  块符号是一个实心矩形，其中有它的名称|大哥<br><img src="https://www.freedgo.com/public/themes/freedgo/uml/sdl-block.png" alt="在线SDL图设计_BLOCK" title="在线SDL图设计_BLOCK"></p>
 <h2 id="Process" class="article-heading"><a href="#Process" class="headerlink" title="Process"></a>Process<a class="article-anchor" href="#Process" aria-hidden="true"></a></h2><p>一个进程基本上就是将要执行的代码。它是一个基于有限状态机的任务，有一个隐式消息队列来接收消息。同一进程的多个实例可以独立运行。系统启动时出现的实例数和最大实例数在进程名称后的括号中声明。 过程符号的完整语法是:  &lt;进程名&gt;[(&lt;启动时的实例数&gt; ,&lt;最大实例数&gt;)]  如果省略，则启动时实例数的默认值为1，最大实例数为无穷大。</p>
-<p> <img src="https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-instance.png" alt="在线SDL图设计_Process" title="在线SDL图设计_Process"><br> <img src="https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-with.png" alt="在线SDL图设计_Process" title="在线SDL图设计_Process"></p>
+<p> <img src="https://www.freedgo.com/public/themes/freedgo/uml/sdl-process.png" alt="在线SDL图设计_Process" title="在线SDL图设计_Process"><br> <img src="https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-with.png" alt="在线SDL图设计_Process" title="在线SDL图设计_Process"></p>
 <h2 id="Architecture" class="article-heading"><a href="#Architecture" class="headerlink" title="Architecture"></a>Architecture<a class="article-anchor" href="#Architecture" aria-hidden="true"></a></h2><p> 整体架构可以看作是一棵树，树叶就是过程。<br><img src="https://www.freedgo.com/public/themes/freedgo/uml/sdl-architecture-view.png" alt="在线SDL图设计_Process" title="在线SDL图设计_Process"></p>
 <h1 id="Behavior" class="article-heading"><a href="#Behavior" class="headerlink" title="Behavior"></a>Behavior<a class="article-anchor" href="#Behavior" aria-hidden="true"></a></h1><p>首先，一个进程有一个隐式消息队列来接收通道中列出的消息。<br>过程描述基于扩展的有限状态机。过程状态决定了过程在接受特定刺激时的行为。过渡是两种状态之间的代码。<br>该进程可以挂在它的消息队列或信号量上，或者运行例如执行代码。来自环境或从另一个代理到代理的信息刺激称为信号。过程代理接收的信号首先被放入队列(输入端口)。<br>当状态机处于等待状态时，如果输入端口中的第一个信号针对该状态被使能，则状态机开始转换到另一个状态。</p>
 <h2 id="Start" class="article-heading"><a href="#Start" class="headerlink" title="Start"></a>Start<a class="article-anchor" href="#Start" aria-hidden="true"></a></h2><p>开始符号代表流程执行的起点<br><img src="https://www.freedgo.com/public/themes/freedgo/uml/start.png" alt="在线SDL图设计" title="在线SDL图设计">       </p>

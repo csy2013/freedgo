@@ -29,7 +29,7 @@ title: 在线SDL图设计 在线制图
 ## Process
 一个进程基本上就是将要执行的代码。它是一个基于有限状态机的任务，有一个隐式消息队列来接收消息。同一进程的多个实例可以独立运行。系统启动时出现的实例数和最大实例数在进程名称后的括号中声明。 过程符号的完整语法是:  <进程名>[(<启动时的实例数> ,<最大实例数>)]  如果省略，则启动时实例数的默认值为1，最大实例数为无穷大。
 
- ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-instance.png "在线SDL图设计_Process")
+ ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-process.png "在线SDL图设计_Process")
  ![在线SDL图设计_Process](https://www.freedgo.com/public/themes/freedgo/uml/sdl-process-with.png "在线SDL图设计_Process")
 ##  Architecture
  整体架构可以看作是一棵树，树叶就是过程。
