@@ -1,5 +1,5 @@
 ---
-title: 在线SDL图设计 在线制图
+title: SDL流程图在线制作工具,轻松绘制专业SDL流程图,在线SDL图设计 在线制图
 ---
 
 # 什么是SDL
@@ -177,3 +177,39 @@ The symbol syntax is: <message name>
  
 # The Corresponding SDL Diagram
  ![在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/corresponding-sdl.png "在线SDL图设计")
+ 
+ 创建网络拓扑图的方式有很多，若选择在线绘制网络拓扑图，推荐使用在线制图网站： [freedgo Design](https://www.freedgo.com  "在线制图工具")。 freedgo Design ，其访问地址为: https://www.freedgo.com 。freedgo design 在线制图网站是一款多类型的图形图表设计软件，软件内容自带丰富的几何图形模板，可以用于绘制专业的网络拓扑图，泳道图、影响图、SDL图、审批图、会计网络拓扑图等，提供丰富的网络图例子，上手更轻松
+ 
+ 
+ 
+ 现在，一起开看如何使用Freedgo Design制做SDL图。
+ 
+ ### 步骤一：
+ 
+ 访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com)
+ 
+ ### 步骤二：
+ 
+ 访问 https://www.freedgo.com/draw-index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+ 
+ 进入制图页面后 点击 `文件` -> `从类型中新建` -> `流程图` -> `SDL图`
+ 
+ ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/sdl-enter.png "在线制图 网络拓扑图")
+ 
+ 
+ 或者点击图例，在图例中找到 `流程图` -> `SDL图`，选择一个类似的图例进行改动
+ 
+ ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/sdl-examples.png "在线制图 网络拓扑图")
+ 
+ 
+ 软件提供多种连接样式，在该SDL图中，可以选择普通的直角连接线。在连接线上，还可以输入文字做进一步的说明。
+ 
+  
+ ### 步骤三：
+ 
+ 网络拓扑图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的网络拓扑图，颜值提升了不少。
+ ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/example1.png "在线制图 网络拓扑图")
+ 
+ 
+ 
+ 更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/new/search/3/1607/d_0_3_1607_0_1_0_0.html)  
