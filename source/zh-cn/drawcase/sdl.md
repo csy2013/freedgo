@@ -194,12 +194,12 @@ The symbol syntax is: <message name>
  
  进入制图页面后 点击 `文件` -> `从类型中新建` -> `流程图` -> `SDL图`
  
- ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/sdl-enter.png "在线制图 网络拓扑图")
+ ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/sdl_enter.png "在线制图 网络拓扑图")
  
  
  或者点击图例，在图例中找到 `流程图` -> `SDL图`，选择一个类似的图例进行改动
  
- ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/sdl-examples.png "在线制图 网络拓扑图")
+ ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/sdl_examples.png "在线制图 网络拓扑图")
  
  
  软件提供多种连接样式，在该SDL图中，可以选择普通的直角连接线。在连接线上，还可以输入文字做进一步的说明。
@@ -208,7 +208,7 @@ The symbol syntax is: <message name>
  ### 步骤三：
  
  网络拓扑图制作工具拥有一套功能丰富的样式，用户可以对封闭图形进行单色填充、渐变填充、文本大小位置颜色调整。经过图案填充的网络拓扑图，颜值提升了不少。
- ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/example1.png "在线制图 网络拓扑图")
+ ![在线制图 在线SDL图设计](https://www.freedgo.com/public/themes/freedgo/uml/sdl_example1.png "在线制图 网络拓扑图")
  
  
  
