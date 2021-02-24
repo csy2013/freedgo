@@ -35,4 +35,4 @@ title: 审核工作流程图、在线流程图、审批流程设计、在线绘�
 
 最后，薪资汇总报告将由系统自动生成，以供内部审计。
 
- ![Audit workflow diagram](https://www.freedgo.com/public/themes/freedgo/network/audit-flowchart-symbols.png "Audit workflow diagram")
+ ![Audit workflow diagram](https://www.freedgo.com/public/themes/freedgo/workflow/audit-flowchart-example.png "Audit workflow diagram")
