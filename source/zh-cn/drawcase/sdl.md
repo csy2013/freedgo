@@ -186,7 +186,7 @@ The symbol syntax is: <message name>
  
  ### 步骤一：
  
- 访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com)
+ 访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com) 
  
  ### 步骤二：
  

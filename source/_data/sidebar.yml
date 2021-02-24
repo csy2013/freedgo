@@ -49,7 +49,6 @@ drawcase:
     uml_component: uml_component.html
     uml_package: uml_package.html
     uml_sequence: uml_sequence.html
-    sdl: sdl.html
   er:
     urml_erd: urml_erd.html
     erd_mysql: erd_mysql.html
@@ -65,7 +64,7 @@ drawcase:
   workflow:
     generic_workflow: generic_workflow.html
     swimlane_workflow: swimlane_workflow.html
-    sdl_workflow: sdl_workflow.html
+    sdl: sdl.html 
     audit_workflow: audit_workflow.html
   ux:
     ux_ios: ux_ios.html
