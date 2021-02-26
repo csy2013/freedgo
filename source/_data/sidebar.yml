@@ -66,6 +66,7 @@ drawcase:
     swimlane_workflow: swimlane_workflow.html
     sdl: sdl.html 
     audit_workflow: audit_workflow.html
+    accounting_workflow: accounting_workflow.html
   ux:
     ux_ios: ux_ios.html
     ux_android: ux_android.html

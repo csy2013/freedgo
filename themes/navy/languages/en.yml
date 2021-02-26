@@ -93,6 +93,7 @@ sidebar:
     swimlane_workflow: swimlane workflow
     sdl_workflow: SDL
     audit_workflow: audit workflow
+    accounting_workflow: accounting_workflow
     ux: UX Design
     ux_ios: ios ux
     ux_android: android ux
