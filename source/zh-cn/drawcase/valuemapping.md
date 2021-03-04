@@ -149,7 +149,8 @@ VSM是一种特殊类型的流程图，它使用被称为“精益语言”的�
 
 	
 ## Signal Kanban: 
-每当超市两个流程之间的现有库存水平降至触发点或最低点时使用。它也被称为“一批一个”看板![Value Stream Mapping Symbol - Signal Kanban](https://www.freedgo.com/public/themes/freedgo/valuemapping/value-stream-mapping-symbol-signal-kanban.png "Value Stream Mapping Symbol - Signal Kanban") 
+每当超市两个流程之间的现有库存水平降至触发点或最低点时使用。它也被称为“一批一个”看板
+![Value Stream Mapping Symbol - Signal Kanban](https://www.freedgo.com/public/themes/freedgo/valuemapping/value-stream-mapping-symbol-signal-kanban.png "Value Stream Mapping Symbol - Signal Kanban") 
 
 	
 ## Kanban Post: 
@@ -197,14 +198,14 @@ VSM是一种特殊类型的流程图，它使用被称为“精益语言”的�
 ![Value Stream Mapping Symbol - Timeline](https://www.freedgo.com/public/themes/freedgo/valuemapping/value-stream-mapping-symbol-timeline.png "Value Stream Mapping Symbol - Timeline") 
 
 # 价值流图术语
-1. C/T (Cycle Time): Processor Cycle Time = Time To Complete A Task.
-2. P/T Or C/O (Changeover Time): The Non-Value Added Time Required To Convert A Line From One Product To Another Changeover Time Or Setup Time To Begin A New Task.
-3. VA (Value Added Task): Value-Added Time Or The Time Needed To Complete A Required Task.
-4. NVA (None Value Added Task): Non-Value-Added Time = PT – VAT.
-5. L/T (Lead Time): Lead Time, Or The Total Time From When A Task Is Started Within A Work Center Until It Leaves The Work Center.
-6. FTT (First Time Through): First Time Quality Or First Time Through Quality Yield.
-7. T/T (Takt Time): The Average Unit Production Time Needed To Meet Customer Demand.
-8. Capacity: A Metric That Indicates How Many Parts Per Day Your Slowest Process Can Handle..
+1. 周期时间:处理器周期时间=完成一项任务的时间。
+2. P/T或C/O(转换时间):将一条生产线从一个产品转换到另一个转换时间所需的非增值时间，或开始新任务的设置时间。
+3. 增值任务:增值时间或完成所需任务所需的时间。
+4. NVA(无增值任务):无增值时间=增值税。
+5. 提前期:从任务在工作中心内开始到离开工作中心的总时间。
+6. FTT(首次通过):首次质量或首次通过质量产量。
+7. 生产节拍:满足客户需求所需的平均单位生产时间。
+8. 容量:一个指标，指示您最慢的流程每天可以处理多少个零件..
 
 # 例子
 价值流图可以通过流程图软件按照以下步骤创建:
