@@ -221,3 +221,19 @@ VSM是一种特殊类型的流程图，它使用被称为“精益语言”的�
 ![Value Stream Mapping Symbol - Value Stream Mapping Example](https://www.freedgo.com/public/themes/freedgo/valuemapping/value-stream-mapping-example.png "Value Stream Mapping Symbol - Value Stream Mapping Example") 
 
 
+现在，一起开看如何使用Freedgo Design制做SDL图。
+ 
+ ### 步骤一：
+ 
+ 访问 https://www.freedgo.com ,先注册一个用户，注册成功后，登录到 [首页](https://www.freedgo.com) 
+ 
+ ### 步骤二：
+ 
+ 访问 https://www.freedgo.com/draw-index.html ,进入`制图页面`，或者从 `首页` 页面 顶部菜单点击`开始制作`。
+ 
+ 进入制图页面后 点击 `文件` -> `从类型中新建` -> `商务/(业务建模)` -> `价值流`
+ 
+ ![在线制图 价值流](https://www.freedgo.com/public/themes/freedgo/valuemapping/enter_valuemapping.png "在线制图 价值流")
+ 
+  
+ 更多基本流程的例子 请参考 [图例] (https://www.freedgo.com/new/search/2/25/d_0_2_25_0_1_0_0.html)  
