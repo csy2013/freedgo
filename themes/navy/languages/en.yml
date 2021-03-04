@@ -88,6 +88,7 @@ sidebar:
     bpmn: BPMN
     organization: organization
     epc: EPC
+    value_stream_map: Value Steam Map
     workflow: workflow
     generic_workflow: generic workflow
     swimlane_workflow: swimlane workflow

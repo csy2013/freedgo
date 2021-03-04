@@ -84,6 +84,7 @@ sidebar:
     bpmn: BPMN图
     organization: 组织机构图
     epc: EPC
+    value_stream_map: 价值流
     workflow: 工作流程
     generic_workflow: 一般流程图
     swimlane_workflow: 泳道图

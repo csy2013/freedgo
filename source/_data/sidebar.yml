@@ -61,6 +61,7 @@ drawcase:
     bpmn: bpmn.html
     organization: organization.html
     epc: epc.html
+    value_stream_map: valuemapping.html
   workflow:
     generic_workflow: generic_workflow.html
     swimlane_workflow: swimlane_workflow.html
