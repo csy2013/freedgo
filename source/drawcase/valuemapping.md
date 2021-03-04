@@ -195,7 +195,7 @@ used to highlight improvement needs and plan kaizen workshops at specific proces
 	
 ## Other Information: 
 other useful or potentially useful information.
-![Value Stream Mapping Symbol - Other Information](https://www.freedgo.com/public/themes/freedgo/value-stream-mapping-symbol-other-information.png "Value Stream Mapping Symbol - Other Information") 
+![Value Stream Mapping Symbol - Other Information](https://www.freedgo.com/public/themes/freedgo/valuemapping/value-stream-mapping-symbol-other-information.png "Value Stream Mapping Symbol - Other Information") 
 
 	
 ## Timeline: 

@@ -190,7 +190,7 @@ VSM是一种特殊类型的流程图，它使用被称为“精益语言”的�
 	
 ## Other Information: 
 其他有用或潜在有用的信息.
-![Value Stream Mapping Symbol - Other Information](https://www.freedgo.com/public/themes/freedgo/value-stream-mapping-symbol-other-information.png "Value Stream Mapping Symbol - Other Information") 
+![Value Stream Mapping Symbol - Other Information](https://www.freedgo.com/public/themes/freedgo/valuemapping/value-stream-mapping-symbol-other-information.png "Value Stream Mapping Symbol - Other Information") 
 
 	
 ## Timeline: 
