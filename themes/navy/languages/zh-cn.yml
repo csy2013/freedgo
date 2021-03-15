@@ -45,6 +45,7 @@ sidebar:
     create_file: 创建文件
     save_file: 存储文件
     print_file: 打印文件
+    export_file: 导出文件
     history_file: 文件版本
     online_draw: 在线制图
     login_draw: 登录制图

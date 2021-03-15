@@ -9,7 +9,7 @@ title: 价值流映射，在线流程图，在线绘图
 但是到底什么是浪费呢？
 浪费可以以时间、材料和劳动的形式出现。但这也可能与技能组合的使用以及计划不周有关。VSM帮助优化工艺步骤和消除浪费，唯一真正的价值是在生产的每个阶段增加。 “从客户的角度来看，一项活动中没有增加价值的要素”  最初构想丰田生产系统时的七种形式，当西方世界采用精益方法时，增加了第八种形式。其中，7 / 8的浪费是以生产过程为导向的，而第八种浪费与管理人员利用人员的能力直接相关。  
  
- 更容易记住它们的一个技巧是首字母缩略词“DOWNTIME”:
+ 更容易记住它们的一个技巧是首字母缩略词“DOWNTME”:
 
 ![Value Stream Mapping: Downtime (VSM Waste)](https://www.freedgo.com/public/themes/freedgo/valuemapping/downtime-vsm-waste.png "Value Stream Mapping: Downtime (VSM Waste)")  
 

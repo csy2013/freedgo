@@ -47,6 +47,7 @@ sidebar:
     history_file: history file
     save_file: save file
     print_file: print file
+    export_file: export file
     online_draw: online draw
     login_draw: login for draw
     draw_info: drawing page
