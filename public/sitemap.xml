@@ -2,9 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.freedgo.com/manual/basics_tutorial.html</loc>
+    
+    <lastmod>2021-04-11T14:55:12.122Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/external_fonts.html</loc>
+    
+    <lastmod>2021-04-05T07:30:30.284Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/external_fonts.html</loc>
+    
+    <lastmod>2021-04-05T07:28:58.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/custom_link.html</loc>
+    
+    <lastmod>2021-04-05T06:48:36.086Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/custom_link.html</loc>
+    
+    <lastmod>2021-04-05T06:09:27.115Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/manual/export_file.html</loc>
+    
+    <lastmod>2021-03-15T13:44:45.665Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.freedgo.com/zh-cn/manual/export_file.html</loc>
+    
+    <lastmod>2021-03-15T13:37:06.742Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedgo.com/zh-cn/drawcase/valuemapping.html</loc>
     
-    <lastmod>2021-03-04T10:59:24.016Z</lastmod>
+    <lastmod>2021-03-15T08:07:45.319Z</lastmod>
     
   </url>
   
@@ -1402,6 +1451,13 @@
   </url>
   
   <url>
+    <loc>https://www.freedgo.com/news/2018/10/19/hexo-3-8-released/</loc>
+    
+    <lastmod>2019-08-09T14:35:08.463Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.freedgo.com/news/2016/02/28/hexo-3-2-released/</loc>
     
     <lastmod>2019-08-09T14:35:08.463Z</lastmod>
@@ -1416,13 +1472,6 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/news/2018/12/26/hexo-autoprefixer-2-0-0_released/</loc>
-    
-    <lastmod>2019-08-09T14:35:08.463Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.freedgo.com/news/2018/12/12/hexo-filter-responsive-images-1-4-0_1-4-1_hexo-asset-pipeline-1-7-0_released/</loc>
     
     <lastmod>2019-08-09T14:35:08.463Z</lastmod>
@@ -1430,7 +1479,7 @@
   </url>
   
   <url>
-    <loc>https://www.freedgo.com/news/2018/10/19/hexo-3-8-released/</loc>
+    <loc>https://www.freedgo.com/news/2018/12/26/hexo-autoprefixer-2-0-0_released/</loc>
     
     <lastmod>2019-08-09T14:35:08.463Z</lastmod>
     

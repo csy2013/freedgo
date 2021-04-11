@@ -35,6 +35,8 @@ manual:
     rang_draw: rang_draw.html
     link_draw: link_draw.html
     export_draw: export_draw.html
+    custom_link: custom_link.html
+    basics_tutorial: basics_tutorial.html
   vip_draw:
     use_metadata: use_metadata.html
     shape_edit: shape_edit.html
@@ -66,7 +68,7 @@ drawcase:
   workflow:
     generic_workflow: generic_workflow.html
     swimlane_workflow: swimlane_workflow.html
-    sdl: sdl.html 
+    sdl: sdl.html
     audit_workflow: audit_workflow.html
     accounting_workflow: accounting_workflow.html
   ux:

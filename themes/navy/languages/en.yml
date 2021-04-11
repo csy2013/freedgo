@@ -57,10 +57,12 @@ sidebar:
     text_option: text options
     rang_option: rang options
     draw_school: course
+    basics_tutorial: learn the basics
     create_draw: create diagram
     rang_draw: rang diagram
     link_draw: Link Line
     export_draw: export diagram
+    custome_link: custome link
     vip_draw: advance
     use_metadata: use metadata
     shape_edit: shape edit

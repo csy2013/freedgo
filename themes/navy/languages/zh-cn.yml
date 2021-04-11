@@ -56,10 +56,12 @@ sidebar:
     text_option: 文本选项
     rang_option: 排列选项
     draw_school: 教程
+    basics_tutorial: 基础教程
     create_draw: 创建图形
     rang_draw: 布局
     link_draw: 连接、航点
     export_draw: 导出选项
+    custome_link: 自定义链接
     vip_draw: 高级
     use_metadata: 使用元元素
     shape_edit: 修改形状

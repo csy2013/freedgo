@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head prefix="og: http://ogp.me/ns#"><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="utf-8">
+  <title>使用外部或自定义字体 | Freedgo Design:专注在线绘图工具,ER模型设计</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Canonical links -->
+  <link rel="canonical" href="https://www.freedgo.com/zh-cn/manual/external_fonts.html">
+  <!-- Alternative links -->
+  
+    
+      <link rel="alternative" hreflang="en" href="https://www.freedgo.com/manual/external_fonts.html">
+    
+      <link rel="alternative" hreflang="zh-cn" href="https://www.freedgo.com/zh-cn/manual/external_fonts.html">
+    
+  
+  <!-- Icon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/public/icon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/public/icon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/public/icon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/public/icon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/public/icon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/public/icon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/public/icon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/public/icon/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/public/icon/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#2f83cd">
+  <meta name="msapplication-TileImage" content="/public/icon/mstile-144x144.png">
+  <!-- CSS -->
+  <!-- build:css build/css/navy.css -->
+  <link rel="stylesheet" href="/public/css/navy.css">
+  <!-- endbuild -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">-->
+  <link rel="stylesheet" href="https://www.freedgo.com/assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://www.freedgo.com/assets/css/public/docsearch.min.css">
+  <!-- RSS -->
+  <link rel="alternate" href="/public/atom.xml" title="Freedgo Design:专注在线绘图工具,ER模型设计">
+  <!-- Open Graph -->
+  <meta name="description" content="如果您不想使用默认情况下在Freedgo可用的字体，您可以使用您自己的自定义字体或外部字体，如谷歌字体或存储在您自己的服务器上的网络字体。当您需要匹配出版物的样式指南、公司的企业形象或在信息图中增加兴趣和重点时，这很有用。 很容易指定不同的系统字体，使用谷歌字体，甚至通过提供其网址来使用您自己的网络字体。 如何使用不同的系统字体系统字体是存储在您的计算机或系统中的字体。要使用不同的系统字体，您需要">
+<meta name="keywords" content="在线绘图工具，在线图表工具，图表工具，图表解决方案，在线图表制造商，在线图表创建者，在线uml工具，图表软件，在线阿里云部署图工具，在线AWS部署图工具，在线腾讯云部署图工具，流程图工具，工程电气在线设计，平面图设计，UX设计，信息图表制造商，图表制造商，信息图表软件， 图表软件，业务在线设计，在线图表编辑器">
+<meta property="og:type" content="website">
+<meta property="og:title" content="使用外部或自定义字体">
+<meta property="og:url" content="https://www.freedgo.com/zh-cn/manual/external_fonts.html">
+<meta property="og:site_name" content="Freedgo Design:专注在线绘图工具,ER模型设计">
+<meta property="og:description" content="如果您不想使用默认情况下在Freedgo可用的字体，您可以使用您自己的自定义字体或外部字体，如谷歌字体或存储在您自己的服务器上的网络字体。当您需要匹配出版物的样式指南、公司的企业形象或在信息图中增加兴趣和重点时，这很有用。 很容易指定不同的系统字体，使用谷歌字体，甚至通过提供其网址来使用您自己的网络字体。 如何使用不同的系统字体系统字体是存储在您的计算机或系统中的字体。要使用不同的系统字体，您需要">
+<meta property="og:locale" content="zh-cn">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/external_font.png%20%22use%20external%20font">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/system_font.png%20%22use%20external%20font">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/satisfy_font.png%20%22use%20external%20font">
+<meta property="og:image" content="https://www.freedgo.com/public/themes/freedgo/web_font.png%20%22use%20external%20font">
+<meta property="og:updated_time" content="2021-04-05T07:28:58.398Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="使用外部或自定义字体">
+<meta name="twitter:description" content="如果您不想使用默认情况下在Freedgo可用的字体，您可以使用您自己的自定义字体或外部字体，如谷歌字体或存储在您自己的服务器上的网络字体。当您需要匹配出版物的样式指南、公司的企业形象或在信息图中增加兴趣和重点时，这很有用。 很容易指定不同的系统字体，使用谷歌字体，甚至通过提供其网址来使用您自己的网络字体。 如何使用不同的系统字体系统字体是存储在您的计算机或系统中的字体。要使用不同的系统字体，您需要">
+<meta name="twitter:image" content="https://www.freedgo.com/public/themes/freedgo/external_font.png%20%22use%20external%20font">
+<meta name="twitter:site" content="changsy2017">
+<meta property="fb:admins" content="100000247608790">
+  <!-- Google Analytics -->
+  
+  <script>
+     var _hmt = _hmt || [];
+    (function () {
+        let hm = document.createElement('script');
+        hm.src = 'https://hm.baidu.com/hm.js?93679cc51fbef1728e9b7d2624ed3263';
+        let s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+
+ </script>
+
+</head>
+
+<body>
+  <div id="container">
+    <header id="header" class="wrapper">
+  <div id="header-inner" class="inner">
+    <h2 id="logo-wrap">
+      <a href="https://www.freedgo.com" id="logo">Freedgo Desgin</a>
+    </h2>
+    <nav id="main-nav">
+      <a href="/public/zh-cn/site/" class="main-nav-link">网站</a><a href="/public/zh-cn/manual/" class="main-nav-link">工具使用</a><a href="/public/zh-cn/drawcase/" class="main-nav-link">图例</a><a href="/public/zh-cn/mind/" class="main-nav-link">思维导图</a>
+      <a href="https://github.com/csy2013/freedgo" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
+      <div id="search-input-wrap">
+        <div id="search-input-icon">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="search" id="search-input" placeholder="Search...">
+      </div>
+    </nav>
+    <div id="lang-select-wrap">
+      <label id="lang-select-label"><i class="fa fa-globe"></i><span>简体中文</span></label>
+      <select id="lang-select" data-canonical="manual/external_fonts.html">
+        
+          <option value="en">English</option>
+        
+          <option value="zh-cn" selected>简体中文</option>
+        
+      </select>
+    </div>
+    <a id="mobile-nav-toggle">
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+    </a>
+  </div>
+</header>
+
+    <div id="content-wrap">
+  <div id="content" class="wrapper">
+    <div id="content-inner">
+      <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+          <div class="article">
+            <div class="inner">
+              <header class="article-header">
+                <h1 class="article-title" itemprop="name">使用外部或自定义字体</h1>
+                <a href="https://github.com/csy2013/site/edit/master/source/zh-cn/manual/external_fonts.md" class="article-edit-link" title="改进本文"><i class="fa fa-pencil"></i></a>
+              </header>
+              <div class="article-content" itemprop="articleBody">
+                <p>如果您不想使用默认情况下在Freedgo可用的字体，您可以使用您自己的自定义字体或外部字体，如谷歌字体或存储在您自己的服务器上的网络字体。当您需要匹配出版物的样式指南、公司的企业形象或在信息图中增加兴趣和重点时，这很有用。<br> 很容易指定不同的系统字体，使用谷歌字体，甚至通过提供其网址来使用您自己的网络字体。</p>
+<h1 id="如何使用不同的系统字体" class="article-heading"><a href="#如何使用不同的系统字体" class="headerlink" title="如何使用不同的系统字体"></a>如何使用不同的系统字体<a class="article-anchor" href="#如何使用不同的系统字体" aria-hidden="true"></a></h1><p>系统字体是存储在您的计算机或系统中的字体。要使用不同的系统字体，您需要知道字体的名称。<br><img src="/public/themes/freedgo/external_font.png &quot;use external font" alt="Online Diagram Drawing"></p>
+<ul>
+<li>单击要更改的形状或文本。 </li>
+<li>在右侧格式面板的文本选项卡中，单击字体名称旁边的下拉箭头，然后单击自定义(在列表底部)。 </li>
+<li>在字体选择对话框中，键入新字体的名称，然后单击应用。本示例使用Charter系统字体。<br><img src="/public/themes/freedgo/system_font.png &quot;use external font" alt="Online Diagram Drawing"><br>您将看到您的更改应用于形状或文本。</li>
+</ul>
+<h1 id="如何使用Google-字体" class="article-heading"><a href="#如何使用Google-字体" class="headerlink" title="如何使用Google 字体"></a>如何使用Google 字体<a class="article-anchor" href="#如何使用Google-字体" aria-hidden="true"></a></h1><p>要使用谷歌字体，你只需要知道谷歌的字体名称。这个例子使用了满足谷歌字体。<br><img src="/public/themes/freedgo/satisfy_font.png &quot;use external font" alt="Online Diagram Drawing"> </p>
+<ul>
+<li>单击要更改的形状或文本。 </li>
+<li>如果“格式”面板中的“文本”选项卡未激活，请选择它，然后单击字体名称旁边的下拉箭头，然后单击“自定义”。 </li>
+<li>单击谷歌字体单选按钮，在字体名称文本字段中键入谷歌字体的名称，然后单击应用。</li>
+</ul>
+<h1 id="如何使用外部存储的网页字体" class="article-heading"><a href="#如何使用外部存储的网页字体" class="headerlink" title="如何使用外部存储的网页字体"></a>如何使用外部存储的网页字体<a class="article-anchor" href="#如何使用外部存储的网页字体" aria-hidden="true"></a></h1><p>您也可以使用存储在网络上的自己的网络字体。您需要链接到文件类型扩展名为. woff的字体文件。<br>下面的示例使用了名为SourceSans Pro的开源网络字体的斜体版本。<br><img src="/public/themes/freedgo/web_font.png &quot;use external font" alt="Online Diagram Drawing">  </p>
+<ul>
+<li>将您的原始网络字体文件存放在网络上的某个地方，可以通过浏览器直接访问。 </li>
+<li>单击要更改的形状或文本。 </li>
+<li>选择格式面板中的文本选项卡，单击字体名称旁边的下拉箭头，然后单击自定义。 </li>
+<li>单击“网页字体”单选按钮，在“字体名称”字段中输入一个名称，然后输入您的。存储woff字体文件。然后单击应用。</li>
+</ul>
+
+              </div>
+              <footer class="article-footer">
+                <time class="article-footer-updated" datetime="2021-04-05T07:28:58.398Z" itemprop="dateModified">上次更新：2021-04-05</time>
+                <a href="my_file.html" class="article-footer-next" title="我的制作"><span>下一页</span><i class="fa fa-chevron-right"></i></a>
+              </footer>
+              
+<section id="comments">
+  <div id="disqus_thread"></div>
+</section>
+<script>
+  var disqus_shortname = 'freedgo-design';
+  var disqus_url = 'https://www.freedgo.com/zh-cn/manual/external_fonts.html';
+  var disqus_title = "使用外部或自定义字体";
+  var disqus_config = function(){
+    this.language = 'zh';
+  };
+  (function(){
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'https://go.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+            </div>
+          </div>
+          <aside id="article-toc" role="navigation">
+            <div id="article-toc-inner">
+              <strong class="sidebar-title">目录</strong>
+              <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#如何使用不同的系统字体"><span class="toc-text">如何使用不同的系统字体</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#如何使用Google-字体"><span class="toc-text">如何使用Google 字体</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#如何使用外部存储的网页字体"><span class="toc-text">如何使用外部存储的网页字体</span></a></li></ol>
+              <a href="#" id="article-toc-top">回到顶部</a>
+            </div>
+          </aside>
+        </div>
+      </article>
+      <aside id="sidebar" role="navigation">
+  <div class="inner">
+    <strong class="sidebar-title">文件使用</strong><a href="my_file.html" class="sidebar-link">我的制作</a><a href="open_file.html" class="sidebar-link">打开文件</a><a href="create_file.html" class="sidebar-link">创建文件</a><a href="save_file.html" class="sidebar-link">存储文件</a><a href="export_file.html" class="sidebar-link">导出文件</a><a href="print_file.html" class="sidebar-link">打印文件</a><a href="history_file.html" class="sidebar-link">文件版本</a><strong class="sidebar-title">在线制图</strong><a href="login_draw.html" class="sidebar-link">登录制图</a><a href="draw_info.html" class="sidebar-link">页面概览</a><a href="draw_formate.html" class="sidebar-link">格式面板</a><strong class="sidebar-title">自定义图形</strong><a href="style_option.html" class="sidebar-link">样式选项</a><a href="text_option.html" class="sidebar-link">文本选项</a><a href="rang_option.html" class="sidebar-link">排列选项</a><strong class="sidebar-title">教程</strong><a href="create_draw.html" class="sidebar-link">创建图形</a><a href="rang_draw.html" class="sidebar-link">布局</a><a href="link_draw.html" class="sidebar-link">连接、航点</a><a href="export_draw.html" class="sidebar-link">导出选项</a><a href="custom_link.html" class="sidebar-link">sidebar.manual.custom_link</a><a href="basics_tutorial.html" class="sidebar-link">基础教程</a><strong class="sidebar-title">高级</strong><a href="use_metadata.html" class="sidebar-link">使用元元素</a><a href="shape_edit.html" class="sidebar-link">修改形状</a><a href="use_layer.html" class="sidebar-link">使用层</a>
+  </div>
+</aside>
+    </div>
+  </div>
+</div>
+
+    <footer id="footer" class="wrapper">
+  <div class="inner">
+    <div id="footer-copyright">
+      &copy; 2021 <a href="http://www.yuaoq.com" target="_blank">南京裕奥软件科技有限公司</a><br>
+      备案号 <a href="http://www.beian.miit.gov.cn/" target="_blank">苏ICP备14047301号-3 </a>.<br>
+      QQ:&nbsp;&nbsp; 857717515&nbsp;&nbsp;<br>
+      微信:&nbsp;&nbsp;&nbsp;&nbsp; <img width="60px" src="https://www.freedgo.com/assets/images/WechatIMG32.jpeg"/><br>
+      微博: csyer2004@sina.com
+    </div>
+    <div id="footer-links">
+      <a href="https://twitter.com/changsy2017" class="footer-link" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/csy2013/freedgo" class="footer-link" target="_blank"><i class="fa fa-github-alt"></i></a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  <div id="mobile-nav-dimmer"></div>
+  <nav id="mobile-nav">
+  <div id="mobile-nav-inner">
+    <ul id="mobile-nav-list">
+      <a href="/public/zh-cn/site/" class="mobile-nav-link">网站</a><a href="/public/zh-cn/manual/" class="mobile-nav-link">工具使用</a><a href="/public/zh-cn/drawcase/" class="mobile-nav-link">图例</a><a href="/public/zh-cn/mind/" class="mobile-nav-link">思维导图</a>
+      <li class="mobile-nav-item">
+        <a href="https://github.com/csy2013/freedgo" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
+      </li>
+    </ul>
+    
+      <strong class="mobile-nav-title">文件使用</strong><a href="my_file.html" class="mobile-nav-link">我的制作</a><a href="open_file.html" class="mobile-nav-link">打开文件</a><a href="create_file.html" class="mobile-nav-link">创建文件</a><a href="save_file.html" class="mobile-nav-link">存储文件</a><a href="export_file.html" class="mobile-nav-link">导出文件</a><a href="print_file.html" class="mobile-nav-link">打印文件</a><a href="history_file.html" class="mobile-nav-link">文件版本</a><strong class="mobile-nav-title">在线制图</strong><a href="login_draw.html" class="mobile-nav-link">登录制图</a><a href="draw_info.html" class="mobile-nav-link">页面概览</a><a href="draw_formate.html" class="mobile-nav-link">格式面板</a><strong class="mobile-nav-title">自定义图形</strong><a href="style_option.html" class="mobile-nav-link">样式选项</a><a href="text_option.html" class="mobile-nav-link">文本选项</a><a href="rang_option.html" class="mobile-nav-link">排列选项</a><strong class="mobile-nav-title">教程</strong><a href="create_draw.html" class="mobile-nav-link">创建图形</a><a href="rang_draw.html" class="mobile-nav-link">布局</a><a href="link_draw.html" class="mobile-nav-link">连接、航点</a><a href="export_draw.html" class="mobile-nav-link">导出选项</a><a href="custom_link.html" class="mobile-nav-link">sidebar.manual.custom_link</a><a href="basics_tutorial.html" class="mobile-nav-link">基础教程</a><strong class="mobile-nav-title">高级</strong><a href="use_metadata.html" class="mobile-nav-link">使用元元素</a><a href="shape_edit.html" class="mobile-nav-link">修改形状</a><a href="use_layer.html" class="mobile-nav-link">使用层</a>
+    
+  </div>
+  <div id="mobile-lang-select-wrap">
+    <span id="mobile-lang-select-label"><i class="fa fa-globe"></i><span>简体中文</span></span>
+    <select id="mobile-lang-select" data-canonical="manual/external_fonts.html">
+      
+        <option value="en">English</option>
+      
+        <option value="zh-cn" selected>简体中文</option>
+      
+    </select>
+  </div>
+</nav>
+  <!-- Scripts -->
+<!-- Cookie -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
+<!-- build:js build/js/main.js -->
+<script src="/public/js/lang_select.js"></script>
+<script src="/public/js/toc.js"></script>
+<script src="/public/js/mobile_nav.js"></script>
+<!-- endbuild -->
+
+<!-- Algolia -->
+
+
+</body>
+</html>
