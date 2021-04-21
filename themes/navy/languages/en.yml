@@ -98,6 +98,7 @@ sidebar:
     sdl_workflow: SDL
     audit_workflow: audit workflow
     accounting_workflow: accounting_workflow
+    workflow_flow: workflow can flow
     ux: UX Design
     ux_ios: ios ux
     ux_android: android ux

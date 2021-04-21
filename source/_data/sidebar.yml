@@ -71,6 +71,7 @@ drawcase:
     sdl: sdl.html
     audit_workflow: audit_workflow.html
     accounting_workflow: accounting_workflow.html
+    workflow_flow: workflow_flow.html
   ux:
     ux_ios: ux_ios.html
     ux_android: ux_android.html

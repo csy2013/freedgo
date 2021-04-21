@@ -94,6 +94,7 @@ sidebar:
     sdl_workflow: SDL
     audit_workflow: 审批流
     accounting_workflow: accounting工作流
+    workflow_flow: 流动的流程图
     ux: UX设计
     ux_ios: ios设计
     ux_android: android设计
