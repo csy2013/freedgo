@@ -83,6 +83,7 @@ sidebar:
     erd_app: ER模型转Word
     erd_mysql: MySQL数据模型
     erd_theme: ER主题风格主题
+    erd_extends: ER逻辑和物理视图
     business_design: 业务设计
     bpmn: BPMN图
     organization: 组织机构图

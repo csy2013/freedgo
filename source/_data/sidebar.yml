@@ -60,6 +60,7 @@ drawcase:
     erd_postgresql: erd_postgresql.html
     erd_app: erd_app.html
     erd_theme: erd_theme.html
+    erd_extends: erd_extends.html
   business_design:
     bpmn: bpmn.html
     organization: organization.html

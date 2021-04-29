@@ -86,6 +86,7 @@ sidebar:
     erd_sqlserver: SQLServer ER model
     erd_postgresql: PostgreSQL ER Model
     erd_app: ER model app
+    erd_extends: ER Extends
     erd_theme: ER model theme
     business_design: business design
     bpmn: BPMN
