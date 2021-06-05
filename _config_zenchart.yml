@@ -1,0 +1,48 @@
+title: Freedgo Design:Focus on online drawing tools and ER model design
+subtitle: An online drawing platform
+description: Create various professional charts easily, quickly and collaboratively. Freedgo Design is an online drawing software for various types of charts, which allows you to create Alibaba Cloud Architecture Diagram Tencent Cloud Architecture Diagram Oracle Cloud Architecture Diagram AWS System Deployment Diagram Software Architecture Diagram, UML, BPMN, ERD, Flow Chart, UX Design Diagram, ANT DESIGN, Mind Map and Chart. Start a free trial now!
+keywords: Online drawing tools, online graph tools, graph tools, graph solutions, online graph manufacturers, online graph creators, online uml tools, graph software, online Alibaba Cloud deployment graph tools, online AWS deployment graph tools, online Tencent Cloud deployment graph tools, flow chart tools, engineering electrical online design, plan design, UX design, infographic manufacturer, infographic software, graph software, business online design, online graph editor
+author: Nanjing yuao software technology co., ltd
+language: en
+timezone: UTC
+
+url: https://www.freedgo.com
+root: /public
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+theme: navy
+deploy:
+  - type: cjh_google_url_submitter
+  - type: cjh_bing_url_submitter
+  - type: cjh_baidu_url_submitter
+highlight:
+  enable: true
+  line_number: false
+
+disqus_shortname: freedgo-design
+#google_analytics: UA-48498357-3
+fb_admins: 100000247608790
+algolia:
+  applicationID: SE79HO1X34
+  apiKey: e3bd7a46ce95447cea05b2470e6ea075
+  indexName: algolia-freedgo
+twitter: changsy2017
+github: csy2013/freedgo
+hexo_submit_urls_to_search_engine:
+  submit_condition: count #链接被提交的条件，可选值：count | period 现仅支持count
+  count: 10 # 提交最新的10个链接
+  period: 900 # 提交修改时间在 900 秒内的链接
+  google: 1 # 是否向Google提交，可选值：1 | 0（0：否；1：是）
+  bing: 1 # 是否向bing提交，可选值：1 | 0（0：否；1：是）
+  baidu: 1 # 是否向baidu提交，可选值：1 | 0（0：否；1：是）
+  txt_path: submit_urls.txt ## 文本文档名， 需要推送的链接会保存在此文本文档里
+  baidu_host: https://www.freedgo.com ## 在百度站长平台中注册的域名
+  baidu_token: e9avp4LG2sK9Gj9F ## 请注意这是您的秘钥， 所以请不要把它直接发布在公众仓库里!
+  bing_host: https://www.freedgo.com ## 在bing站长平台中注册的域名
+  bing_token: 4f07c4b77fcc460a9b0fc23f457c9d6f ## 请注意这是您的秘钥， 所以请不要把它直接发布在公众仓库里!
+  google_host: https://www.freedgo.com ## 在google站长平台中注册的域名
+  google_key_file: Project.json #存放google key的json文件，放于网站根目录（与hexo _config.yml文件位置相同），请不要把json文件内容直接发布在公众仓库里!
